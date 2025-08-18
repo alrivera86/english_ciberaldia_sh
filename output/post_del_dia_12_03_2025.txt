@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 12 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **URGENTE: Microsoft corrige 57 vulnerabilidades de seguridad.** Microsoft lanzó actualizaciones de seguridad para abordar 57 vulnerabilidades, incluyendo seis que se han explotado activamente. Las vulnerabilidades abarcan desde ejecución remota de código hasta escalación de privilegios, destacando la necesidad de que los usuarios apliquen las correcciones.
+
+2️⃣ Dos. **Apple lanza parche para vulnerabilidad de día cero en WebKit.** Apple ha emitido una actualización de seguridad para un fallo en WebKit, el cual ha sido explotado en ataques sofisticados. La vulnerabilidad permite a atacantes crear contenido web malicioso que puede sortear la sandbox de Web Content, afectando múltiples dispositivos.
+
+3️⃣ Tres. **Pentesters: ¿Está la IA reemplazando tu rol?** Se discute el impacto de la IA en el pentesting, sugiriendo que aunque ciertas tareas pueden ser automatizadas, la creatividad humana sigue siendo esencial. La IA puede facilitar el trabajo, permitiendo a los pentesters enfocarse en tareas más complejas y valiosas.
+
+4️⃣ Cuatro. **Más de 400 IPs explotan múltiples vulnerabilidades SSRF en ciberataque coordinado.** GreyNoise advierte sobre un aumento en la explotación de vulnerabilidades SSRF, con al menos 400 IPs atacando simultáneamente. Los ataques se han observado en varios países, destacando la importancia de aplicar parches y monitorear conexiones salientes.
+
+5️⃣ Cinco. **Hackers chinos comprometen routers de Juniper Networks.** El grupo de ciberespionaje UNC3886 ha atacado routers de Juniper, utilizando puertas traseras personalizadas. Estos ataques evidencian la capacidad de los adversarios para enfocarse en la infraestructura de red, lo que plantea un riesgo significativo para las organizaciones de telecomunicaciones y tecnología.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

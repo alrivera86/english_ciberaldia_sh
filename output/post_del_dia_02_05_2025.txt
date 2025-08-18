@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 02 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft establece contraseñas por defecto para nuevas cuentas.** La compañía anunció que las cuentas nuevas ahora serán "sin contraseña por defecto", promoviendo métodos de autenticación más seguros. Esto busca reducir los ataques cibernéticos que usan contraseñas, protegiendo mejor la información de los usuarios.
+
+2️⃣ Dos. **Co-op confirma robo de datos tras ataque de ransomware.** La empresa británica Co-op reveló que los hackers accedieron y robaron datos de muchos de sus clientes. Aunque no se filtraron contraseñas ni información financiera, el incidente destaca la creciente amenaza de los ataques cibernéticos en el sector retail.
+
+3️⃣ Tres. **MintsLoader entrega GhostWeaver mediante phishing.** Un nuevo malware llamado MintsLoader ha sido detectado, usado para instalar un troyano que permite a los hackers controlar computadoras a distancia. Este malware se esconde en correos electrónicos engañosos, mostrando la importancia de no abrir enlaces desconocidos.
+
+4️⃣ Cuatro. **TikTok multado con €530 millones por violar GDPR.** La plataforma fue sancionada por transferir datos de usuarios europeos a China sin garantizar su privacidad. Este caso resalta la necesidad de proteger nuestros datos personales y ser conscientes de cómo se manejan en internet.
+
+5️⃣ Cinco. **Automatizan respuesta a vulnerabilidades con Tines.** Una nueva herramienta ayuda a los equipos de seguridad a gestionar alertas de vulnerabilidades automáticamente. Esto reduce el tiempo de respuesta y mejora la eficiencia, permitiendo a los analistas concentrarse en tareas más críticas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

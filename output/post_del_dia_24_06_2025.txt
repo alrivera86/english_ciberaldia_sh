@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 24 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers explotan más de 70 servidores de Microsoft Exchange para robar credenciales.** Atacantes desconocidos han inyectado código malicioso en las páginas de inicio de sesión de servidores Microsoft Exchange expuestos, usando "keyloggers" para capturar contraseñas. Esto afecta a entidades en 26 países, incluyendo gobiernos y bancos.
+
+2️⃣ Dos. **Investigadores encuentran formas de cerrar campañas de criptomineros.** Expertos en ciberseguridad han desarrollado métodos para interrumpir botnets de minería de criptomonedas, utilizando debilidades en la estructura de minería. Estas técnicas pueden forzar a los atacantes a cambiar radicalmente su infraestructura.
+
+3️⃣ Tres. **Hackers explotan APIs mal configuradas de Docker para minar criptomonedas.** Un grupo de atacantes está utilizando la red Tor para ocultar su actividad al aprovechar configuraciones inadecuadas en Docker, permitiendo la instalación de mineros de criptomonedas en entornos vulnerables, como empresas tecnológicas y servicios financieros.
+
+4️⃣ Cuatro. **Nueva regla de visa en EE. UU. exige cuentas de redes sociales públicas.** La embajada de EE. UU. en India requiere que los solicitantes de visa hagan públicas sus cuentas de redes sociales para verificar su identidad. Esto es parte de un esfuerzo para aumentar la seguridad nacional en el proceso de emisión de visas.
+
+5️⃣ Cinco. **Conversación sobre la gestión continua de exposición a amenazas.** Expertos en ciberseguridad discuten cómo implementar estrategias efectivas de gestión de exposición de amenazas (CTEM) en entornos complejos, subrayando la importancia de conocer a los adversarios y validar controles de seguridad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

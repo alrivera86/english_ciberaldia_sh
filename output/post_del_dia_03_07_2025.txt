@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 03 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers chinos explotan vulnerabilidades en dispositivos Ivanti.** Un grupo de hackers de China ha atacado a varias entidades en Francia, utilizando vulnerabilidades de seguridad en dispositivos de Ivanti. Este ataque afecta sectores como gobierno, telecomunicaciones y finanzas, destacando la importancia de proteger sistemas críticos.
+
+2️⃣ Dos. **Vulnerabilidad crítica en Cisco permite acceso root.** Cisco ha identificado una grave falla en su software de comunicaciones que permitiría a un atacante acceder a sistemas como administrador. Esto podría poner en riesgo la privacidad de las comunicaciones en empresas, lo que subraya la necesidad de actualizar sistemas de seguridad.
+
+3️⃣ Tres. **Más de 40 extensiones maliciosas en Firefox roban criptomonedas.** Investigadores encontraron más de 40 extensiones en Firefox que imitan billeteras de criptomonedas para robar información sensible. Este tipo de amenazas destaca la importancia de descargar solo herramientas de fuentes confiables para proteger nuestros activos digitales.
+
+4️⃣ Cuatro. **Debilidades ocultas en herramientas de SOC impulsadas por IA.** No todas las herramientas de ciberseguridad basadas en inteligencia artificial son efectivas. Algunas dependen de modelos entrenados que pueden no adaptarse a nuevas amenazas, lo que resalta la necesidad de soluciones más flexibles y actualizadas en el campo de la ciberseguridad.
+
+5️⃣ Cinco. **Operaciones masivas de fraude en Android detectadas.** Se han desmantelado operaciones de fraude en Android que afectaban a millones de usuarios. Estas aplicaciones ocultas generaban anuncios engañosos, subrayando la necesidad de estar alertas al descargar aplicaciones y proteger nuestros dispositivos móviles.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

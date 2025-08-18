@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 08 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **SonicWall corrige 3 fallas en dispositivos SMA 100.** SonicWall ha lanzado parches para tres vulnerabilidades en sus dispositivos SMA 100, que podrían permitir a atacantes ejecutar código de forma remota. Es crucial que los usuarios actualicen sus sistemas para evitar riesgos.
+
+2️⃣ Dos. **Herramientas de seguridad no son suficientes: la efectividad importa.** Un estudio revela que el 61% de los líderes de seguridad sufrieron brechas por malas configuraciones, a pesar de contar con 43 herramientas de ciberseguridad. Esto muestra que la correcta implementación es clave para protegerse.
+
+3️⃣ Tres. **Ransomware Qilin lidera con 45 filtraciones de datos.** El grupo de ransomware Qilin ha sido el más activo en abril de 2025, utilizando técnicas avanzadas para atacar sectores como salud y finanzas. Su creciente presencia es una señal de alerta para empresas que manejan información sensible.
+
+4️⃣ Cuatro. **MirrorFace ataca Japón y Taiwán con malware.** Un grupo de ciberespionaje llamado MirrorFace ha lanzado ataques contra instituciones gubernamentales en Japón y Taiwán, usando correos de phishing para instalar malware. La vigilancia y medidas proactivas son esenciales para protegerse.
+
+5️⃣ Cinco. **Phishing masivo utiliza SEO para robar criptomonedas.** Investigadores han descubierto una operación de phishing que manipula SEO para robar frases semilla de billeteras de criptomonedas. Los atacantes crean páginas web engañosas que parecen legítimas, lo que resalta la necesidad de precaución al buscar información sobre criptomonedas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

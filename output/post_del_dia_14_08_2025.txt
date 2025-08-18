@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 14 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nueva ola de malware en Android afecta a bancos mediante fraude NFC.** Investigadores han descubierto un troyano llamado PhantomCard que utiliza la comunicación de campo cercano (NFC) para realizar transacciones fraudulentas en Brasil, robando datos de tarjetas de crédito de las víctimas.
+
+2️⃣ Dos. **Vulnerabilidad 'MadeYouReset' podría permitir ataques DoS masivos.** Se ha encontrado una nueva técnica que permite a los atacantes realizar ataques de denegación de servicio (DoS) al evadir límites de solicitudes en HTTP/2, lo que afecta a varios servidores web y aplicaciones.
+
+3️⃣ Tres. **Hackers utilizan CrossC2 para expandir el control sobre sistemas Linux y macOS.** Un nuevo marco de comando y control permite a los atacantes usar Cobalt Strike en múltiples plataformas, aumentando los riesgos para diversas organizaciones en todo el mundo.
+
+4️⃣ Cuatro. **Pasos simples para reducir la superficie de ataque en ciberseguridad.** Expertos sugieren que políticas como la autenticación multifactor y la prohibición de aplicaciones no autorizadas son claves para prevenir ataques cibernéticos desde el inicio.
+
+5️⃣ Cinco. **¿Has apagado tu horno virtual?** La gestión de la superficie de ataque externa ayuda a proteger tu infraestructura digital al detectar activos olvidados y vulnerabilidades, evitando incidentes costosos en la seguridad cibernética.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

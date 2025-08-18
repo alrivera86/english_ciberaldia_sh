@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 17 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft descubre nueva variante de malware XCSSET en macOS.** Microsoft ha identificado una nueva variante del malware XCSSET, que utiliza tácticas de ofuscación avanzadas y nuevos métodos de infección, dirigido a usuarios de macOS. Este malware puede comprometer proyectos de Xcode y exfiltrar datos de aplicaciones.
+
+2️⃣ Dos. **Corea del Sur suspende descargas de DeepSeek por violaciones de privacidad.** El gobierno surcoreano ha detenido las descargas del chatbot de IA DeepSeek hasta que cumpla con las regulaciones de protección de datos, tras identificar fallas en su manejo de información personal desde su lanzamiento.
+
+3️⃣ Tres. **Guía del CISO sobre CTEM y su importancia.** Un nuevo informe destaca la gestión continua de la exposición a amenazas (CTEM) como una estrategia proactiva esencial para abordar los riesgos cibernéticos actuales, combinando las fortalezas de la gestión de vulnerabilidades y la gestión de la superficie de ataque.
+
+4️⃣ Cuatro. **Recapitulación semanal de ciberseguridad: secretos de Google robados.** Los ciberdelincuentes han utilizado tácticas como el phishing por código de dispositivo para acceder a datos sensibles, mientras se reportan ataques contra más de 600 organizaciones globalmente, incluyendo sectores financieros y de salud.
+
+5️⃣ Cinco. **Nuevo backdoor en Golang utiliza la API de Telegram para C2.** Investigadores de ciberseguridad han descubierto un backdoor en Golang que emplea la API de Telegram para las comunicaciones de comando y control, permitiendo a los atacantes ejecutar comandos y mantener el acceso a sistemas comprometidos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

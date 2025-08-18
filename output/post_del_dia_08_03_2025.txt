@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 08 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Los Feds vinculan un ciberrobo de $150 millones con los hacks de LastPass de 2022.** Los agentes federales de EE. UU. han llegado a la conclusión de que una serie de ciberheists millonarios se deben a contraseñas maestras robadas de LastPass, lo que ha llevado a la confiscación de $24 millones en criptomonedas.
+
+2️⃣ Dos. **Youtubers extorsionados a través de strikes de copyright para difundir malware.** Cibercriminales están usando reclamaciones de copyright falsas para presionar a creadores de YouTube a que promuevan malware en sus videos, afectando a miles de usuarios, especialmente en Rusia.
+
+3️⃣ Tres. **Se encuentra una "puerta trasera" no documentada en chip Bluetooth usado por mil millones de dispositivos.** Investigadores españoles han descubierto una vulnerabilidad crítica en el chip ESP32, que podría permitir a atacantes acceder a dispositivos IoT, afectando su seguridad.
+
+4️⃣ Cuatro. **Desarrollador condenado por sabotear sistemas de su empleador.** Un desarrollador fue hallado culpable de instalar malware y un "interruptor de apagado" en la red de su ex-empleador tras ser despedido, causando pérdidas significativas a la empresa.
+
+5️⃣ Cinco. **Cibercriminales extorsionan a Youtubers para difundir malware.** Una nueva campaña está utilizando reclamaciones de copyright para coaccionar a creadores de contenido a promover versiones maliciosas de herramientas para eludir la censura en YouTube.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

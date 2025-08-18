@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 29 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Vulnerabilidades en Bluetooth permiten espiar a través del micrófono.** Investigadores han descubierto fallas en dispositivos Bluetooth que pueden ser utilizadas para espiar conversaciones o robar información sensible. 29 modelos de marcas como Sony y Bose están afectados. Aunque la explotación requiere habilidades técnicas, es un riesgo serio para la privacidad.
+
+2️⃣ Dos. **Cloudflare lanza Orange Meets con cifrado de extremo a extremo.** Cloudflare ha mejorado su app de videollamadas, Orange Meets, añadiendo cifrado para asegurar que solo los participantes puedan acceder a su contenido. Esta herramienta es un prototipo para desarrolladores interesados en la privacidad y la criptografía.
+
+3️⃣ Tres. **Google lanza Veo 3, generador de videos.** Google ha presentado Veo 3, un generador de videos que permite crear clips realistas usando inteligencia artificial. Aunque no es gratis, ofrece un periodo de prueba que permite explorar esta tecnología innovadora sin costo inicial.
+
+4️⃣ Cuatro. **Actualizaciones de firmware cruciales para dispositivos Bluetooth.** A pesar de la reciente revelación de vulnerabilidades, muchos dispositivos afectados aún no han recibido actualizaciones importantes. Los fabricantes deben actuar rápidamente para proteger a los usuarios de posibles ataques.
+
+5️⃣ Cinco. **Ciberseguridad en el foco tras ataques a entidades financieras.** Las entidades financieras enfrentan un aumento en los ataques cibernéticos, lo que resalta la necesidad de reforzar sus sistemas de seguridad. Expertos advierten sobre la importancia de mantenerse al día con las últimas medidas de protección.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

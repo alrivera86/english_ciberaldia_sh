@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 13 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft advierte sobre campaña de phishing ClickFix que afecta al sector hotelero.** Microsoft ha revelado una campaña de phishing que utiliza correos falsos de Booking.com para propagar malware robador de credenciales. Esta actividad busca realizar fraudes financieros y ha estado activa desde diciembre de 2024.
+
+2️⃣ Dos. **Grupo norcoreano ScarCruft despliega malware KoSpy en usuarios de Android.** ScarCruft ha desarrollado una herramienta de vigilancia llamada KoSpy que se disfraza como aplicaciones útiles en Google Play, recolectando datos sensibles de usuarios coreanos e hispanohablantes. Las aplicaciones han sido eliminadas de la tienda.
+
+3️⃣ Tres. **GitHub descubre nuevas vulnerabilidades en ruby-saml que permiten ataques de toma de cuenta.** Se han revelado dos fallas críticas en la biblioteca ruby-saml que podrían permitir a atacantes eludir protecciones de autenticación SAML, lo que resulta en la toma de control de cuentas. Se recomienda actualizar a las versiones seguras.
+
+4️⃣ Cuatro. **Meta alerta sobre vulnerabilidad en FreeType con riesgo de explotación activa.** Una falla en la biblioteca FreeType podría permitir ejecución remota de código al procesar ciertos archivos de fuente. Se aconseja a los usuarios actualizar a la versión más reciente para evitar riesgos.
+
+5️⃣ Cinco. **Tendencias y desafíos en continuidad de negocio para 2025.** Un informe revela que la confianza en los sistemas de respaldo está en declive, mientras las organizaciones luchan para proteger datos críticos en entornos híbridos, aumentando la superficie de ataque frente a nuevas amenazas cibernéticas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 23 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers de Corea del Norte roban $137M de usuarios de TRON en un ataque de phishing.** Grupos de amenazas vinculados a Corea del Norte han atacado a la comunidad de Web3 y criptomonedas, robando más de $137 millones en un solo día, usando técnicas de ingeniería social para engañar a las víctimas.
+
+2️⃣ Dos. **Hackers vinculados a Irán atacan Israel con malware MURKYTOUR.** Un grupo de amenazas de Irán ha utilizado una campaña de ingeniería social para distribuir el malware MURKYTOUR, disfrazado como una herramienta de reclutamiento para un contratista de defensa israelí, logrando acceso persistente a los sistemas afectados.
+
+3️⃣ Tres. **Spyware de Android disfrazado como aplicación Alpine Quest ataca dispositivos militares rusos.** Investigadores de ciberseguridad han descubierto que el personal militar ruso es el objetivo de una campaña que distribuye spyware oculto en la aplicación Alpine Quest, recopilando datos sensibles de los dispositivos infectados.
+
+4️⃣ Cuatro. **Hackers rusos explotan OAuth de Microsoft para atacar a aliados de Ucrania.** Actores vinculados a Rusia están utilizando técnicas de ingeniería social para obtener acceso no autorizado a cuentas de Microsoft 365 de individuos y organizaciones asociadas a Ucrania, usando aplicaciones de mensajería como Signal y WhatsApp.
+
+5️⃣ Cinco. **Tres razones por las que el navegador es mejor para detener ataques de phishing.** Los ataques de phishing están en aumento, y las soluciones de detección en el navegador ofrecen ventajas significativas al permitir la análisis en tiempo real de páginas maliciosas, mejorando la protección contra este tipo de amenazas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

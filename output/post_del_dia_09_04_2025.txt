@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 09 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **CISA advierte sobre vulnerabilidad crítica en CentreStack.** La CISA ha añadido una grave falla de seguridad en Gladinet CentreStack a su catálogo de vulnerabilidades explotadas, permitiendo la ejecución remota de código. La vulnerabilidad, CVE-2025-30406, está siendo activamente aprovechada y requiere actualización urgente.
+
+2️⃣ Dos. **Trojan PipeMagic explota vulnerabilidad de Windows.** Microsoft informó que una falla en el sistema de registro de Windows fue aprovechada en ataques de ransomware, afectando a sectores como IT y financiero en Venezuela. La vulnerabilidad fue parcheada en abril de 2025 tras su explotación.
+
+3️⃣ Tres. **Crecimiento explosivo de identidades no humanas.** El informe de GitGuardian destaca que las identidades no humanas superan a los usuarios humanos, aumentando los riesgos de seguridad. En 2024, se filtraron más de 23 millones de secretos en GitHub, evidenciando fallas en la gestión de credenciales.
+
+4️⃣ Cuatro. **Nuevo malware TCESB en ataques activos.** Un grupo de amenazas afiliado a China ha sido observado utilizando un fallo en el software de ESET para desplegar un malware no documentado llamado TCESB, diseñado para evadir herramientas de protección.
+
+5️⃣ Cinco. **Vulnerabilidad de Lovable AI facilita fraudes.** Se ha descubierto que Lovable, una plataforma de IA, es altamente vulnerable a ataques de tipo "VibeScamming", permitiendo a delincuentes crear páginas de phishing con facilidad, aprovechando su funcionalidad de generación de aplicaciones web.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

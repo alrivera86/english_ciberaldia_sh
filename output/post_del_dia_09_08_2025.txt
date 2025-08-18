@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 09 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Google confirma filtración de datos expuestos de potenciales clientes de Google Ads.** Google ha reconocido que una filtración reciente en su CRM de Salesforce comprometió la información de posibles clientes de Google Ads, incluyendo nombres de negocios y números de teléfono, sin afectar datos de pago.
+
+2️⃣ Dos. **Investigadores descubren gemas Ruby maliciosas que roban credenciales.** Se han encontrado 60 gemas Ruby con código malicioso que han sido descargadas más de 275,000 veces, apuntando a cuentas de desarrolladores, especialmente en Corea del Sur, para robar credenciales de acceso.
+
+3️⃣ Tres. **Fallas en CyberArk y HashiCorp permiten toma de control remota sin credenciales.** Se han detectado más de 14 vulnerabilidades en sistemas de seguridad de CyberArk y HashiCorp, que permitirían a atacantes remotos acceder a secretos corporativos sin necesidad de credenciales válidas.
+
+4️⃣ Cuatro. **Investigadores descubren jailbreak de GPT-5 y ataques a sistemas en la nube.** Investigadores han hallado una técnica para eludir los controles de ética de GPT-5, permitiendo que el modelo genere instrucciones ilícitas, lo que aumenta los riesgos en entornos empresariales.
+
+5️⃣ Cinco. **Fallas en webcams de Lenovo pueden ser explotadas para ataques BadUSB.** Investigadores revelaron vulnerabilidades en webcams de Lenovo que podrían convertirlas en dispositivos maliciosos, permitiendo a atacantes inyectar comandos sin necesidad de acceso físico.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

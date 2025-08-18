@@ -1,0 +1,9 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 05 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **La confusión entre misconfiguraciones y vulnerabilidades.** En el ámbito de la seguridad SaaS, muchas veces se confunden misconfiguraciones con vulnerabilidades. Esta confusión puede crear riesgos reales, ya que las misconfiguraciones son errores del usuario y no del software, lo que significa que los usuarios deben ser responsables de su correcta configuración.
+
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

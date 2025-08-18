@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 13 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nueva campaña de malware PS1Bot utiliza malvertising.** Investigadores de ciberseguridad han descubierto una campaña que distribuye un malware llamado PS1Bot, diseñado para robar información y controlar sistemas infectados. Este malware es modular y se ejecuta en la memoria para evitar ser detectado.
+
+2️⃣ Dos. **Actualizaciones críticas de seguridad de Zoom y Xerox.** Zoom y Xerox han lanzado actualizaciones para corregir fallas de seguridad que podrían permitir a atacantes ejecutar código de forma remota. Las vulnerabilidades afectan diversas versiones de sus software y representan un riesgo significativo si no son atendidas.
+
+3️⃣ Tres. **Fortinet alerta sobre vulnerabilidad en FortiSIEM.** Fortinet ha advertido sobre una grave falla de seguridad en FortiSIEM, que podría permitir a atacantes ejecutar comandos no autorizados. Se recomienda a los usuarios actualizar a las versiones más recientes para mitigar este riesgo.
+
+4️⃣ Cuatro. **El futuro del SOC impulsado por inteligencia artificial.** Se discute cómo las capacidades de inteligencia artificial están transformando los centros de operaciones de seguridad (SOC), mejorando la detección y respuesta ante amenazas cibernéticas, permitiendo a los analistas enfocarse en casos más complejos.
+
+5️⃣ Cinco. **Webinar sobre la próxima ola de ciberataques impulsados por IA.** Un nuevo webinar abordará cómo la inteligencia artificial está cambiando el panorama de los ciberataques, destacando la importancia de la identidad como última línea de defensa en la seguridad digital.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

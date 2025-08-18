@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 10 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft Teams bloqueará la captura de pantalla durante reuniones.** Microsoft está trabajando en una nueva función para Teams que impedirá a los usuarios capturar pantallas de información sensible compartida en reuniones. Si alguien intenta hacer una captura, la ventana de la reunión se volverá negra, protegiendo así la información compartida.
+
+2️⃣ Dos. **Generadores de videos falsos distribuyen nuevo malware Noodlophile.** Herramientas de generación de video falsas están siendo utilizadas para distribuir un nuevo malware llamado 'Noodlophile'. Este malware roba información confidencial y se oculta tras nombres engañosos, como "Dream Machine", haciéndose pasar por servicios avanzados de IA.
+
+3️⃣ Tres. **Alemania cierra eXch por lavado de dinero y confisca €34M en criptomonedas.** La policía alemana ha cerrado la plataforma de intercambio de criptomonedas eXch, acusada de facilitar el lavado de dinero. Durante la operación, se confiscaron 8 terabytes de datos y activos digitales valorados en 34 millones de euros.
+
+4️⃣ Cuatro. **Google paga $1.375 mil millones a Texas por seguimiento no autorizado.** Google acordó pagar casi $1.4 mil millones a Texas tras ser acusado de rastrear la ubicación de usuarios y recolectar datos biométricos sin permiso. Este acuerdo es un gran avance para la privacidad de los usuarios en el estado.
+
+5️⃣ Cinco. **Nueva función de Microsoft Teams evita capturas de pantalla.** Microsoft Teams lanzará una función que bloqueará la captura de pantalla durante reuniones, protegiendo la información compartida. Esta medida se implementará en julio de 2025, buscando mayor seguridad en el trabajo colaborativo.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

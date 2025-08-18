@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 23 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Google añade defensas múltiples para proteger su IA de ataques.** Google implementa nuevas medidas de seguridad en sus sistemas de IA generativa para prevenir ataques de inyección de comandos ocultos. Estas medidas buscan complicar y encarecer los intentos de ataques, mejorando la protección de sus modelos.
+
+2️⃣ Dos. **Advertencia del DHS sobre hackers proiraníes.** El gobierno de EE. UU. alertó sobre posibles ciberataques de grupos proiraníes tras ataques a instalaciones nucleares en Irán. Los hackers podrían dirigirse a redes estadounidenses, aumentando el riesgo de ataques disruptivos.
+
+3️⃣ Tres. **Malware XDigo ataca gobiernos de Europa del Este.** Investigadores descubrieron un malware llamado XDigo que ha estado atacando entidades gubernamentales en Europa del Este. Este malware utiliza archivos de acceso directo de Windows para desplegarse y robar información sensible.
+
+4️⃣ Cuatro. **Automatización con IA para reducir el agotamiento en SOCs.** Se propone el uso de inteligencia artificial para optimizar el trabajo de los analistas de seguridad, ayudándoles a manejar mejor las alertas y reducir la carga de trabajo repetitiva, lo que podría disminuir el agotamiento laboral.
+
+5️⃣ Cinco. **Nuevo método de jailbreak para modelos de IA.** Investigadores han identificado un método de jailbreak llamado "Echo Chamber" que permite engañar a modelos de IA para que generen respuestas no deseadas. Este ataque resalta desafíos en la ética y seguridad de la inteligencia artificial.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

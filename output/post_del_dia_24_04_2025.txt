@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 24 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Darcula agrega GenAI a su kit de phishing.** Los actores de amenazas detrás de la plataforma de phishing-as-a-service Darcula han actualizado su suite de cibercrimen con capacidades de inteligencia artificial generativa. Esto reduce la barrera técnica para crear páginas de phishing, permitiendo a criminales menos expertos implementar estafas personalizadas en minutos.
+
+2️⃣ Dos. **159 CVEs explotados en el primer trimestre de 2025.** Se han identificado 159 identificadores CVE como explotados en el primer trimestre de 2025, con un 28.3% de las vulnerabilidades siendo aprovechadas dentro de las 24 horas posteriores a su divulgación. La mayoría de las vulnerabilidades están en sistemas de gestión de contenido y dispositivos de red.
+
+3️⃣ Tres. **Automatización del Zero Trust en el sector salud.** Las organizaciones de salud enfrentan desafíos de ciberseguridad sin precedentes en 2025, con la convergencia de sistemas IT y médicos que amplía la superficie de ataque. Nuevos marcos regulatorios exigen controles de seguridad más estrictos, incluyendo la segmentación de redes para proteger información crítica.
+
+4️⃣ Cuatro. **Rootkit PoC de Linux evade herramientas de detección.** Investigadores han demostrado un rootkit de prueba de concepto llamado Curing, que utiliza un mecanismo de E/S asíncrono en Linux llamado io_uring para eludir la monitorización tradicional de llamadas al sistema. Esto representa un gran punto ciego en las herramientas de seguridad en tiempo de ejecución de Linux.
+
+5️⃣ Cinco. **Lazarus ataca a empresas surcoreanas.** El grupo Lazarus, vinculado a Corea del Norte, ha atacado al menos seis organizaciones en Corea del Sur como parte de la campaña Operation SyncHole. Las intrusiones han utilizado combinaciones sofisticadas de estrategias y explotación de vulnerabilidades en software coreano.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

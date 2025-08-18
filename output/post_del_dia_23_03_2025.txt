@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 23 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Advertencias del FBI sobre conversores de archivos falsos.** El FBI alerta que los conversores de documentos en línea falsos están siendo utilizados por ciberdelincuentes para robar información y desplegar ransomware en los dispositivos de las víctimas. Se recomienda precaución al usar estas herramientas.
+
+2️⃣ Dos. **Ataque a la cadena de suministro de GitHub afecta a Coinbase.** Un ataque dirigido inicialmente a un proyecto de código abierto de Coinbase evolucionó a una brecha más amplia, exponiendo secretos de 218 repositorios. Se estima que el ataque fue motivado por un posible robo de criptomonedas.
+
+3️⃣ Tres. **Hallazgos críticos en pruebas de penetración de red.** Un análisis de más de 10,000 pruebas de penetración reveló que muchas empresas tienen brechas de seguridad críticas. Los errores comunes incluyen configuraciones incorrectas y contraseñas débiles, que son fácilmente explotables por atacantes.
+
+4️⃣ Cuatro. **Campaña de espionaje de Aquatic Panda.** El grupo de amenazas persistentes avanzadas Aquatic Panda ha sido vinculado a una campaña de espionaje global que duró 10 meses, atacando organizaciones gubernamentales y ONG en varios países, incluyendo Taiwán y Turquía.
+
+5️⃣ Cinco. **Colaboración entre grupos de amenazas Head Mare y Twelve.** Kaspersky revela que los grupos Head Mare y Twelve han unido fuerzas para atacar entidades rusas, utilizando herramientas y servidores de comando y control en común, lo que sugiere una campaña de ataques coordinada.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 12 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Vulnerabilidad de inteligencia artificial expone datos de Microsoft 365 Copilot.** Un nuevo ataque llamado EchoLeak permite a los hackers robar datos sensibles de Microsoft 365 Copilot sin que el usuario haga clic en nada. Esto representa un grave riesgo de seguridad, ya que puede filtrar información sin el conocimiento de la víctima.
+
+2️⃣ Dos. **Identidades no humanas: cómo abordar el riesgo de seguridad creciente.** Las identidades no humanas, como cuentas de servicio y claves API, están en aumento y son un blanco fácil para los atacantes. GitGuardian está desarrollando herramientas para ayudar a las empresas a gestionar y asegurar estas identidades antes de que ocurran brechas de seguridad.
+
+3️⃣ Tres. **Ataque TokenBreak elude la moderación de IA con cambios mínimos.** Un nuevo método de ataque permite a los cibercriminales burlar los sistemas de moderación de texto de modelos de lenguaje de inteligencia artificial con solo cambiar un carácter. Esto deja a los sistemas vulnerables a mensajes maliciosos sin ser detectados.
+
+4️⃣ Cuatro. **Agentes de IA operan en cuentas secretas: aprende a protegerlas.** Los agentes de IA y los chatbots dependen de identidades invisibles que pueden ser vulnerables a ataques. Un próximo webinar abordará cómo asegurar estas identidades y evitar que los atacantes se aprovechen de ellas.
+
+5️⃣ Cinco. **WordPress se convierte en arma: cómo VexTrio opera una red global de estafas.** Grupos de cibercriminales están utilizando sitios de WordPress para distribuir contenido malicioso y estafas a través de una red de afiliados. Esto destaca la importancia de proteger las plataformas web contra estas amenazas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

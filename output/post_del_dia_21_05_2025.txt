@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 21 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Malware PureRAT se dispara 4x en 2025.** Organizaciones rusas están siendo atacadas por una campaña de phishing que distribuye malware llamado PureRAT. En los primeros meses de 2025, los ataques aumentaron cuatro veces en comparación con el año anterior, comprometiendo la seguridad de múltiples empresas.
+
+2️⃣ Dos. **Anuncios falsos de Kling AI en Facebook distribuyen malware.** Páginas y anuncios falsos en Facebook están engañando a usuarios para que descarguen malware, haciéndose pasar por Kling AI, una plataforma de inteligencia artificial. Este ataque ha alcanzado a más de 22 millones de personas, poniendo en riesgo sus datos personales.
+
+3️⃣ Tres. **Como detectar ataques de phishing más rápido.** Un análisis de cómo los equipos de seguridad pueden detectar engañosos correos electrónicos de phishing utilizando herramientas de sandbox. Estas herramientas permiten probar enlaces y archivos sospechosos sin arriesgar la seguridad del sistema, facilitando la identificación de amenazas.
+
+4️⃣ Cuatro. **Securing CI/CD workflows with Wazuh.** La automatización en la entrega de software puede aumentar la velocidad, pero también introduce riesgos de seguridad. Wazuh proporciona herramientas para monitorear y proteger estos procesos, asegurando que el desarrollo de software sea seguro y eficiente.
+
+5️⃣ Cinco. **Hackers rusos explotan vulnerabilidades para espiar logística en Ucrania.** Ciberatacantes han sido atribuidos a una campaña estatal que apunta a entidades de logística y tecnología en Occidente, utilizando vulnerabilidades en correos y VPNs para recopilar información sobre la ayuda a Ucrania.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

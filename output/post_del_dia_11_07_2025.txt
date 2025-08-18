@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 11 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Vulnerabilidades de Bluetooth exponen millones de vehículos a ejecución remota de código.** Investigadores encontraron fallas en el sistema Bluetooth de OpenSynergy que podrían permitir a atacantes ejecutar código en vehículos de marcas como Mercedes-Benz y Volkswagen. Esto podría comprometer funciones críticas del auto, como el GPS y los controles del motor.
+
+2️⃣ Dos. **Informe de riesgo de datos en la era de la IA.** Un nuevo informe revela que las herramientas impulsadas por IA están aumentando los riesgos de pérdida de datos en las empresas. Con más de 872 millones de violaciones de datos reportadas, es urgente que las organizaciones adopten estrategias de seguridad más robustas para proteger su información sensible.
+
+3️⃣ Tres. **Vulnerabilidad crítica en Wing FTP Server en explotación activa.** Se ha identificado una falla grave en Wing FTP Server que permite a los atacantes ejecutar código de forma remota. Esta vulnerabilidad, clasificada con un puntaje CVSS de 10.0, requiere que los usuarios actualicen a la versión más reciente para evitar ser víctimas de ataques.
+
+4️⃣ Cuatro. **Ransomware iraní Pay2Key vuelve con mayores recompensas.** Un ransomware iraní ha resurgido, ofreciendo un 80% de ganancias a los cibercriminales que ataquen a Israel y EE. UU. Este grupo está vinculado a operaciones de ciberespionaje y busca beneficiarse de la actual tensión geopolítica.
+
+5️⃣ Cinco. **Fortinet lanza parches para una falla crítica en FortiWeb.** Se descubrió una vulnerabilidad en FortiWeb que podría permitir a atacantes no autenticados ejecutar comandos en bases de datos. Los usuarios deben actualizar a la última versión para protegerse de posibles ataques.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

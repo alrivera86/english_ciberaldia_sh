@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 10 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Investigadores Exponen Nuevo Ataque Polimórfico que Clona Extensiones de Navegador.** Investigadores en ciberseguridad han demostrado una técnica que permite que una extensión de navegador maliciosa se haga pasar por cualquier complemento instalado, robando credenciales de usuarios sin que estos se den cuenta.
+
+2️⃣ Dos. **Desert Dexter Ataca a 900 Víctimas Usando Anuncios de Facebook y Enlaces de Malware en Telegram.** Una campaña en Medio Oriente y África del Norte ha distribuido una versión modificada de AsyncRAT, utilizando redes sociales para infectar a usuarios, principalmente en países como Libia y Arabia Saudita, con un malware que roba información crítica.
+
+3️⃣ Tres. **Por qué Google Workspace Necesita Seguridad Unificada.** A medida que Google Workspace facilita la colaboración, se presentan nuevos desafíos de seguridad. Los ciberdelincuentes están aprovechando configuraciones erróneas y robando datos sensibles, lo que resalta la necesidad de una estrategia de seguridad unificada.
+
+4️⃣ Cuatro. **Resumen Semanal de THN: Nuevos Ataques, Viejos Trucos, Mayor Impacto.** Las amenazas cibernéticas están evolucionando rápidamente, poniendo a prueba la resiliencia de sistemas financieros y de infraestructura crítica. Se destacan ataques dirigidos a la cadena de suministro y la aparición de nuevos grupos de ransomware.
+
+5️⃣ Cinco. **SilentCryptoMiner Infecciona a 2,000 Usuarios Rusos a Través de Falsas Herramientas de VPN.** Una nueva campaña de malware está infectando usuarios con un minero de criptomonedas disfrazado como herramienta para eludir bloqueos de internet, comprometiendo la seguridad de más de 2,000 usuarios en Rusia.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

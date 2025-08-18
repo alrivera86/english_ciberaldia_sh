@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 01 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Más de 1,500 servidores PostgreSQL comprometidos en campaña de minería de criptomonedas.** Una campaña activa ha comprometido más de 1,500 instancias de PostgreSQL expuestas, utilizando técnicas de evasión de defensa para implementar mineros de criptomonedas. Se advierte sobre la prevalencia de credenciales débiles como un vector de ataque.
+
+2️⃣ Dos. **Usuarios de Gmail empresarial pueden enviar correos electrónicos cifrados de extremo a extremo.** Google ha anunciado una actualización que permite a los usuarios de Gmail empresarial enviar correos electrónicos cifrados de extremo a extremo a cualquier plataforma, simplificando el proceso de cifrado y mejorando la privacidad y seguridad.
+
+3️⃣ Tres. **Lucid PhaaS ataca 169 objetivos en 88 países mediante smishing.** Una nueva plataforma de phishing como servicio llamada Lucid ha dirigido ataques a 169 entidades en 88 países utilizando mensajes de smishing a través de iMessage y RCS, eludiendo mecanismos tradicionales de detección de SMS.
+
+4️⃣ Cuatro. **Apple corrige vulnerabilidades críticas en dispositivos iOS y macOS.** Apple ha lanzado correcciones para tres vulnerabilidades activamente explotadas en modelos antiguos de iOS y macOS, recomendando a los usuarios actualizar sus dispositivos para protegerse contra posibles amenazas.
+
+5️⃣ Cinco. **Casi 24,000 IPs atacan PAN-OS GlobalProtect en campaña de escaneo de inicio de sesión.** Investigadores han detectado un aumento en la actividad de escaneo de inicio de sesión en puertas de enlace GlobalProtect de Palo Alto Networks, con casi 24,000 direcciones IP únicas intentando acceder a estos portales, lo que sugiere un esfuerzo coordinado para identificar sistemas vulnerables.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

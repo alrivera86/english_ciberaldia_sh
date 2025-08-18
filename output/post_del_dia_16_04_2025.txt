@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 16 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Gamma AI Platform Abused in Phishing Chain to Spoof Microsoft SharePoint Logins.** Actores de amenazas están utilizando la plataforma de presentación impulsada por inteligencia artificial llamada Gamma en ataques de phishing, dirigiendo a los usuarios a páginas de inicio de sesión falsas de Microsoft SharePoint. El ataque comienza con un correo electrónico de phishing que engaña a los destinatarios a hacer clic en un PDF malicioso.
+
+2️⃣ Dos. **New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks.** Investigadores de ciberseguridad han descubierto un nuevo componente controlador asociado con el backdoor BPFDoor, utilizado en ataques cibernéticos en sectores como telecomunicaciones y finanzas en Asia. Este controlador permite el movimiento lateral, facilitando el acceso a datos sensibles en redes comprometidas.
+
+3️⃣ Tres. **From Third-Party Vendors to U.S. Tariffs: The New Cyber Risks Facing Supply Chains.** Las amenazas cibernéticas que afectan las cadenas de suministro están en aumento, con ataques dirigidos a proveedores de terceros. Estos ataques pueden comprometer datos sensibles y operaciones críticas, subrayando la importancia de estrategias de seguridad proactivas para mitigar riesgos.
+
+4️⃣ Cuatro. **Google Blocked 5.1B Harmful Ads and Suspended 39.2M Advertiser Accounts in 2024.** Google informó que suspendió más de 39.2 millones de cuentas de anunciantes en 2024, bloqueando 5.1 mil millones de anuncios dañinos. La empresa utilizó herramientas de inteligencia artificial para identificar y mitigar fraudes publicitarios.
+
+5️⃣ Cinco. **Experts Uncover Four New Privilege Escalation Flaws in Windows Task Scheduler.** Investigadores han descubierto cuatro vulnerabilidades en el servicio de programación de tareas de Windows que podrían ser explotadas por atacantes locales para obtener privilegios elevados y manipular registros, permitiendo acceso no autorizado a sistemas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

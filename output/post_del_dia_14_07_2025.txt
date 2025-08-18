@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 14 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **CBI desmantela estafa de soporte técnico de £390,000 en el Reino Unido.** La Oficina Central de Investigación de India ha cerrado un call center en Noida que estafó a ciudadanos de Australia y el Reino Unido, haciéndose pasar por personal de soporte técnico de empresas como Microsoft.
+
+2️⃣ Dos. **Vulnerabilidad en tarjetas eSIM expone a miles de millones de dispositivos IoT.** Investigadores han descubierto fallas en la tecnología eSIM que podrían permitir a atacantes acceder a dispositivos IoT y robar información, afectando a más de dos mil millones de SIMs en uso.
+
+3️⃣ Tres. **Nueva variante del RAT Interlock apuntando a múltiples industrias.** Un grupo de ransomware ha lanzado una variante PHP de su troyano de acceso remoto, usando un mecanismo de entrega que engaña a los usuarios para ejecutar scripts maliciosos en sus dispositivos.
+
+4️⃣ Cuatro. **Arrestos por ataques cibernéticos en el Reino Unido.** La Agencia Nacional del Crimen del Reino Unido ha arrestado a cuatro jóvenes vinculados a un grupo cibernético que atacó a grandes minoristas. Los arrestos destacan la creciente amenaza de la ciberdelincuencia organizada.
+
+5️⃣ Cinco. **Vulnerabilidad crítica en Fortinet podría permitir ataques remotos.** Fortinet ha corregido una falla de inyección SQL que podría permitir a un atacante ejecutar comandos en bases de datos de manera no autorizada, resaltando la importancia de mantener actualizadas las soluciones de seguridad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

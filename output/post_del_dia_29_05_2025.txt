@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 29 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Más de 100,000 sitios de WordPress en riesgo por vulnerabilidad crítica.** Investigadores revelaron una falla en el plugin TI WooCommerce Wishlist, permitiendo a atacantes no autenticados subir archivos maliciosos. Esta vulnerabilidad, con un puntaje CVSS de 10.0, afecta a todas las versiones anteriores a la 2.9.2 y no tiene parche disponible.
+
+2️⃣ Dos. **APT41 chino usa Google Calendar para operaciones de malware.** Google informó que el grupo de amenazas APT41 utilizó un malware llamado TOUGHPROGRESS, aprovechando Google Calendar para su control. Este malware, alojado en un sitio web gubernamental comprometido, apunta a diversas entidades gubernamentales.
+
+3️⃣ Tres. **DragonForce explota fallos en SimpleHelp para desplegar ransomware.** Los atacantes de DragonForce accedieron a un proveedor de servicios administrados y usaron sus herramientas para robar datos y lanzar ransomware en múltiples dispositivos. Este ataque resalta la sofisticación de las tácticas de cibercriminales.
+
+4️⃣ Cuatro. **Nuevo RAT de Windows evade detección durante semanas.** Investigadores de Fortinet descubrieron un malware con encabezados DOS y PE corruptos, que operó en una máquina comprometida durante semanas. Este troyano de acceso remoto (RAT) permite a los atacantes capturar pantallas y controlar el sistema.
+
+5️⃣ Cinco. **Cibercriminales atacan a usuarios de AI con instaladores maliciosos.** Se están usando falsos instaladores de herramientas de inteligencia artificial como ChatGPT para propagar ransomware y otros malware. Los atacantes engañan a los usuarios para que descarguen software que compromete sus sistemas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

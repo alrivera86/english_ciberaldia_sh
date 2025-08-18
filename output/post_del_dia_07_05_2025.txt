@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 07 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Play Ransomware Aprovechó una Vulnerabilidad de Windows para Atacar a una Organización de EE.UU.** Un grupo de cibercriminales utilizó una falla en Windows para infiltrarse en una entidad en Estados Unidos. La vulnerabilidad, que permite escalar privilegios, fue parcheada por Microsoft, pero se sospecha que ya estaba en manos de varios atacantes.
+
+2️⃣ Dos. **SysAid Soluciona Cuatro Fallas Críticas que Permitían Ejecución Remota de Código.** Se descubrieron múltiples vulnerabilidades en el software de soporte técnico SysAid, que permitían a los atacantes ejecutar comandos maliciosos sin autenticación. La empresa lanzó actualizaciones para corregir estos problemas y proteger a sus usuarios.
+
+3️⃣ Tres. **Plugin de WordPress con Más de 100K Instalaciones Sufre Explotación Activa.** El plugin OttoKit tiene una falla grave que permite a atacantes escalar privilegios. Se recomienda a los usuarios actualizar a la versión más reciente para evitar ser víctimas de estos ataques.
+
+4️⃣ Cuatro. **Europol Cierra Servicios de DDoS por Contrato Utilizados en Ataques Globales.** Europol ha desmantelado varios servicios que permitían a los criminales lanzar ataques DDoS. Se arrestaron a cuatro sospechosos y se incautaron dominios asociados a estos servicios ilegales.
+
+5️⃣ Cinco. **Reevaluación de Plataformas SSE: Análisis de las Brechas de Protección.** Un nuevo informe destaca las limitaciones de las arquitecturas de Seguridad como Servicio (SSE), que no protegen adecuadamente las actividades más sensibles de los usuarios en los navegadores, dejando a las organizaciones vulnerables a ataques.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

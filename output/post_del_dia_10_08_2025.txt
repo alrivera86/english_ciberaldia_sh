@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 10 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Investigadores detallan cadena de explotación de Windows EPM.** Investigadores de ciberseguridad han revelado una vulnerabilidad en el protocolo de comunicación RPC de Windows, que permite a atacantes suplantar servidores. Esta falla, ahora corregida, podría ser utilizada para escalar privilegios y comprometer la seguridad de sistemas.
+
+2️⃣ Dos. **Nuevas fallas de Win-DDoS amenazan servidores.** Investigadores han descubierto una técnica que permite a atacantes transformar controladores de dominio públicos en una botnet para llevar a cabo ataques DDoS. Esta técnica, llamada Win-DDoS, destaca por su capacidad de causar daño sin necesidad de infraestructura adicional ni de ser detectado fácilmente.
+
+3️⃣ Tres. **Fallas en CyberArk y HashiCorp permiten toma de control remota sin credenciales.** Se han detectado más de 14 vulnerabilidades en sistemas de seguridad de CyberArk y HashiCorp, que permitirían a atacantes remotos acceder a secretos corporativos sin necesidad de credenciales válidas.
+
+4️⃣ Cuatro. **Investigadores descubren jailbreak de GPT-5 y ataques a sistemas en la nube.** Investigadores han hallado una técnica para eludir los controles de ética de GPT-5, permitiendo que el modelo genere instrucciones ilícitas, lo que aumenta los riesgos en entornos empresariales.
+
+5️⃣ Cinco. **Fallas en webcams de Lenovo pueden ser explotadas para ataques BadUSB.** Investigadores revelaron vulnerabilidades en webcams de Lenovo que podrían convertirlas en dispositivos maliciosos, permitiendo a atacantes inyectar comandos sin necesidad de acceso físico.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

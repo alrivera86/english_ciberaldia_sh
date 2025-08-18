@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 21 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers Abusan de Hosting Bulletproof Ruso Proton66 para Ataques Globales.** Investigadores de ciberseguridad han detectado un aumento en intentos de escaneo masivo y abuso de credenciales provenientes de la infraestructura de Proton66, un proveedor ruso de hosting. Las actividades incluyen intentos de explotación de vulnerabilidades críticas desde enero de 2025.
+
+2️⃣ Dos. **Malware SuperCard X Habilita Fraude en Cajeros Automáticos y PoS.** Una nueva plataforma de malware para Android, SuperCard X, permite ataques de relé NFC, facilitando a los delincuentes realizar retiros fraudulentos. Este malware ha sido observado atacando a clientes de instituciones bancarias en Italia mediante técnicas de ingeniería social.
+
+3️⃣ Tres. **Campaña Maliciosa de Kimsuky Aprovecha Vulnerabilidades de Microsoft.** Investigadores han identificado una nueva campaña del grupo norcoreano Kimsuky que explota una vulnerabilidad en los servicios de escritorio remoto de Microsoft, afectando principalmente a sectores de software, energía y finanzas en Corea del Sur y Japón.
+
+4️⃣ Cuatro. **Vulnerabilidad en Windows NTLM Explotada por Actores Maliciosos.** Una vulnerabilidad recientemente parcheada en Windows NTLM ha sido activamente explotada para filtrar hashes de NTLM y contraseñas de usuario desde marzo de 2025, afectando sistemas en diversas regiones, incluyendo Colombia.
+
+5️⃣ Cinco. **Apple Soluciona Dos Vulnerabilidades Activas en iOS.** Apple ha lanzado correcciones para dos vulnerabilidades de seguridad en iOS que han sido utilizadas en ataques sofisticados dirigidos a individuos específicos, abordadas en la reciente actualización del sistema operativo.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

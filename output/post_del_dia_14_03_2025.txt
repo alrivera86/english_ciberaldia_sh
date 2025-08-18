@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 14 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nuevo malware MassJacker ataca a usuarios de piratería, secuestrando transacciones de criptomonedas.** Un nuevo malware llamado MassJacker está dirigido a usuarios que buscan software pirata, monitoreando el portapapeles de las víctimas para robar criptomonedas al sustituir direcciones de billeteras con las del atacante.
+
+2️⃣ Dos. **Muestra en vivo de Ransomware: Cómo los hackers vulneran redes y exigen un rescate.** Un seminario web en vivo mostrará cómo se llevan a cabo los ataques de ransomware desde la violación inicial hasta la demanda de pago, desglosando cada paso técnico con ejemplos del mundo real.
+
+3️⃣ Tres. **GSMA confirma cifrado de extremo a extremo para RCS, habilitando mensajería segura.** La GSMA ha anunciado el soporte para cifrado de extremo a extremo en el protocolo RCS, mejorando la seguridad de los mensajes entre plataformas Android e iOS.
+
+4️⃣ Cuatro. **Por qué la mayoría de los proyectos de microsegmentación fracasan—y cómo Andelyn Biosciences lo logró.** Andelyn Biosciences superó los desafíos comunes en los proyectos de microsegmentación, implementando políticas de acceso de privilegios mínimos sin alterar operaciones críticas en la investigación farmacéutica.
+
+5️⃣ Cinco. **Desarrollador de LockBit extraditado a EE. UU. por cargos de cibercriminalidad.** Rostislav Panev, presunto desarrollador del grupo de ransomware LockBit, fue extraditado a EE. UU. después de ser acusado de participar en un esquema de cibercrimen que afectó a más de 2,500 entidades en 120 países.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

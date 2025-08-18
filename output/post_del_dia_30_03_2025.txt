@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 30 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nuevo malware Crocodilus roba claves de billeteras de criptomonedas de usuarios de Android.** Un malware recién descubierto engaña a los usuarios para que proporcionen la frase semilla de sus billeteras de criptomonedas, utilizando advertencias para respaldar su clave y evitar perder acceso. Este malware ha sido observado en Turquía y España.
+
+2️⃣ Dos. **Microsoft prueba una nueva herramienta de Windows 11 para solucionar fallos de arranque.** La herramienta, llamada Quick Machine Recovery, permite a Microsoft aplicar soluciones de forma remota a dispositivos que no inician correctamente, mejorando la estabilidad del sistema y reduciendo el tiempo de inactividad.
+
+3️⃣ Tres. **Microsoft elimina el script que permitía evitar la cuenta de Microsoft en Windows 11.** La compañía ha retirado el script 'BypassNRO.cmd', que permitía a los usuarios omitir la necesidad de una cuenta de Microsoft al instalar el sistema operativo, buscando mejorar la seguridad y la experiencia del usuario.
+
+4️⃣ Cuatro. **Nuevo malware RESURGE explota vulnerabilidad en Ivanti.** Un malware llamado RESURGE ha sido desplegado para explotar una vulnerabilidad en los dispositivos Ivanti Connect Secure, incorporando capacidades avanzadas como rootkits y web shells para el robo de credenciales.
+
+5️⃣ Cinco. **Microsoft lanza una nueva función para la recuperación rápida en Windows 11.** La función de recuperación rápida se implementará para ayudar a los usuarios a restaurar sus sistemas de manera eficiente tras fallos y caídas, eliminando la necesidad de intervenciones manuales complejas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

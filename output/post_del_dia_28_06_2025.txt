@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 28 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **El FBI advierte sobre los ataques de Scattered Spider en aerolíneas.** El FBI ha informado que el grupo cibernético Scattered Spider ha comenzado a atacar el sector aéreo, utilizando técnicas de ingeniería social para engañar a los empleados y obtener acceso a sistemas críticos. Esto puede llevar a robos de datos y extorsiones.
+
+2️⃣ Dos. **Malware GIFTEDCROOK se transforma en herramienta de espionaje.** El malware GIFTEDCROOK ha evolucionado, pasando de robar datos de navegadores a recopilar documentos sensibles de dispositivos. Este cambio se relaciona con campañas de espionaje dirigidas a entidades gubernamentales en Ucrania, afectando la seguridad de información crítica.
+
+3️⃣ Tres. **Nueva herramienta de IA de Facebook genera preocupaciones de privacidad.** Facebook ha lanzado una herramienta que solicita a los usuarios subir fotos para crear historias personalizadas. Esto ha suscitado inquietudes sobre cómo se manejarán los datos personales, incluso si no se utilizarán para publicidad, dejando dudas sobre la privacidad de los usuarios.
+
+4️⃣ Cuatro. **Ciberataques avanzan con técnicas de ingeniería social.** Los ataques cibernéticos ya no son solo correos phishing. Grupos como Scattered Spider están utilizando métodos sofisticados de suplantación de identidad para acceder a cuentas críticas, lo que resalta la necesidad de mejorar los procesos de verificación de identidad en las empresas.
+
+5️⃣ Cinco. **Facebook y la privacidad: un dilema constante.** Con su nueva función que permite procesar fotos en la nube, Facebook enfrenta críticas sobre la protección de datos. Aunque los usuarios pueden optar por no participar, la falta de claridad sobre el uso de sus imágenes genera preocupación sobre la privacidad en línea.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

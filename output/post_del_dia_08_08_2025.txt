@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 08 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Credenciales filtradas aumentan un 160%: lo que hacen los atacantes con ellas.** Las credenciales filtradas representan el 22% de las brechas de seguridad en 2024, un aumento significativo en la actividad delictiva. Los atacantes usan estas credenciales para entrar a cuentas, enviar correos de phishing y realizar fraudes financieros.
+
+2️⃣ Dos. **Paquetes maliciosos en RubyGems y PyPI roban credenciales y criptomonedas.** Se han descubierto 60 paquetes maliciosos en RubyGems que aparentan ser herramientas de automatización. Estos roban credenciales de usuarios. También se han detectado paquetes en PyPI que tienen como objetivo robar criptomonedas de billeteras.
+
+3️⃣ Tres. **GreedyBear roba más de $1 millón en criptomonedas usando falsas extensiones de Firefox.** Un grupo delincuente ha creado más de 150 extensiones maliciosas en Firefox que imitan billeteras populares. Estas extensiones capturan las credenciales de los usuarios y roban sus activos digitales.
+
+4️⃣ Cuatro. **Herramientas de IA alimentan un fraude en Brasil a través de phishing.** Se ha detectado una campaña de phishing en Brasil que utiliza herramientas de inteligencia artificial para crear sitios fraudulentos que imitan agencias gubernamentales, engañando a los usuarios para que realicen pagos no autorizados.
+
+5️⃣ Cinco. **Las credenciales filtradas se convierten en moneda para los atacantes.** Con un aumento del 160% en las filtraciones, los atacantes utilizan credenciales robadas para acceder a cuentas, realizar ataques automatizados y distribuir spam, lo que genera un impacto significativo en la seguridad de las organizaciones.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

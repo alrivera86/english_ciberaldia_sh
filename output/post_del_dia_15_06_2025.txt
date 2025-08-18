@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 15 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Más de 46,000 instancias de Grafana expuestas a un bug de toma de cuentas.** Más de 46,000 instancias de Grafana en internet están desactualizadas y vulnerables a un error que permite la ejecución de un plugin malicioso y toma de cuentas. Este fallo afecta a usuarios que no lo han parcheado desde mayo.
+
+2️⃣ Dos. **Actualización de ChatGPT busca desafiar a Google.** OpenAI ha mejorado su función de búsqueda en ChatGPT para ofrecer respuestas más precisas y completas, desafiando así la supremacía de Google. Ahora, puede recordar conversaciones más largas para mejorar la calidad de las respuestas.
+
+3️⃣ Tres. **Codex de ChatGPT ahora te ayuda a elegir la mejor solución.** La herramienta de codificación de OpenAI, Codex, ha lanzado una nueva función que permite a los usuarios seleccionar la mejor solución entre múltiples opciones. Esto promete facilitar la programación y mejorar la eficiencia de los desarrolladores.
+
+4️⃣ Cuatro. **Windows 11: usuarios piden el regreso de funciones perdidas.** Usuarios de Windows 11 están exigiendo el regreso de características que fueron eliminadas, como mover la barra de tareas. Las quejas han acumulado miles de votos en el Feedback Hub, lo que demuestra el descontento con el sistema operativo.
+
+5️⃣ Cinco. **Ciberataques afectan a empresas en América del Norte y Europa.** Diversas empresas han sido impactadas por ciberataques que han interrumpido sus operaciones. Las investigaciones están en curso, pero se teme que la tendencia de cibercriminalidad siga en aumento, poniendo en riesgo datos sensibles.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

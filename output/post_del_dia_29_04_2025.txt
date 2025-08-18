@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 29 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **WhatsApp lanza procesamiento privado para habilitar funciones de IA.** La popular aplicación de mensajería WhatsApp presentó una nueva tecnología que permite usar inteligencia artificial de manera que se respete la privacidad de los usuarios, asegurando que sus mensajes permanezcan seguros mientras disfrutan de funciones útiles.
+
+2️⃣ Dos. **Nuevos informes revelan riesgos de seguridad en sistemas de IA.** Varios servicios de inteligencia artificial han mostrado vulnerabilidades a ataques que permiten generar contenido peligroso. Investigadores advierten que estas fallas pueden ser aprovechadas para crear malware o phishing, poniendo en riesgo a los usuarios.
+
+3️⃣ Tres. **SentinelOne descubre una campaña de espionaje chino.** La empresa de ciberseguridad SentinelOne informó sobre intentos de espionaje dirigidos por un grupo vinculado a China. Este grupo ha atacado su infraestructura y clientes, destacando la creciente amenaza de ataques cibernéticos estatales en el sector tecnológico.
+
+4️⃣ Cuatro. **Google reporta 75 vulnerabilidades de día cero en 2024.** Google ha revelado que 75 vulnerabilidades fueron explotadas en 2024, un descenso respecto al año anterior. El 44% de estas vulnerabilidades estuvo dirigido a productos empresariales, indicando un enfoque creciente en atacar sistemas críticos.
+
+5️⃣ Cinco. **Reco asegura Microsoft Copilot contra riesgos de seguridad.** Reco, una plataforma de seguridad SaaS, está implementando medidas para proteger a Microsoft 365 Copilot de posibles amenazas. Esto incluye el análisis de los comandos que los usuarios dan a Copilot, asegurando que no expongan información sensible.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 21 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Apple elimina la Protección Avanzada de Datos de iCloud en el Reino Unido.** Apple ha retirado su función de Protección Avanzada de Datos (ADP) para iCloud en el Reino Unido tras demandas gubernamentales por acceso a datos cifrados. Esto limita la privacidad de los usuarios, dejando sus datos más vulnerables a las autoridades.
+
+2️⃣ Dos. **Filtración de datos revela el papel de TopSec en la censura en China.** Un análisis de una filtración de datos de la empresa china TopSec indica que ofrece soluciones de censura como servicio a clientes, incluyendo empresas estatales. Los documentos filtrados sugieren que se utilizan para monitorear y controlar la opinión pública.
+
+3️⃣ Tres. **Los cibercriminales pueden clonar sitios web de marcas en minutos.** La nueva versión de la plataforma Darcula permite a los delincuentes crear versiones de phishing de cualquier sitio web legítimo en minutos, reduciendo la experiencia técnica necesaria para realizar ataques de phishing a gran escala.
+
+4️⃣ Cuatro. **Webinar: Identificación de brechas de identidad de alto riesgo.** En un entorno digital en rápida evolución, la seguridad de identidad débil es un riesgo mayor. Un webinar promete estrategias prácticas para detectar y solucionar vulnerabilidades en la seguridad de identidad antes de que se conviertan en problemas costosos.
+
+5️⃣ Cinco. **La desinformación impulsada por IA es una amenaza para nuestras sociedades.** La manipulación de información mediante IA está afectando la percepción pública y el proceso democrático. Las tecnologías emergentes facilitan la creación de contenido engañoso, lo que pone en riesgo la confianza en la información veraz.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

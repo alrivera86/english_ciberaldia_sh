@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 08 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Extensiones maliciosas infectan a más de 700 usuarios en América Latina.** Investigadores de ciberseguridad han descubierto una campaña que infecta a usuarios brasileños con una extensión maliciosa para navegadores. Esta extensión roba datos de autenticación y ha sido descargada 722 veces, afectando a empresas en varios países de la región.
+
+2️⃣ Dos. **Nuevo botnet Mirai infecta dispositivos DVR.** Una variante del malware Mirai está aprovechando una vulnerabilidad en dispositivos de grabación de video digital para secuestrarlos. Esto permite que los atacantes usen estos dispositivos para realizar ataques de denegación de servicio (DDoS) y otras actividades maliciosas.
+
+3️⃣ Tres. **Crédit Populaire d’Algérie es blanco de hackers.** Un grupo de hackers ha accedido a los sistemas de Crédit Populaire d’Algérie, filtrando 30 GB de datos sensibles. Amenazan con hacer públicos documentos confidenciales si no se comunican con ellos, lo que pone en riesgo la seguridad del banco y sus clientes.
+
+4️⃣ Cuatro. **Sitio web del gobierno de North Sulawesi es hackeado.** Un grupo de hacktivistas ha comprometido el sitio web oficial del gobierno provincial, filtrando una base de datos con información sensible. La acción es un acto de protesta contra planes ambientales, destacando la creciente tendencia del hacktivismo.
+
+5️⃣ Cinco. **Nueva campaña de malware imita herramientas de crecimiento en Instagram.** Se ha descubierto un nuevo software malicioso en el repositorio de Python que se presenta como una herramienta para aumentar seguidores en Instagram, robando credenciales de los usuarios bajo falsas promesas de éxito en redes sociales.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

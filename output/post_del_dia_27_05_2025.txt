@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 27 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Empleados buscan portales de nómina y son engañados para enviar cheques a hackers.** Investigadores han descubierto una nueva campaña que utiliza técnicas de SEO para engañar a los empleados a acceder a páginas falsas de nómina, redirigiendo sus pagos a cuentas de los atacantes. Dos. **Hackers rusos atacan más de 20 ONG con phishing.** Microsoft revela que un grupo de hackers rusos, conocido como Void Blizzard, ha estado robando información de organizaciones en Europa y América del Norte usando técnicas de phishing para acceder a sus cuentas. Tres. **Cibercriminales clonan sitio de antivirus para robar criptomonedas.** Investigadores han alertado sobre una campaña que usa un sitio falso de Bitdefender para engañar a las personas a descargar un troyano que roba información financiera y credenciales. Cuatro. **Agentes de IA y crisis de identidad no humana.** Con el aumento del uso de inteligencia artificial en empresas, se están multiplicando las identidades no humanas, lo que genera riesgos de seguridad si no se gestionan adecuadamente. Cinco. **Nuevo malware se propaga entre contenedores de Docker.** Un malware se está propagando entre instancias de Docker mal configuradas, convirtiéndolas en bots de minería de criptomonedas, lo que pone en riesgo la infraestructura de muchas empresas.
+
+2️⃣ Dos. **Guía del CISO sobre la validación de privacidad web y su importancia.** Esta guía proporciona un enfoque práctico para validar continuamente los controles de privacidad en la web, asegurando que las organizaciones cumplan con las regulaciones y protejan la confianza del usuario. La falta de monitoreo puede resultar en multas y daños a la reputación.
+
+3️⃣ Tres. **Campañas APT, secuestros de navegadores y malware de IA.** Un resumen semanal destaca cómo las amenazas cibernéticas son cada vez más complejas y planificadas. Se observa que los actores de amenazas utilizan videos generados por IA en TikTok para distribuir malware, mostrando la creatividad de los atacantes para evadir la detección.
+
+4️⃣ Cuatro. **CISA advierte sobre ataques a proveedores de SaaS.** La Agencia de Seguridad de Infraestructura y Ciberseguridad de EE. UU. alerta sobre amenazas a aplicaciones en la nube con configuraciones predeterminadas. Los atacantes buscan acceder a datos sensibles de empresas que utilizan estas plataformas, poniendo en riesgo la información de sus clientes.
+
+5️⃣ Cinco. **Malware DOUBLELOADER usa ALCATRAZ para ofuscación.** Se ha descubierto un nuevo cargador de malware llamado DOUBLELOADER que utiliza un obfuscador para complicar su detección. Este malware se despliega junto con infecciones de Rhadamanthys Stealer, recogiendo información del sistema y comunicándose con un servidor remoto.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

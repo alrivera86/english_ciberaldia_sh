@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 11 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Blind Eagle ataca instituciones colombianas.** Un grupo de cibercriminales conocido como Blind Eagle ha atacado instituciones judiciales y gubernamentales en Colombia, afectando a más de 1,600 víctimas. Utilizan tácticas de ingeniería social y vulnerabilidades de Microsoft para distribuir malware, destacando su capacidad de adaptación ante defensas de seguridad.
+
+2️⃣ Dos. **Campaña de botnet Ballista infecta routers TP-Link.** La botnet Ballista está explotando una vulnerabilidad en routers TP-Link, infectando más de 6,000 dispositivos en múltiples países. Los atacantes utilizan un código de ejecución remota para propagarse automáticamente y tomar control de los dispositivos, afectando a diversas industrias.
+
+3️⃣ Tres. **La exposición a amenazas adversarias revela problemas reales.** Un artículo discute la importancia de la validación de exposición adversaria en ciberseguridad, advirtiendo que la confianza excesiva en herramientas de seguridad puede crear una falsa sensación de seguridad. Se enfatiza la necesidad de pruebas continuas para garantizar la verdadera seguridad de las organizaciones.
+
+4️⃣ Cuatro. **Steganografía y el malware XWorm.** El malware XWorm utiliza steganografía para ocultar código malicioso dentro de imágenes, evadiendo la detección de antivirus. Este método permite a los atacantes infiltrar sistemas sin alertas, presentando un desafío creciente para la ciberseguridad.
+
+5️⃣ Cinco. **APT SideWinder ataca sectores en Asia y África.** SideWinder, un grupo APT, ha dirigido ataques a empresas marítimas y nucleares en Asia y África. Utilizan técnicas avanzadas para evadir detección y mejorar su arsenal, realizando ataques a través de correos de phishing con documentos maliciosos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

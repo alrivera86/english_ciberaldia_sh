@@ -1,0 +1,42 @@
+import os
+import subprocess
+from dotenv import load_dotenv
+
+# Cargar variables de entorno desde el archivo .credential
+dotenv_path = os.path.join(os.path.dirname(__file__), ".credential")
+load_dotenv(dotenv_path)
+
+# Lista de scripts a ejecutar en orden
+scripts = [
+    "news_extractor.py",
+    "gpt_generator.py",
+    "audio_generator.py",
+    "image_generator.py",
+    "video_intro_creator.py",
+    "video_news_creator.py",
+    "video_closing_creator.py",
+    "final_video_creator.py",
+    "generar_post.py"
+]
+
+def run_script(script_name):
+    """Ejecuta un script de Python y maneja posibles errores."""
+    print(f"\n🚀 Ejecutando {script_name}...\n")
+    result = subprocess.run(["python3", script_name], capture_output=True, text=True)
+    
+    if result.returncode == 0:
+        print(f"✅ {script_name} ejecutado correctamente.\n")
+    else:
+        print(f"❌ Error en {script_name}. Salida:\n{result.stderr}")
+        exit(1)  # Detiene la ejecución si hay un error
+
+if __name__ == "__main__":
+    print("\n🔄 Iniciando el proceso completo...\n")
+    
+    for script in scripts:
+        if os.path.exists(script):
+            run_script(script)
+        else:
+            print(f"⚠️ Advertencia: {script} no encontrado, se omitirá.")
+
+    print("\n🎬 ¡Proceso completado! El video final ha sido generado.\n")

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 02 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **FIN7 despliega el backdoor Anubis para secuestrar sistemas Windows a través de sitios SharePoint comprometidos.** Un grupo de cibercriminales conocido como FIN7 utiliza un backdoor llamado Anubis, que permite el acceso remoto a sistemas infectados, ejecutando comandos de shell y operaciones del sistema.
+
+2️⃣ Dos. **Grupo Outlaw utiliza fuerza bruta SSH para desplegar malware de criptominería en servidores Linux.** Investigadores han descubierto una botnet llamada Outlaw que se propaga automáticamente, atacando servidores SSH con credenciales débiles para instalar malware de minería de criptomonedas.
+
+3️⃣ Tres. **Cómo las malas configuraciones de SSL impactan su superficie de ataque.** Se destaca que las configuraciones incorrectas de SSL son comunes y representan un riesgo significativo para la seguridad web, facilitando ataques como el de hombre en el medio (MITM) y el espionaje de datos.
+
+4️⃣ Cuatro. **Ayudando a sus clientes a lograr el cumplimiento de NIST: una guía paso a paso para proveedores de servicios.** Proveedores de servicios aprenden cómo implementar normas de NIST para mejorar la seguridad cibernética y mantener el cumplimiento regulatorio, beneficiando a sus clientes y a ellos mismos.
+
+5️⃣ Cinco. **Google corrige vulnerabilidad en Cloud Run que permitía acceso no autorizado a imágenes.** Se informó sobre una vulnerabilidad en Google Cloud Platform que podría haber permitido a un atacante acceder a imágenes de contenedores, la cual fue solucionada el 28 de enero de 2025.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

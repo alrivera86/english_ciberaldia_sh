@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 20 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Más de 100 extensiones falsas de Chrome roban datos.** Un grupo desconocido ha creado varias extensiones maliciosas para Chrome que parecen útiles, pero roban información personal y pueden inyectar anuncios. Aunque Google ha eliminado las extensiones, los usuarios deben ser cautelosos al descargar complementos.
+
+2️⃣ Dos. **Vulnerabilidades en roles de IAM de AWS permiten ataques.** Investigadores encontraron que ciertos roles de gestión de identidades en AWS tienen permisos excesivos, lo que permite a los atacantes escalar privilegios y comprometer cuentas. AWS está trabajando para corregir estas configuraciones, pero es vital auditar roles existentes.
+
+3️⃣ Tres. **Informe revela el estado del pentesting en 2025.** Un reciente estudio mostró que el 67% de las empresas en EE. UU. sufrió una brecha de seguridad en los últimos dos años, a pesar de tener múltiples herramientas de seguridad. La fatiga por alertas es un gran desafío, por lo que es crucial priorizar los problemas más importantes.
+
+4️⃣ Cuatro. **Ministerios de Asia del Sur atacados por SideWinder.** Instituciones gubernamentales en Sri Lanka, Bangladesh y Pakistán han sido blanco de un grupo conocido como SideWinder, que usa correos de phishing y vulnerabilidades antiguas de Microsoft Office para instalar malware que roba información.
+
+5️⃣ Cinco. **Hazy Hawk secuestra dominios para difundir malware.** Un grupo de cibercriminales ha estado tomando control de recursos en la nube de grandes organizaciones y usando estos dominios para dirigir a los usuarios a estafas y malware, lo que resalta la importancia de proteger adecuadamente los registros DNS.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

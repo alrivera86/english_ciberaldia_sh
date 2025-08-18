@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 03 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nuevo malware 'Plague' pone en riesgo sistemas Linux.** Investigadores han detectado un nuevo backdoor llamado Plague, que permite a los atacantes eludir la autenticación del sistema y acceder silenciosamente a servidores Linux sin ser detectados.
+
+2️⃣ Dos. **Aumento de ataques de ransomware Akira en dispositivos SonicWall.** Dispositivos de SonicWall se han vuelto el blanco de ataques de ransomware Akira, que podrían estar aprovechando una vulnerabilidad desconocida, afectando incluso a dispositivos actualizados. Se recomienda desactivar el servicio SSL VPN hasta que se solucione el problema.
+
+3️⃣ Tres. **China acusa a EE.UU. de ciberataques a su infraestructura militar.** Un nuevo informe revela que agencias de inteligencia de EE.UU. habrían utilizado una vulnerabilidad en Microsoft Exchange para robar información sensible de varias instituciones en China, incluyendo el sector militar.
+
+4️⃣ Cuatro. **Se reportan intrusiones en redes de telecomunicaciones en Asia.** Un grupo de ciberespionaje ha estado atacando organizaciones de telecomunicaciones en Asia, utilizando técnicas avanzadas para mantener el acceso y evitar ser detectados, aunque no se ha confirmado la exfiltración de datos.
+
+5️⃣ Cinco. **Problemas de seguridad en sistemas de autenticación Linux.** Un backdoor llamado Plague ha estado activo en sistemas Linux, permitiendo a los atacantes robar credenciales de usuario sin dejar rastro, lo que representa un grave riesgo para la seguridad de estos sistemas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

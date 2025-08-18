@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 17 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **El SANS Institute advierte sobre nuevos ataques de ransomware en la nube.** Un informe reciente de Palo Alto Networks revela que el 66% de los buckets de almacenamiento en la nube contienen datos sensibles vulnerables a ataques de ransomware, utilizando controles de seguridad predeterminados de los proveedores de la nube.
+
+2️⃣ Dos. **Cibercriminales explotan CSS para evadir filtros de spam.** Investigadores de Cisco Talos han descubierto que actores maliciosos utilizan hojas de estilo en cascada (CSS) para rastrear acciones de usuarios y eludir filtros de spam, poniendo en riesgo la seguridad y privacidad de las víctimas.
+
+3️⃣ Tres. **Vulnerabilidad en cámaras Edimax explotada por ataques del botnet Mirai.** Se ha detectado una falla de inyección de comandos en la cámara Edimax IC-7100, que ha sido aprovechada por actores de amenazas para desplegar variantes del malware Mirai desde mayo de 2024.
+
+4️⃣ Cuatro. **Vulnerabilidad en Apache Tomcat explotada tras su divulgación.** Una falla de seguridad crítica en Apache Tomcat, que permite la ejecución remota de código, ha comenzado a ser explotada activamente solo 30 horas después de su divulgación pública. Se recomienda actualizar a las versiones seguras.
+
+5️⃣ Cinco. **Cibercriminales utilizan herramientas de gestión remota para ataques.** Grupos de amenazas están abusando de herramientas de gestión remota legítimas en campañas de correo electrónico, facilitando el robo de datos y la instalación de malware, incluida ransomware.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

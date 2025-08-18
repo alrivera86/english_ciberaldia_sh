@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 03 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Trojan de Android Crocodilus ahora activo en 8 países.** Un nuevo troyano bancario llamado Crocodilus está atacando usuarios en Europa y América del Sur, disfrazándose como aplicaciones legítimas. Este malware puede robar credenciales de bancos y billeteras de criptomonedas, creando un nuevo peligro para los usuarios en esos países.
+
+2️⃣ Dos. **Google Chrome dejará de confiar en dos Autoridades Certificadoras.** Google anunció que no confiará más en certificados digitales de Chunghwa Telecom y Netlock debido a problemas de cumplimiento. Esto afectará a los usuarios de Chrome a partir de agosto de 2025, mostrando advertencias de seguridad al visitar sitios con estos certificados.
+
+3️⃣ Tres. **Vulnerabilidad crítica en Roundcube Webmail.** Se descubrió una falla de seguridad en Roundcube que permite a usuarios autenticados ejecutar código malicioso. Esta vulnerabilidad ha estado oculta durante diez años y afecta a muchas versiones del software, lo que la convierte en una amenaza importante para su seguridad.
+
+4️⃣ Cuatro. **Estafas de soporte técnico: un problema creciente.** Un grupo llamado Scattered Spider ha estado utilizando estafas de soporte técnico para acceder a cuentas de alto nivel en empresas. Este método les permite eludir la autenticación multifactor y tomar control de cuentas, lo que puede resultar en robo de datos y ataques más graves.
+
+5️⃣ Cinco. **Campaña de NetSupport RAT a través de sitios falsos.** Investigadores han detectado una nueva campaña que utiliza sitios falsos de DocuSign y Gitcode para propagar un malware llamado NetSupport RAT. Este ataque engaña a los usuarios para que ejecuten scripts maliciosos, poniendo en riesgo sus dispositivos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

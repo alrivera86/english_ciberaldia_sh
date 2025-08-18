@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 30 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Estados Unidos sanciona a Funnull por estafas de romance vinculadas a criptomonedas.** El Departamento del Tesoro de EE.UU. sancionó a la empresa filipina Funnull Technology Inc. por facilitar estafas que causaron pérdidas de más de $200 millones. La empresa alquilaba direcciones IP a criminales para alojar sus sitios web fraudulentos.
+
+2️⃣ Dos. **Hackers vinculados a China explotan vulnerabilidades en SAP y SQL Server.** Un grupo de hackers ha atacado organizaciones en Brasil y Asia, utilizando fallas de seguridad en SAP NetWeaver y SQL Server. Este grupo ha cambiado su enfoque, ahora atacando a universidades y gobiernos, además del sector financiero.
+
+3️⃣ Tres. **ConnectWise sufre un ciberataque sospechoso de un actor estatal.** La empresa ConnectWise, que desarrolla software de soporte remoto, anunció que fue víctima de un ciberataque posiblemente realizado por un actor estatal. Están investigando el incidente con la ayuda de expertos, aunque no han revelado los detalles del ataque.
+
+4️⃣ Cuatro. **El CISO de un sistema de salud transforma la cultura de seguridad.** El CISO de MultiCare Health System, Jason Elrod, propone un cambio en la seguridad de la salud, enfocándose en facilitar el acceso a la información. Implementaron una estrategia de microsegmentación que mejora la seguridad sin obstaculizar la atención al paciente.
+
+5️⃣ Cinco. **Nuevo malware EDDIESTEALER roba datos del navegador.** Un nuevo malware llamado EDDIESTEALER utiliza páginas CAPTCHA falsas para robar información sensible de navegadores. Este tipo de ataque aprovecha la ingeniería social para engañar a los usuarios y ejecutar scripts maliciosos en sus dispositivos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 16 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **El ransomware Anubis cifra y borra archivos, haciendo imposible la recuperación incluso tras el pago.** Un nuevo tipo de ransomware ha sido descubierto, que no solo cifra archivos, sino que también los elimina permanentemente, dificultando su recuperación. Este ataque afecta a sectores como la salud y la construcción en varios países, incluyendo Perú.
+
+2️⃣ Dos. **La inteligencia artificial es explotada en un ataque a entornos DevOps y en la nube.** Investigadores han encontrado paquetes maliciosos en npm y PyPI que ejecutan código remoto y descargan malware. Estos paquetes pueden afectar a desarrolladores y empresas que usan herramientas de código abierto, aumentando el riesgo en la cadena de suministro de software.
+
+3️⃣ Tres. **Microsoft corrige un fallo crítico que permitía ataques dirigidos.** La compañía anunció la reparación de una vulnerabilidad en WebDAV, que estaba siendo explotada para ejecutar malware en ataques específicos. Esto resalta la importancia de mantener el software actualizado para protegerse contra amenazas.
+
+4️⃣ Cuatro. **Un nuevo malware en paquetes de npm se oculta utilizando caracteres japoneses.** Un análisis reveló que un paquete de JavaScript disfraza su código con símbolos para ejecutar ataques en equipos Windows. Esto resalta cómo los atacantes están sofisticando sus técnicas para evadir la detección.
+
+5️⃣ Cinco. **Un paquete en PyPI, creado como ejercicio de seguridad, genera preocupación.** La empresa Grab admitió que un paquete publicado en PyPI tenía como objetivo simular un ataque para probar su propia seguridad, pero esto generó confusión sobre su intención y potencial amenaza real.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

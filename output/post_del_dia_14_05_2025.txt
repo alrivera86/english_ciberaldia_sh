@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 14 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Aumento de ataques de phishing dirigidos a usuarios de Meta.** Un nuevo ataque de phishing llamado "Meta Mirage" está afectando a empresas que usan Meta Business Suite, intentando robar cuentas valiosas a través de falsas comunicaciones que parecen oficiales. Los investigadores han identificado más de 14,000 enlaces maliciosos en esta campaña.
+
+2️⃣ Dos. **Mercado Xinbi en Telegram vinculado a delitos cibernéticos por $8.4 mil millones.** Un mercado en Telegram, Xinbi Guarantee, ha facilitado transacciones ilegales desde 2022, incluyendo fraudes y lavado de dinero. Se estima que algunos fondos están relacionados con robos de criptomonedas de Corea del Norte.
+
+3️⃣ Tres. **Grupos de cibercriminales explotan vulnerabilidad de SAP NetWeaver.** Las bandas BianLian y RansomExx han aprovechado una falla de seguridad en SAP NetWeaver para implementar un troyano llamado PipeMagic, afectando a empresas en EE. UU., Venezuela y otros países, lo que pone en riesgo datos sensibles.
+
+4️⃣ Cuatro. **Ciberespionaje de Earth Ammit a través de campañas VENOM y TIDRONE.** Un grupo de ciberespionaje ha atacado sectores en Taiwán y Corea del Sur, comprometiendo cadenas de suministro de drones mediante ataques a software de planificación empresarial, lo que podría tener implicaciones en sectores militares y tecnológicos.
+
+5️⃣ Cinco. **Samsung corrige una falla crítica en MagicINFO 9.** La compañía lanzó actualizaciones para solucionar una vulnerabilidad grave en su servidor MagicINFO 9, que estaba siendo explotada para acceder a sistemas y desplegar malware, recomendando a los usuarios aplicar las correcciones de inmediato.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

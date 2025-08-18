@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 01 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Malware engañoso se oculta en plugin de seguridad de WordPress.** Investigadores han descubierto un malware que se disfraza como un plugin de seguridad en WordPress, permitiendo a los atacantes acceder de forma remota a los sitios. Este malware puede ejecutar código malicioso y ocultarse en el panel de administración.
+
+2️⃣ Dos. **Equipos de seguridad cambian a detección y respuesta en red.** Los equipos de seguridad están adoptando nuevas estrategias para detectar amenazas avanzadas que evaden las defensas tradicionales. La detección y respuesta en red (NDR) ofrece una solución más efectiva al analizar el tráfico de red en tiempo real para identificar actividades sospechosas.
+
+3️⃣ Tres. **AI de Claude es utilizada para campañas de influencia falsas.** La empresa Anthropic ha revelado que actores maliciosos usaron su chatbot Claude para crear más de 100 cuentas falsas en redes sociales, manipulando opiniones políticas en beneficio de intereses económicos en varios países.
+
+4️⃣ Cuatro. **Investigación revela que el 95% de las correcciones de seguridad en aplicaciones no reducen riesgos.** Un estudio indica que la mayoría de las alertas de seguridad son irrelevantes, lo que desperdicia recursos. Se sugiere un enfoque más centrado en identificar las verdaderas amenazas para mejorar la seguridad.
+
+5️⃣ Cinco. **Malware DarkWatchman ataca empresas en Rusia y Ucrania.** Una campaña de phishing ha estado dirigindo a empresas en Rusia utilizando el malware DarkWatchman, capaz de robar información y mantener acceso oculto. Además, otro malware, Sheriff, se ha usado para atacar el sector de defensa ucraniano.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

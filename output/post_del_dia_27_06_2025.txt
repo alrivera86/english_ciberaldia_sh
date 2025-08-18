@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 27 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Más de 1,000 dispositivos SOHO hackeados en campaña de espionaje cibernético.** Investigadores han descubierto una red de más de 1,000 dispositivos de oficina y hogar comprometidos, utilizados por grupos de hackers vinculados a China para facilitar una prolongada campaña de espionaje. Esto resalta la vulnerabilidad de estos dispositivos en la seguridad digital.
+
+2️⃣ Dos. **Aumento de amenazas en MOVEit Transfer.** La firma GreyNoise advierte sobre un aumento notable en la actividad de escaneo dirigida a sistemas MOVEit Transfer, un software de transferencia de archivos utilizado por empresas y gobiernos. Esto indica que los atacantes podrían estar preparándose para otra campaña de explotación masiva.
+
+3️⃣ Tres. **Grupo chino Silver Fox utiliza sitios falsos para distribuir malware.** Un nuevo ataque ha sido observado donde el grupo Silver Fox usa sitios web falsos de software popular para entregar un troyano de acceso remoto (RAT) y un rootkit oculto. Esto pone en evidencia cómo los ciberdelincuentes engañan a los usuarios para comprometer sus dispositivos.
+
+4️⃣ Cuatro. **Malware PUBLOAD y Pubshell en ataque específico contra el Tíbet.** Un actor vinculado a China, conocido como Mustang Panda, ha lanzado una campaña de espionaje cibernético dirigida a la comunidad tibetana, usando mensajes de phishing relacionados con temas tibetanos para distribuir malware.
+
+5️⃣ Cinco. **Presión en los Centros de Operaciones de Seguridad por alertas falsas.** Los Centros de Operaciones de Seguridad (SOCs) enfrentan presiones debido al aumento de amenazas complejas y presupuestos restringidos. Se estima que hasta el 99% de las alertas pueden ser falsas, lo que genera ineficiencia y desgaste en los analistas de seguridad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

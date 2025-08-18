@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 21 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Investigación sobre actividad sospechosa en Aflac.** Aflac ha detectado actividad inusual en su red que podría afectar números de seguridad social y otros datos. Actualmente, están revisando el incidente, pero aún no saben cuántas personas pueden estar involucradas.
+
+2️⃣ Dos. **AWS mejora seguridad en la nube.** En la conferencia re:Inforce 2025, Amazon Web Services presentó nuevas funciones de seguridad para ofrecer a sus clientes una mejor visibilidad y contexto sobre posibles amenazas. Esto busca reforzar la protección de datos en la nube.
+
+3️⃣ Tres. **Ciberataques a M&S y Co-op causan grandes pérdidas.** Los ataques cibernéticos de abril de 2025 a las tiendas Marks & Spencer y Co-op han sido catalogados como un evento cibernético combinado, con daños estimados entre 363 y 592 millones de dólares. Se cree que el grupo Scattered Spider está detrás de estos ataques.
+
+4️⃣ Cuatro. **Hacker roba $90 millones en un intercambio de criptomonedas en Irán.** La televisión estatal de Irán fue hackeada, interrumpiendo su programación para llamar a protestas. Este ataque se suma a una serie de incidentes cibernéticos entre Irán e Israel, afectando el sector financiero.
+
+5️⃣ Cinco. **6 pasos para tener un SOC interno exitoso.** La defensa cibernética debe funcionar las 24 horas, ya que los atacantes suelen atacar cuando hay menos personal de seguridad. Establecer un Centro de Operaciones de Seguridad (SOC) efectivo es clave para proteger a las empresas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

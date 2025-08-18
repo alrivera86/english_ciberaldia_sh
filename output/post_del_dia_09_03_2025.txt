@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 09 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Ciudades de EE. UU. advierten sobre ola de textos de phishing relacionados con multas de estacionamiento.** Ciudades estadounidenses están alertando sobre una campaña de phishing móvil que finge ser mensajes sobre multas de estacionamiento impagas. Los estafadores amenazan con un cargo diario adicional si no se paga.
+
+2️⃣ Dos. **Nuevo herramienta Chirp utiliza tonos de audio para transferir datos entre dispositivos.** Una nueva herramienta de código abierto llamada 'Chirp' transmite datos entre computadoras y smartphones mediante tonos de audio. Aunque no es muy práctica, permite enviar mensajes de forma divertida y está disponible en GitHub.
+
+3️⃣ Tres. **Se encuentra una "puerta trasera" no documentada en chip Bluetooth usado por mil millones de dispositivos.** Investigadores españoles han descubierto una vulnerabilidad crítica en el chip ESP32, que podría permitir a atacantes acceder a dispositivos IoT, afectando su seguridad.
+
+4️⃣ Cuatro. **Desarrollador condenado por sabotear sistemas de su empleador.** Un desarrollador fue hallado culpable de instalar malware y un "interruptor de apagado" en la red de su ex-empleador tras ser despedido, causando pérdidas significativas a la empresa.
+
+5️⃣ Cinco. **Cibercriminales extorsionan a Youtubers para difundir malware.** Una nueva campaña está utilizando reclamaciones de copyright para coaccionar a creadores de contenido a promover versiones maliciosas de herramientas para eludir la censura en YouTube.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

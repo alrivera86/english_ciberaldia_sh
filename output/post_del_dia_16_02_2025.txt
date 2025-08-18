@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 16 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nuevo malware FinalDraft abusa del servicio de correo Outlook para comunicaciones encubiertas.** Un malware llamado FinalDraft ha estado utilizando borradores de correo de Outlook para la comunicación de comando y control en ataques contra un ministerio en un país sudamericano.
+
+2️⃣ Dos. **Campaña de ciberespionaje REF7707 apunta a un ministerio extranjero en Sudamérica.** Investigaciones revelan que la campaña está asociada con amenazas avanzadas y errores operativos, exponiendo a los atacantes. Se han identificado vínculos con víctimas en el sudeste asiático.
+
+3️⃣ Tres. **FinalDraft permite la exfiltración de datos y ejecución de procesos.** Este malware facilita el robo de credenciales y la creación de túneles de red encubiertos, mientras evita la detección al usar borradores de Outlook en lugar de correos enviados.
+
+4️⃣ Cuatro. **Investigación revela una variante de FinalDraft para Linux.** La variante de Linux puede comunicarse con Outlook a través de API REST y Graph, lo que amplía las capacidades de ataque y sugiere una operación más amplia.
+
+5️⃣ Cinco. **Consejos de detección para FinalDraft y sus variantes.** Las reglas de YARA están disponibles para ayudar a los defensores a identificar los loaders GuidLoader y PathLoader, así como el malware FinalDraft, mejorando así las defensas contra esta amenaza emergente.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

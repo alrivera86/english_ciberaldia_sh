@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 27 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Por favor, proporciona las noticias diarias siguiendo el formato que has mencionado, y con gusto generaré el guion de TikTok basado en ellas.
+
+2️⃣ Dos. **Nueva vulnerabilidad crítica en SAP NetWeaver permite la carga de web shells.** Se ha identificado una falla en SAP NetWeaver que podría permitir a los atacantes cargar web shells JSP, facilitando la ejecución no autorizada de código y la carga de archivos maliciosos en sistemas vulnerables.
+
+3️⃣ Tres. **Investigadores descubren vulnerabilidades en la interfaz Rack::Static de Ruby.** Se han revelado tres fallas de seguridad en Rack que podrían permitir a los atacantes acceder a archivos no autorizados, inyectar datos maliciosos y manipular registros, poniendo en riesgo la confidencialidad de la información.
+
+4️⃣ Cuatro. **Malware DslogdRAT implementado a través de un zero-day en Ivanti ICS.** Investigadores advierten sobre DslogdRAT, un malware que se instala tras la explotación de una vulnerabilidad crítica en Ivanti Connect Secure, utilizada por grupos de ciberespionaje para atacar organizaciones en Japón.
+
+5️⃣ Cinco. **Identidades no humanas (NHIs): el punto ciego más peligroso en ciberseguridad.** A medida que crece el uso de identidades no humanas en entornos tecnológicos, su gestión se vuelve crítica, ya que su falta de supervisión y control puede resultar en graves brechas de seguridad y acceso no autorizado a datos sensibles.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

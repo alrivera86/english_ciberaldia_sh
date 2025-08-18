@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 16 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers utilizan Microsoft Teams para propagar malware.** Investigadores han detectado una nueva variante de un malware llamado Matanbuchus que se difunde a través de llamadas de Microsoft Teams. Este malware puede robar información y lanzar ataques como ransomware, haciéndose pasar por el soporte técnico.
+
+2️⃣ Dos. **Grupo UNC6148 ataca dispositivos SonicWall.** Se ha descubierto que un grupo de hackers llamado UNC6148 está atacando dispositivos SonicWall SMA 100, incluso después de que estos hayan sido actualizados. Utilizan una puerta trasera llamada OVERSTEP para robar credenciales y mantener acceso a largo plazo.
+
+3️⃣ Tres. **Falla crítica en Windows Server 2025.** Investigadores han revelado una vulnerabilidad en los Cuentas de Servicio Administradas Delegadas (dMSA) de Windows Server 2025. Esta falla permite que los atacantes se muevan lateralmente entre dominios y mantengan acceso persistente a toda la red.
+
+4️⃣ Cuatro. **Riesgos de seguridad en el uso de IA.** Con el auge de la inteligencia artificial, muchas empresas están integrando agentes de IA en sus sistemas. Sin embargo, sin una seguridad adecuada, estos agentes pueden convertirse en puertas traseras para ataques, accediendo a datos sensibles sin autorización.
+
+5️⃣ Cinco. **Nueva variante de malware Konfety evade detección.** Se ha encontrado una nueva variante del malware Konfety que utiliza un "gemelo malvado" para realizar fraude publicitario. Este malware manipula la estructura de aplicaciones para evitar ser detectado y ejecutar acciones maliciosas en segundo plano.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

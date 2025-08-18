@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 09 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Gold Melody IAB explota claves de máquina ASP.NET para acceso no autorizado.** Un grupo de hackers, conocido como Gold Melody, ha estado utilizando claves de máquina ASP.NET filtradas para acceder a organizaciones y vender ese acceso a otros delincuentes. Este tipo de ataque dificulta la detección, ya que se ejecuta en la memoria del servidor.
+
+2️⃣ Dos. **DoNot APT expande operaciones y ataca ministerios europeos.** Un grupo de amenazas cibernéticas llamado DoNot ha sido detectado atacando ministerios de asuntos exteriores en Europa, usando malware para robar datos sensibles. Se infiltran a través de correos electrónicos de phishing, haciéndose pasar por funcionarios de defensa.
+
+3️⃣ Tres. **EE.UU. sanciona a hacker norcoreano detrás de esquema fraudulento.** El Departamento del Tesoro de EE.UU. sancionó a Song Kum Hyok, miembro de un grupo de hackers norcoreano, por su papel en un esquema de trabajo remoto fraudulento. Utilizaba identidades robadas para hacer que los trabajadores norcoreanos se hicieran pasar por estadounidenses y obtener salarios.
+
+4️⃣ Cuatro. **Xu Zewei, hacker chino arrestado por ataques cibernéticos a EE.UU.** Un ciudadano chino fue arrestado en Italia por sus vínculos con el grupo de hackers Silk Typhoon y por realizar ataques cibernéticos contra organizaciones estadounidenses. Se le acusa de usar vulnerabilidades en servidores de Microsoft para robar información.
+
+5️⃣ Cinco. **Automatización de creación de tickets y triage de amenazas con Tines.** La plataforma Tines ha lanzado una biblioteca de flujos de trabajo que permite automatizar la respuesta a alertas de malware, facilitando la identificación de dispositivos afectados y la creación de tickets, lo que ahorra tiempo y reduce errores humanos en la gestión de incidentes de seguridad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

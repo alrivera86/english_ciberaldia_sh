@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 22 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Vulnerabilidad crítica en Windows Server 2025 permite comprometer Active Directory.** Un fallo en Windows Server 2025 permite que atacantes comprometan cualquier usuario en Active Directory, afectando a muchas organizaciones. Este problema sería fácil de explotar y podría dar acceso a información sensible.
+
+2️⃣ Dos. **Hackers chinos explotan vulnerabilidades en Ivanti EPMM en ataques globales.** Un grupo de hackers de China ha aprovechado fallos en el software Ivanti Endpoint Manager Mobile para atacar sectores en Europa, América del Norte y Asia-Pacífico. Estas vulnerabilidades permiten ejecutar código arbitrario en dispositivos vulnerables.
+
+3️⃣ Tres. **Problemas de automatización en la seguridad de identidad.** Un estudio revela que menos del 4% de los equipos de seguridad han automatizado sus procesos de identidad. Esto deja a las organizaciones vulnerables a errores humanos, que son responsables del 60% de las brechas de seguridad.
+
+4️⃣ Cuatro. **Webinar sobre cómo construir un programa de ciberseguridad legalmente defensable.** Se propone un seminario gratuito para ayudar a las organizaciones a crear programas de ciberseguridad que cumplan con las expectativas legales y operativas, asegurando que estén protegidas ante posibles ataques y demandas.
+
+5️⃣ Cinco. **Hackers chinos aprovechan vulnerabilidad en Trimble Cityworks.** Un grupo de hackers ha explotado una vulnerabilidad en el software Trimble Cityworks para infiltrarse en redes gubernamentales de EE. UU., utilizando malware para mantener acceso a largo plazo.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

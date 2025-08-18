@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 13 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **La policía moldava arresta a sospechoso de ataque de ransomware de €4.5M.** Las autoridades moldavas detuvieron a un hombre de 45 años por su supuesta participación en ataques de ransomware a empresas en los Países Bajos, causando daños significativos y robando documentos internos tras un ataque a la Organización Neerlandesa para la Investigación Científica.
+
+2️⃣ Dos. **Los grupos de APT de Corea del Norte atacan Ucrania con malware.** El grupo de amenazas Konni APT está detrás de campañas de phishing dirigidas a entidades gubernamentales en Ucrania, buscando recopilar información sobre la invasión rusa. Utilizan correos electrónicos falsos que instigan a la descarga de malware para obtener datos sensibles.
+
+3️⃣ Tres. **Paquete malicioso en PyPI roba código fuente en 761 descargas.** Investigadores de ciberseguridad detectaron un paquete en el repositorio PyPI, disfrazado como herramienta de Solana, que robó secretos de desarrolladores. Aunque ya fue eliminado, se descargó 761 veces antes de ser detectado.
+
+4️⃣ Cuatro. **Defensa contra deepfakes en la era de la IA.** Los ataques impulsados por IA están en aumento, con un 442% más de casos de phishing de voz. Se plantea la necesidad de soluciones que verifiquen la identidad de los participantes en reuniones virtuales, en lugar de confiar solo en su apariencia.
+
+5️⃣ Cinco. **Grupos de APT vinculados a China explotan vulnerabilidades en SAP.** Múltiples grupos de ciberamenazas de China están atacando sistemas de SAP NetWeaver, comprometiendo infraestructura crítica. Utilizan técnicas que permiten la ejecución remota de comandos, poniendo en riesgo datos sensibles a nivel global.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

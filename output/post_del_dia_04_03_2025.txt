@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 04 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Investigadores vinculan tácticas del ransomware CACTUS a exafiliados de Black Basta.** Se ha descubierto que actores de amenazas utilizan el mismo módulo BackConnect para mantener el control sobre sistemas infectados, indicando que exafiliados de Black Basta han pasado a CACTUS. Esto permite el robo de datos sensibles.
+
+2️⃣ Dos. **Fallas de seguridad en VMware explotadas en el mundo—Broadcom lanza parches urgentes.** Broadcom lanzó actualizaciones para tres vulnerabilidades críticas en VMware que podrían permitir la ejecución de código y divulgación de información, instando a los usuarios a aplicar los parches para protegerse.
+
+3️⃣ Tres. **Cómo los nuevos agentes de IA transformarán los ataques de credential stuffing.** Los ataques de credential stuffing, alimentados por filtraciones de datos, podrían intensificarse con agentes de IA que automatizan tareas web, facilitando a los atacantes la explotación de credenciales robadas.
+
+4️⃣ Cuatro. **Hackers iraníes sospechosos utilizaron el correo electrónico de una empresa india para atacar el sector de aviación de los EAU.** Un ataque de phishing altamente dirigido comprometió una cuenta de correo de una empresa india para entregar un backdoor en organizaciones de aviación en los Emiratos Árabes Unidos.
+
+5️⃣ Cinco. **Más de 4,000 IPs de ISP atacadas en campañas de fuerza bruta para desplegar ladrones de información y mineros de criptomonedas.** Se ha lanzado una campaña de explotación masiva contra ISP en China y la costa oeste de EE. UU., utilizando ataques de fuerza bruta para instalar malware que roba información y utiliza recursos para minar criptomonedas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

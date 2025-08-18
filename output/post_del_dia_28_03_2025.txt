@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 28 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Campaña de malware PJobRAT apunta a usuarios en Taiwán.** Un malware para Android, conocido como PJobRAT, ha sido detectado en una nueva campaña que usa aplicaciones de chat falsas para robar información de usuarios en Taiwán, incluyendo mensajes SMS y contactos.
+
+2️⃣ Dos. **Paquetes npm de nueve años secuestrados para exfiltrar claves API.** Investigadores han descubierto que varios paquetes de criptomonedas en el registro npm han sido comprometidos para robar información sensible como claves API y tokens de acceso, usando scripts ofuscados.
+
+3️⃣ Tres. **CoffeeLoader utiliza un empaquetador basado en GPU para evadir detección.** Un nuevo malware llamado CoffeeLoader ha sido identificado, diseñado para descargar y ejecutar cargas útiles secundarias mientras evadiendo la detección de antivirus y EDR, utilizando técnicas avanzadas de ofuscación.
+
+4️⃣ Cuatro. **Flaws críticos en inversores solares de varias marcas.** Se han revelado 46 vulnerabilidades críticas en productos de inversores solares de Sungrow, Growatt y SMA, que podrían permitir a atacantes tomar control de los dispositivos y amenazar las redes eléctricas.
+
+5️⃣ Cinco. **Datto BCDR asegura continuidad del negocio.** Con el aumento de desastres tecnológicos, Datto BCDR se presenta como una solución integral para garantizar la continuidad del negocio, combinando recuperación local y en la nube para minimizar el tiempo de inactividad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

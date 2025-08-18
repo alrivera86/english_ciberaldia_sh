@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 18 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nueva herramienta 'Defendnot' engaña a Windows para desactivar Microsoft Defender.** Una nueva herramienta llamada 'Defendnot' puede desactivar Microsoft Defender registrando un antivirus falso en dispositivos Windows, lo que deja la computadora sin protección activa. Este método aprovecha fallas en el sistema para eludir las medidas de seguridad.
+
+2️⃣ Dos. **Las aplicaciones modernas son más rápidas que la seguridad.** En un mundo donde las empresas se apresuran a construir en la nube, la seguridad a menudo queda rezagada. Se discute cómo las brechas de seguridad pueden ser explotadas por atacantes en cuestión de horas, mientras las organizaciones tardan días en reaccionar a las alertas críticas.
+
+3️⃣ Tres. **Las Mejores Prácticas para la Protección de Datos.** A medida que las amenazas cibernéticas evolucionan, es crucial que las organizaciones implementen estrategias efectivas para proteger datos sensibles. Las mejores prácticas incluyen la automatización de la clasificación de datos y la adopción de una arquitectura de seguridad de confianza cero para reducir el riesgo de brechas de datos.
+
+4️⃣ Cuatro. **Nuevo Botnet HTTPBot Lanza Más de 200 Ataques DDoS.** Un nuevo malware llamado HTTPBot ha sido identificado, dirigiéndose principalmente al sector de videojuegos y tecnología. Este botnet ha llevado a cabo ataques de denegación de servicio con una precisión alarmante, lo que representa una amenaza seria para las empresas que dependen de la interacción en tiempo real.
+
+5️⃣ Cinco. **Webinar Sobre Seguridad en Aplicaciones Modernas.** Se llevará a cabo un webinar gratuito que abordará la importancia de integrar la seguridad desde el desarrollo hasta la nube. Expertos compartirán estrategias para reducir el tiempo de respuesta ante amenazas y cómo unificar equipos y herramientas de seguridad para proteger las aplicaciones de manera más efectiva.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

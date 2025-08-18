@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 18 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Vulnerabilidad en Routers Juniper Permite Bypass de Autenticación.** Juniper Networks ha liberado actualizaciones de seguridad para una grave vulnerabilidad en sus productos Session Smart Router y otros, que podría permitir a atacantes tomar control administrativo de los dispositivos. La falla tiene un CVSS de 9.8.
+
+2️⃣ Dos. **Debunking the AI Hype: Inside Real Hacker Tactics.** Un informe revela que, a pesar del hype sobre la IA en ciberseguridad, no ha habido un aumento significativo en ataques impulsados por IA. Los atacantes siguen utilizando tácticas conocidas, lo que resalta la importancia de proteger credenciales y detectar amenazas proactivamente.
+
+3️⃣ Tres. **Nuevo Malware FrigidStealer Apunta a Usuarios de macOS.** Investigadores han alertado sobre una nueva campaña que utiliza inyecciones web para entregar malware llamado FrigidStealer a usuarios de macOS, aprovechando actualizaciones falsas y técnicas de ingeniería social para robar información sensible.
+
+4️⃣ Cuatro. **Hackers Chinos Explotan MAVInject.exe para Evadir Detección.** El grupo Mustang Panda ha sido observado utilizando la herramienta legítima MAVInject.exe para inyectar carga maliciosa en procesos externos, evadiendo detección y manteniendo control sobre sistemas infectados mediante técnicas avanzadas.
+
+5️⃣ Cinco. **Nuevas Vulnerabilidades en OpenSSH Permiten Ataques MitM y DoS.** Se han descubierto dos fallas en OpenSSH que podrían permitir ataques de tipo man-in-the-middle y denegación de servicio. Ambas vulnerabilidades han sido corregidas en la versión más reciente de OpenSSH.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

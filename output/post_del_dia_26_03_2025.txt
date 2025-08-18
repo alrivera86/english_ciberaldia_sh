@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 26 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nuevas variantes de backdoor SparrowDoor encontradas en ataques a organizaciones de EE. UU. y México.** Se ha vinculado al grupo de amenazas chinas FamousSparrow con un ataque cibernético que entrega los backdoors SparrowDoor y ShadowPad, marcando el primer uso de ShadowPad por este grupo.
+
+2️⃣ Dos. **EncryptHub explota una vulnerabilidad de Windows para desplegar malware Rhadamanthys y StealC.** El actor de amenazas EncryptHub ha utilizado una vulnerabilidad de día cero en Windows para entregar varios tipos de malware, manipulando archivos .msc para mantener persistencia y robar datos sensibles.
+
+3️⃣ Tres. **RedCurl cambia de espionaje a ransomware con el primer despliegue de QWCrypt.** La agrupación de habla rusa RedCurl ha sido vinculada por primera vez a una campaña de ransomware, usando un nuevo tipo de ransomware llamado QWCrypt en un cambio significativo de su modus operandi habitual.
+
+4️⃣ Cuatro. **Paquete malicioso de npm modifica la biblioteca local 'ethers' para lanzar ataques de reverse shell.** Investigadores de ciberseguridad han descubierto dos paquetes maliciosos en el registro de npm que infectan otras bibliotecas instaladas localmente, destacando la evolución de ataques a la cadena de suministro de software.
+
+5️⃣ Cinco. **La importancia de las pruebas de penetración automatizadas para construir resiliencia.** Se discute cómo las pruebas de penetración automatizadas pueden simular ataques del mundo real, ayudando a las organizaciones a identificar brechas de seguridad y a mantener una postura defensiva sólida.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

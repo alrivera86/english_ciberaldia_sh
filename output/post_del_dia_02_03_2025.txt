@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 02 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **EE.UU. recupera $31 millones robados en el hackeo de Uranium Finance.** Las autoridades estadounidenses recuperaron $31 millones en criptomonedas robadas en ataques cibernéticos a Uranium Finance, un protocolo DeFi basado en Binance Smart Chain, ocurrido en 2021. Dos ataques causaron pérdidas millonarias a los inversores.
+
+2️⃣ Dos. **Pandillas de ransomware explotan fallo en Paragon Partition Manager.** Microsoft identificó cinco vulnerabilidades en el driver BioNTdrv.sys de Paragon Partition Manager, siendo una de ellas utilizada por grupos de ransomware para obtener privilegios de sistema en Windows. Se recomienda a los usuarios actualizar su software.
+
+3️⃣ Tres. **Mozilla actualiza términos de uso de Firefox tras críticas.** Mozilla revisó por segunda vez sus Términos de Uso para Firefox, aclarando que no se apropia de la información de los usuarios, en respuesta a preocupaciones sobre el uso de datos. La empresa busca mayor transparencia en sus prácticas de datos.
+
+4️⃣ Cuatro. **Nuevo fallo de seguridad en Windows permite ataques de ransomware.** Un fallo en el driver de Paragon Partition Manager permite a atacantes escalar privilegios en sistemas Windows. Microsoft ha bloqueado el driver vulnerable, recomendando a los usuarios verificar la protección activa en sus dispositivos.
+
+5️⃣ Cinco. **Ciberataque a Uranium Finance causa pérdidas millonarias.** Uranium Finance, un protocolo DeFi, sufrió un ataque en 2021 que resultó en la pérdida de más de $53 millones. La recuperación de $31 millones marca un avance significativo en la lucha contra el robo de criptomonedas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

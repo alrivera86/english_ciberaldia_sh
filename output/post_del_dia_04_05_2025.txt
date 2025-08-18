@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 04 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **StealC malware mejorado con nuevas herramientas de robo de datos.** Los creadores de StealC, un malware popular en el robo de información, han lanzado una nueva versión con mejoras para evadir detección y robar datos más efectivamente. Se recomienda no almacenar información sensible en navegadores y usar autenticación en dos pasos.
+
+2️⃣ Dos. **Campaña de malvertising afecta a más de un millón de PCs.** Microsoft informa que una reciente campaña de publicidad maliciosa ha comprometido más de un millón de computadoras. Este tipo de ataques engañan a los usuarios para que descarguen software dañino. Es crucial estar alerta al hacer clic en anuncios desconocidos.
+
+3️⃣ Tres. **Cargos contra hacker yemení por ransomware Black Kingdom.** El Departamento de Justicia de EE. UU. acusó a Rami Khaled Ahmed de Yemen por desplegar el ransomware Black Kingdom, afectando a 1,500 sistemas, incluidos hospitales y escuelas en EE. UU. Este ransomware exigía pagos en Bitcoin tras cifrar datos sensibles.
+
+4️⃣ Cuatro. **Investigación sobre módulos Go maliciosos que destruyen discos duros.** Investigadores encontraron módulos Go maliciosos que pueden sobrescribir el disco duro de sistemas Linux, dejándolos inoperables. Este ataque pone en evidencia los peligros de confiar en código que parece legítimo, pero que puede ser altamente destructivo.
+
+5️⃣ Cinco. **Hackers mantienen acceso a infraestructura crítica en el Medio Oriente.** Un grupo de hackers iraníes ha estado infiltrando una infraestructura crítica de la región durante casi dos años, utilizando técnicas sofisticadas para mantener acceso y realizar espionaje. Esto muestra la necesidad de reforzar la ciberseguridad en sectores clave.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

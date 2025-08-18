@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 03 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers explotan vulnerabilidades en AWS para lanzar ataques de phishing.** Actores de amenazas están utilizando configuraciones incorrectas en Amazon Web Services (AWS) para realizar campañas de phishing, abusando de los servicios SES y WorkMail sin vulnerabilidades en AWS.
+
+2️⃣ Dos. **Investigación del ICO del Reino Unido sobre TikTok, Reddit e Imgur.** La Oficina del Comisionado de Información del Reino Unido investiga cómo estas plataformas protegen los datos de niños de 13 a 17 años, ante preocupaciones sobre el uso de datos personales en sus sistemas de recomendación.
+
+3️⃣ Tres. **Fallas en Paragon Partition Manager utilizadas en ataques de ransomware.** Los atacantes están explotando una vulnerabilidad en el controlador BioNTdrv.sys para escalar privilegios y ejecutar código arbitrario, lo que puede permitir ataques de ransomware en sistemas Windows.
+
+4️⃣ Cuatro. **Hackers utilizan ClickFix para desplegar Havoc C2 a través de SharePoint.** Una nueva campaña de phishing oculta malware en sitios de SharePoint, utilizando un comando de PowerShell malicioso para ejecutar un framework de control llamado Havoc en sistemas objetivo.
+
+5️⃣ Cinco. **Cibercriminal arrestado por más de 90 filtraciones de datos.** La policía de Tailandia y Singapur detuvo a un individuo responsable de múltiples filtraciones de datos, vendiendo más de 13TB de información personal en la dark web.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

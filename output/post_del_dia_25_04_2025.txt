@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 25 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Investigadores identifican vulnerabilidad en Rack::Static que permite filtraciones de datos en servidores Ruby.** Se han descubierto tres fallas de seguridad en Rack, que podrían permitir a atacantes acceder a archivos, inyectar datos maliciosos y manipular registros. La más crítica permite recuperar información sensible sin autenticación.
+
+2️⃣ Dos. **Nuevo malware DslogdRAT desplegado a través de una vulnerabilidad de Ivanti ICS en ataques en Japón.** Investigadores advierten sobre DslogdRAT, un malware que se instala tras explotar una falla crítica en Ivanti Connect Secure. Este malware permite a los atacantes ejecutar comandos y robar información del sistema.
+
+3️⃣ Tres. **Nueva vulnerabilidad crítica en SAP NetWeaver explotada para instalar web shells.** Actores maliciosos están aprovechando una falla en SAP NetWeaver para cargar web shells y ejecutar código malicioso, lo que representa un riesgo significativo para empresas que utilizan estas soluciones.
+
+4️⃣ Cuatro. **Por qué las identidades no humanas son el punto ciego más peligroso en ciberseguridad.** Las identidades no humanas, como las cuentas de servicio, están creciendo y su gestión es crucial. Su falta de supervisión puede llevar a filtraciones masivas de datos, ya que muchas no tienen autenticación robusta.
+
+5️⃣ Cinco. **Hackers norcoreanos diseminan malware a través de falsas empresas de criptomonedas y ofertas de trabajo.** Un grupo de hackers de Corea del Norte ha creado compañías falsas para propagar malware durante procesos de contratación falsos, utilizando técnicas de ingeniería social para engañar a las víctimas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

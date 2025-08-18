@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 04 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks.** Se han descubierto paquetes maliciosos en repositorios de npm, Python y Ruby que drenan fondos de billeteras de criptomonedas y eliminan código tras su instalación, mostrando las amenazas en los ecosistemas de código abierto.
+
+2️⃣ Dos. **HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass.** Hewlett Packard Enterprise lanzó actualizaciones de seguridad para solucionar vulnerabilidades en su solución de respaldo StoreOnce, que podrían permitir a atacantes eludir la autenticación y ejecutar código de forma remota.
+
+3️⃣ Tres. **Your SaaS Data Isn't Safe: Why Traditional DLP Solutions Fail in the Browser Era.** Las herramientas tradicionales de prevención de pérdida de datos no están funcionando adecuadamente en la era de las aplicaciones SaaS, dejando a las empresas vulnerables ante fugas de datos que ocurren en los navegadores.
+
+4️⃣ Cuatro. **Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App.** Google reveló un grupo de cibercriminales que utiliza técnicas de vishing para engañar a empleados de empresas y robar datos a través de una aplicación falsa de Salesforce.
+
+5️⃣ Cinco. **Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads.** Un nuevo malware llamado Chaos RAT está atacando sistemas Windows y Linux, distribuyéndose a través de descargas engañosas, lo que resalta el riesgo de herramientas de red falsas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

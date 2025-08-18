@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 25 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Citrix Lanza Parches de Emergencia para CVE-2025-6543 en NetScaler ADC.** Citrix ha emitido actualizaciones de seguridad para una grave vulnerabilidad en NetScaler ADC, que ya ha sido explotada. Este fallo puede provocar un desbordamiento de memoria y denegación de servicio, afectando varias versiones del software.
+
+2️⃣ Dos. **Citrix Bleed 2 Permite el Robo de Tokens; Vulnerabilidades en SAP GUI Exponen Datos Sensibles.** Investigadores han descubierto fallos de seguridad en SAP GUI que podrían permitir a atacantes acceder a información sensible. Las vulnerabilidades ya han sido parcheadas, pero representan un riesgo considerable debido a la información que podrían exponer.
+
+3️⃣ Tres. **Cibergrupo Pro-Iraní Filtra Registros Personales de los Juegos de Arabia Saudita 2024.** Un grupo hacktivista pro-Irán ha publicado miles de registros personales de atletas y visitantes de los Juegos de Arabia Saudita, utilizando datos extraídos de la base de datos de la página oficial, en el contexto de una operación de desinformación.
+
+4️⃣ Cuatro. **Cuidado con el Riesgo Oculto en Tu Entorno de Entra.** Invitar a usuarios externos a tu entorno de Microsoft Entra puede abrir brechas de seguridad. Un fallo permite a estos usuarios crear y transferir suscripciones, lo que podría llevar a un acceso no autorizado y a la escalación de privilegios en el sistema.
+
+5️⃣ Cinco. **Vulnerabilidad nOAuth Afecta a Aplicaciones SaaS de Microsoft.** Investigaciones recientes revelan que un fallo de seguridad en Microsoft Entra ID permite que actores maliciosos tomen el control de cuentas en aplicaciones SaaS, afectando a un 9% de estas aplicaciones y exponiendo a muchas organizaciones a ser víctimas de ataques.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

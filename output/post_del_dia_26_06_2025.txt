@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 26 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Los riesgos ocultos del SaaS: por qué las protecciones integradas no son suficientes.** Las plataformas SaaS han transformado la forma en que operan las empresas, pero su conveniencia no garantiza que los datos estén completamente protegidos. La falta de estrategias de recuperación adecuadas puede llevar a pérdidas significativas ante errores humanos o ciberataques.
+
+2️⃣ Dos. **Hackers iraníes APT35 atacan a expertos tecnológicos israelíes con phishing.** Un grupo de hackers respaldado por el estado iraní ha lanzado una campaña de phishing, apuntando a expertos en ciberseguridad en Israel. Utilizan correos electrónicos y mensajes de WhatsApp falsos para robar credenciales de cuentas de Google, aprovechando la tensión geopolítica actual.
+
+3️⃣ Tres. **Aumento del 517% en ataques ClickFix que usan CAPTCHA falsos.** La táctica de ClickFix ha crecido significativamente, engañando a las víctimas para que ejecuten scripts maliciosos. Este método se ha vuelto popular y está afectando a diversos países, incluyendo Perú, donde los ataques están en auge.
+
+4️⃣ Cuatro. **Vulnerabilidades críticas en Cisco ISE permiten acceso no autenticado.** Cisco ha revelado fallas de seguridad que permiten a atacantes no autenticados ejecutar comandos como usuarios root en dispositivos ISE. Es crucial que los usuarios actualicen sus sistemas para evitar posibles amenazas.
+
+5️⃣ Cinco. **Flaw crítico en Open VSX expone a millones de desarrolladores a ataques de cadena de suministro.** Se ha descubierto una grave vulnerabilidad en el Open VSX Registry que podría permitir a atacantes controlar el mercado de extensiones de Visual Studio Code, lo que representa un gran riesgo para muchos desarrolladores.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 03 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft termina autofill de contraseñas en Authenticator.** Microsoft anunció que eliminará la función de almacenamiento y autofill de contraseñas en su app Authenticator a partir de julio de 2025, trasladando esta funcionalidad a su navegador Edge. Los usuarios deben exportar sus datos antes del 1 de agosto de 2025 para no perderlos.
+
+2️⃣ Dos. **Ciberataque iraní se infiltra en infraestructura crítica del Medio Oriente.** Un grupo de hackers respaldado por el gobierno iraní ha mantenido acceso durante casi dos años a una infraestructura nacional crítica en el Medio Oriente, utilizando vulnerabilidades en redes privadas para realizar operaciones de espionaje. Esto resalta la importancia de proteger sistemas esenciales.
+
+3️⃣ Tres. **Cargos contra hacker yemení por ransomware Black Kingdom.** El Departamento de Justicia de EE. UU. acusó a Rami Khaled Ahmed de Yemen por desplegar el ransomware Black Kingdom, afectando a 1,500 sistemas, incluidos hospitales y escuelas en EE. UU. Este ransomware exigía pagos en Bitcoin tras cifrar datos sensibles.
+
+4️⃣ Cuatro. **Investigación sobre módulos Go maliciosos que destruyen discos duros.** Investigadores encontraron módulos Go maliciosos que pueden sobrescribir el disco duro de sistemas Linux, dejándolos inoperables. Este ataque pone en evidencia los peligros de confiar en código que parece legítimo, pero que puede ser altamente destructivo.
+
+5️⃣ Cinco. **Hackers mantienen acceso a infraestructura crítica en el Medio Oriente.** Un grupo de hackers iraníes ha estado infiltrando una infraestructura crítica de la región durante casi dos años, utilizando técnicas sofisticadas para mantener acceso y realizar espionaje. Esto muestra la necesidad de reforzar la ciberseguridad en sectores clave.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

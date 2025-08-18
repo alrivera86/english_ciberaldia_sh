@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 10 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Cuatro arrestados en ciberataque de £440 millones a Marks & Spencer, Co-op y Harrods.** La Agencia Nacional del Crimen del Reino Unido detuvo a cuatro personas relacionadas con ataques cibernéticos que afectaron a grandes minoristas, con un impacto financiero estimado entre £270 millones y £440 millones.
+
+2️⃣ Dos. **Nueva variante de malware ZuRu ataca a desarrolladores a través de la aplicación macOS Termius.** Investigadores de seguridad han descubierto que el malware ZuRu se propaga a través de versiones trojanizadas de Termius, un software legítimo, afectando a usuarios de macOS que buscan herramientas de gestión de servidores.
+
+3️⃣ Tres. **Falsas empresas de juegos y IA distribuyen malware a usuarios de criptomonedas.** Se ha detectado una campaña de ingeniería social que utiliza empresas ficticias para engañar a usuarios de criptomonedas, haciéndoles descargar malware que puede robar activos digitales.
+
+4️⃣ Cuatro. **Líderes de seguridad deben conocer sobre la gobernanza de IA en SaaS.** Las empresas están integrando lentamente la IA en sus aplicaciones, lo que genera preocupaciones sobre la seguridad y privacidad de los datos, resaltando la importancia de establecer políticas de gobernanza para su uso responsable.
+
+5️⃣ Cinco. **Vulnerabilidad crítica en mcp-remote permite ejecución de código remoto.** Se ha descubierto una grave vulnerabilidad en el proyecto de código abierto mcp-remote que podría permitir a atacantes ejecutar comandos en sistemas afectados, poniendo en riesgo a más de 437,000 usuarios.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

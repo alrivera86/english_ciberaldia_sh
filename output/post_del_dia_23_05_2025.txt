@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 23 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers utilizan videos de TikTok para distribuir malware.** Un grupo de hackers ha comenzado a usar videos de TikTok para propagar malware a través de una técnica llamada ClickFix, que permite ejecutar el código malicioso en la memoria del dispositivo sin dejar rastros. Esto dificulta su detección por parte de los antivirus.
+
+2️⃣ Dos. **ViciousTrap usa falla de Cisco para crear una red de honeypots.** Un grupo de cibercriminales ha comprometido más de 5,300 dispositivos de red en 84 países, aprovechando una falla en routers de Cisco. Esto les permite interceptar tráfico de red y observar intentos de explotación, creando una infraestructura de honeypot para sus operaciones.
+
+3️⃣ Tres. **Europol desmantela redes de ransomware y confiscó €3.5M.** En una reciente operación, Europol ha desmantelado 300 servidores de ransomware en todo el mundo, neutralizando 650 dominios. Se han emitido las órdenes de arresto para 20 personas involucradas en actividades cibernéticas delictivas que han causado millones en daños.
+
+4️⃣ Cuatro. **Estados Unidos desmantela la red de malware DanaBot.** El Departamento de Justicia de EE.UU. anunció la interrupción de la infraestructura de DanaBot, un malware que infectó más de 300,000 computadoras y causó pérdidas de al menos $50 millones. Se han presentado cargos contra 16 individuos por su participación en esta operación cibernética.
+
+5️⃣ Cinco. **SafeLine WAF: Un firewall de aplicaciones web de código abierto.** SafeLine es un firewall de aplicaciones web que protege contra ataques cibernéticos, incluyendo los más avanzados. Es de código abierto y permite a las organizaciones tener control total sobre sus datos, mejorando la seguridad sin los costos recurrentes de soluciones en la nube.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

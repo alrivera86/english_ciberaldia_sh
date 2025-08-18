@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 10 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **FIN6 utiliza currículums falsos en LinkedIn para distribuir malware.** Un grupo cibercriminal ha sido detectado usando currículums falsos alojados en Amazon Web Services para entregar un malware llamado More_eggs. Se hacen pasar por solicitantes de empleo en plataformas como LinkedIn para engañar a reclutadores y propagar el malware.
+
+2️⃣ Dos. **Investigadores descubren riesgos de configuración en Salesforce Industry Cloud.** Se hallaron más de 20 riesgos de configuración que exponen datos sensibles en Salesforce Industry Cloud. Estos problemas podrían permitir a atacantes acceder a información confidencial si no se corrigen adecuadamente.
+
+3️⃣ Tres. **Nuevo malware Myth Stealer se propaga a través de sitios de juegos falsos.** Investigadores han identificado un malware llamado Myth Stealer, propagado por sitios de juegos fraudulentos. Este malware roba contraseñas y datos del navegador, mostrando una ventana falsa para engañar a los usuarios mientras ejecuta su código malicioso.
+
+4️⃣ Cuatro. **Adobe lanza parches para 254 vulnerabilidades de seguridad.** Adobe ha publicado actualizaciones de seguridad para corregir 254 fallos de seguridad en sus productos, principalmente en Experience Manager. Algunos de estos fallos podrían permitir la ejecución de código malicioso si se explotan.
+
+5️⃣ Cinco. **La gestión de identidades no humanas se convierte en un nuevo desafío en ciberseguridad.** Las identidades no humanas, como claves de API y cuentas de servicio, están en aumento y representan un riesgo significativo. Se estima que más del 80% de las organizaciones incrementarán su inversión en seguridad para proteger estas identidades.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

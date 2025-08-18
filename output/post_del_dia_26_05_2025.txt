@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 26 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Más de 70 paquetes maliciosos de npm y VS Code encontrados robando datos y criptomonedas.** Se descubrieron más de 60 paquetes maliciosos en el registro de npm que recolectan información de los usuarios y la envían a un servidor controlado por hackers. Estos paquetes han sido descargados más de 3,000 veces, poniendo en riesgo la seguridad de muchos desarrolladores.
+
+2️⃣ Dos. **Guía del CISO sobre la validación de privacidad web y su importancia.** Esta guía proporciona un enfoque práctico para validar continuamente los controles de privacidad en la web, asegurando que las organizaciones cumplan con las regulaciones y protejan la confianza del usuario. La falta de monitoreo puede resultar en multas y daños a la reputación.
+
+3️⃣ Tres. **Campañas APT, secuestros de navegadores y malware de IA.** Un resumen semanal destaca cómo las amenazas cibernéticas son cada vez más complejas y planificadas. Se observa que los actores de amenazas utilizan videos generados por IA en TikTok para distribuir malware, mostrando la creatividad de los atacantes para evadir la detección.
+
+4️⃣ Cuatro. **CISA advierte sobre ataques a proveedores de SaaS.** La Agencia de Seguridad de Infraestructura y Ciberseguridad de EE. UU. alerta sobre amenazas a aplicaciones en la nube con configuraciones predeterminadas. Los atacantes buscan acceder a datos sensibles de empresas que utilizan estas plataformas, poniendo en riesgo la información de sus clientes.
+
+5️⃣ Cinco. **Malware DOUBLELOADER usa ALCATRAZ para ofuscación.** Se ha descubierto un nuevo cargador de malware llamado DOUBLELOADER que utiliza un obfuscador para complicar su detección. Este malware se despliega junto con infecciones de Rhadamanthys Stealer, recogiendo información del sistema y comunicándose con un servidor remoto.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

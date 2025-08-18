@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 05 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Golden Chickens despliega TerraStealerV2 para robar credenciales.** Un grupo de hackers llamado Golden Chickens ha lanzado dos nuevos tipos de malware, TerraStealerV2 y TerraLogger, que buscan robar datos de navegadores y criptomonedas. Estos programas están en desarrollo y podrían evolucionar pronto.
+
+2️⃣ Dos. **CISA agrega vulnerabilidad crítica de Commvault a su lista.** La Agencia de Ciberseguridad de EE. UU. agregó una falla grave de Commvault a su catálogo, que permite a atacantes remotos ejecutar código sin autorización. Las agencias federales deben aplicar parches de seguridad antes del 23 de mayo.
+
+3️⃣ Tres. **Recapitulación semanal: Aumentan ataques sigilosos.** Esta semana se reportó un aumento en tácticas de ataque sigilosas, con grupos de hackers usando malware oculto y técnicas de espionaje. Es crucial mantenerse alerta, ya que los atacantes pueden estar dentro de los sistemas sin que lo sepamos.
+
+4️⃣ Cuatro. **Flaws en AirPlay podrían permitir ataques sin clic.** Se descubrieron vulnerabilidades en el protocolo AirPlay de Apple que podrían permitir a atacantes tomar control de dispositivos sin interacción del usuario. Se recomienda actualizar los dispositivos de inmediato para evitar riesgos.
+
+5️⃣ Cinco. **Meta lanza nueva función de privacidad en WhatsApp.** Meta ha anunciado una nueva configuración de procesamiento privado en WhatsApp, que asegura que las interacciones con su inteligencia artificial se mantengan privadas y no sean accesibles por terceros.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

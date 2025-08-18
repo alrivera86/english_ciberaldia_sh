@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 25 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers Usan .NET MAUI para Atacar a Usuarios Indios y Chinos con Apps Falsas.** Investigadores de ciberseguridad alertan sobre una campaña de malware en Android que utiliza .NET MAUI para crear aplicaciones bancarias y sociales falsas, robando información sensible de usuarios indios y de habla china.
+
+2️⃣ Dos. **INTERPOL Arresta a 306 Sospechosos en Operación Internacional Contra el Cibercrimen.** En una operación denominada Red Card, las autoridades de siete países africanos detuvieron a 306 personas y confiscaron 1,842 dispositivos, enfocándose en fraudes móviles y estafas de inversión.
+
+3️⃣ Tres. **Cibercriminales Chinos Infiltran Telecomunicaciones Asiáticas Durante Más de Cuatro Años.** HACKERS patrocinados por el estado chino lograron acceder a una importante empresa de telecomunicaciones en Asia, utilizando técnicas de espionaje cibernético y manteniendo acceso continuo a sus sistemas.
+
+4️⃣ Cuatro. **Investigadores Descubren ~200 Dominios C2 Únicos Relacionados con Raspberry Robin.** Un nuevo informe revela casi 200 dominios de comando y control asociados con el malware Raspberry Robin, utilizado por grupos criminales para facilitar accesos iniciales a sistemas comprometidos.
+
+5️⃣ Cinco. **Seguridad SaaS Potenciada por IA: Adaptándose a una Superficie de Ataque en Expansión.** Con un aumento en el uso de aplicaciones SaaS, se vuelve esencial implementar soluciones de seguridad impulsadas por inteligencia artificial para abordar riesgos de configuración y vulnerabilidades ocultas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

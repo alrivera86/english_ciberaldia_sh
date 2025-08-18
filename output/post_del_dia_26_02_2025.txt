@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 26 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nuevos registros de chat filtrados de Black Basta revelan conflictos internos.** Más de un año de registros de chat de la banda de ransomware Black Basta han sido filtrados, mostrando sus tácticas y conflictos internos. El leaker afirma que el grupo estaba apuntando a bancos rusos.
+
+2️⃣ Dos. **Nuevo malware Linux ‘Auto-Color’ otorga acceso remoto a hackers.** Universidades y organizaciones gubernamentales en América del Norte y Asia han sido atacadas por el malware Auto-Color, que permite el acceso completo a sistemas comprometidos, dificultando su eliminación.
+
+3️⃣ Tres. **Tres técnicas de cracking de contraseñas y cómo defenderse.** Los ataques de fuerza bruta, ataques de diccionario y ataques de tablas arcoíris son métodos comunes para vulnerar contraseñas. Usar contraseñas fuertes y autenticación multifactor es clave para la defensa.
+
+4️⃣ Cuatro. **Evolución del SOC 3.0: La inteligencia artificial empodera el talento humano.** SOC 3.0 promete revolucionar la defensa cibernética, utilizando IA para automatizar la triage y mejorar la detección de amenazas, permitiendo a los analistas centrarse en tareas críticas.
+
+5️⃣ Cinco. **Hackers explotan vulnerabilidad en Krpano para insertar anuncios de spam.** Una vulnerabilidad de scripting en el marco de Krpano ha sido utilizada para inyectar scripts maliciosos en más de 350 sitios web, manipulando resultados de búsqueda y promoviendo campañas de anuncios de spam.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

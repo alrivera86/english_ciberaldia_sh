@@ -1,0 +1,123 @@
+import os
+import json
+from openai import OpenAI
+from datetime import datetime
+
+# Configuración de OpenAI API
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=OPENAI_API_KEY)
+GPT_MODEL = "gpt-4o-mini"
+
+# Ruta donde se guardan las noticias extraídas
+NEWS_DIR = "/home/arivera/ciberaldia_sh/news_archive"
+SCRIPTS_DIR = "/home/arivera/ciberaldia_sh/scripts"
+os.makedirs(SCRIPTS_DIR, exist_ok=True)
+
+def get_latest_news_file():
+    """Encuentra el archivo JSON más reciente con noticias."""
+    latest_file = None
+    latest_time = None
+
+    for year in os.listdir(NEWS_DIR):
+        year_path = os.path.join(NEWS_DIR, year)
+        if not os.path.isdir(year_path):
+            continue
+
+        for month in os.listdir(year_path):
+            month_path = os.path.join(year_path, month)
+            if not os.path.isdir(month_path):
+                continue
+
+            for file in os.listdir(month_path):
+                if file.endswith(".json"):
+                    file_path = os.path.join(month_path, file)
+                    file_time = os.path.getmtime(file_path)
+
+                    if latest_time is None or file_time > latest_time:
+                        latest_file = file_path
+                        latest_time = file_time
+
+    return latest_file
+
+def load_news_from_file(file_path):
+    """Carga las noticias desde el archivo JSON más reciente."""
+    with open(file_path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def generate_script_from_news(news_data):
+    """Genera el guion basado en las 5 noticias más relevantes."""
+    prompt = f"""
+	Este GPT se especializa en generar resúmenes diarios de las noticias más relevantes sobre ciberseguridad en español, junto con imágenes relacionadas. Se enfoca en entidades financieras, el país Chile y empresas con conexiones a América Latina. El objetivo es producir resúmenes concisos adecuados para videos de TikTok, con una duración de entre 45 segundos y 1 minuto, dirigidos a personas que no tienen conocimientos previos en ciberseguridad pero que quieren empezar a informarse y aprender sobre el tema.
+
+	Los usuarios proporcionarán noticias diarias en el siguiente formato:
+
+	1. **Título de la noticia:**
+	2. **Descripción de la noticia:**
+	3. **Fecha de la noticia:**
+	4. **¿Está relacionada con Chile?** (Esta pregunta es obligatoria)
+	   - [ ] Sí
+	   - [ ] No
+	5. **¿Está relacionada con alguna entidad financiera?** (Opcional, pero importante para priorizar)
+	   - [ ] Sí
+	   - [ ] No
+	6. **¿Afecta a empresas con conexiones a América Latina?** (Opcional, pero importante para priorizar)
+	   - [ ] Sí
+	   - [ ] No
+
+	El GPT analizará las noticias según estos criterios para priorizar las relacionadas con Chile y, entre ellas, las que tengan que ver con entidades financieras. En ausencia de noticias relacionadas con Chile, se priorizarán las que estén relacionadas con entidades financieras o afecten a empresas con conexiones a América Latina.
+
+	Para manejar las prioridades, se asignará una puntuación a cada noticia de la siguiente manera:
+	- Relacionada con Chile: +3 puntos.
+	- Relacionada con entidades financieras: +2 puntos.
+	- Afecta a empresas con conexiones a América Latina: +1 punto.
+
+	Las noticias se ordenarán según su puntuación total. En caso de empate, se priorizarán las noticias relacionadas con Chile. Las cinco noticias con la mayor puntuación serán seleccionadas para el resumen diario.
+
+	Los resúmenes deben incluir la fecha del día y un mínimo de 3 y un máximo de 5 noticias, redactados de manera directa, clara, sencilla y atractiva para personas sin conocimientos técnicos. Cada noticia debe ser explicada de forma muy simple, usando lenguaje cotidiano, como si se lo contáramos a alguien que no sabe nada de ciberseguridad, aterrizando los conceptos técnicos a ejemplos o comparaciones fáciles de entender.
+
+	Además, debe entregar un guion para cada resumen de noticias para TikTok que empiece con la frase: "¿Qué pasó hoy en Ciberseguridad?" Cada noticia en el guion debe estar presentada de manera amigable, explicativa y profesional como un reportero de noticias, proporcionando un contexto adicional para cada noticia, con un resumen de no más de 50 palabras.
+
+	Adicionalmente, se generará una imagen de portada consolidada para el reporte de noticias, destacando todas las noticias que se incluirán en el resumen. Esta imagen debe estar en formato TikTok tamaño 9:16, debe captar la esencia de las noticias incluidas en el reporte del día y debe incluir la fecha del día en Arial 20. También se generarán imágenes individuales para cada noticia, todas en el mismo formato TikTok tamaño 9:16. En las imágenes no debe tener nada relacionado a TikTok ni nada que diga 9:16.
+    	Devuelve solo el guion formateado sin intro ni cierre solo las notiicas, sin explicaciones adicionales.
+    no agergues Aquí está el guión formateado basado en las noticias proporcionadas:    
+    Solo va a dar las noticias que estan en el json no puede inventar noticias, si es una solo le das el guion de una si soni	 dos solo el guin de dos o si son tres guion de 3 o 4 igual o maximo 5, pero puedes inventar noticias"""
+    
+    response = client.chat.completions.create(
+        model=GPT_MODEL,
+        messages=[
+            {"role": "system", "content": "Eres un experto en ciberseguridad y generador de contenido."},
+            {"role": "user", "content": prompt}
+        ],
+        temperature=0.7,
+        max_tokens=1000
+    )
+    
+    return response.choices[0].message.content.strip()
+
+def save_news_scripts(script_text):
+    """Guarda cada noticia en archivos separados dentro de la carpeta scripts."""
+    news_items = script_text.split("\n")
+    news_number = 1
+    
+    for news in news_items:
+        if news.strip():
+            output_path = os.path.join(SCRIPTS_DIR, f"noticia_{news_number}.txt")
+            with open(output_path, "w", encoding="utf-8") as file:
+                file.write(news.strip())
+            print(f"✅ Guion guardado en {output_path}")
+            news_number += 1
+
+def main():
+    latest_news_file = get_latest_news_file()
+    if not latest_news_file:
+        print("No se encontraron archivos de noticias recientes.")
+        return
+    
+    print(f"Usando el archivo de noticias: {latest_news_file}")
+    news_data = load_news_from_file(latest_news_file)
+    script_text = generate_script_from_news(news_data)
+    save_news_scripts(script_text)
+    print("✅ Todos los guiones han sido generados y guardados correctamente.")
+
+if __name__ == "__main__":
+    main()

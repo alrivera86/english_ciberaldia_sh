@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 07 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft revela falla de seguridad en Exchange Server.** Microsoft advirtió sobre una vulnerabilidad en versiones locales de Exchange Server que podría permitir a atacantes escalar privilegios en entornos híbridos. Si se explota, el atacante podría acceder a Exchange Online sin dejar rastro.
+
+2️⃣ Dos. **Paquetes maliciosos de Go y npm provocan daños.** Investigadores encontraron 11 paquetes de Go que descargan malware en Windows y Linux. También, dos paquetes en npm que eliminan datos de sistemas si detectan un número de teléfono específico. Esto resalta los riesgos en el uso de software de código abierto.
+
+3️⃣ Tres. **Aumentan los ataques a la cadena de suministro de Python.** En 2025, se han detectado paquetes maliciosos en el índice de paquetes de Python (PyPI), exponiendo a empresas a riesgos al descargar código de fuentes no verificadas. Es esencial que los desarrolladores revisen sus dependencias de software.
+
+4️⃣ Cuatro. **La inteligencia artificial transforma la seguridad en la nube.** En 2025, el uso de IA en la seguridad se ha vuelto crítico para detectar ataques rápidamente. Las empresas deben proteger tanto sus sistemas de IA como los datos que manejan, ya que los ataques están evolucionando rápidamente.
+
+5️⃣ Cinco. **Malware SocGholish se propaga a través de herramientas publicitarias.** Este malware se está utilizando para acceder a sistemas y vender ese acceso a otros cibercriminales. Utiliza técnicas sofisticadas para engañar a los usuarios, mostrando actualizaciones falsas de programas populares.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

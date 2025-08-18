@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 05 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **El DoJ decomisa 145 dominios del mercado de tarjetas BidenCash.** El Departamento de Justicia de EE. UU. anunció la incautación de casi 145 dominios relacionados con un mercado de tarjetas robadas llamado BidenCash, que facilitó la compra y venta de información personal y tarjetas de crédito robadas, generando más de 17 millones de dólares.
+
+2️⃣ Dos. **Grupo de hackers iraní BladedFeline ataca objetivos en Irak.** Se ha descubierto que un grupo de hackers alineado a Irán, conocido como BladedFeline, ha estado atacando a funcionarios gubernamentales en Irak y Kurdistán, utilizando malware para recopilar información diplomática y financiera importante.
+
+3️⃣ Tres. **Investigadores analizan tácticas del grupo de hackers Bitter.** Un análisis reciente revela que el grupo de hackers Bitter, vinculado al gobierno indio, ha expandido sus ataques a entidades en Turquía, China y América del Sur, utilizando técnicas avanzadas de phishing para infiltrarse en sistemas gubernamentales.
+
+4️⃣ Cuatro. **Nuevo enfoque en la evaluación del valor cibernético para empresas.** Expertos sugieren que las empresas deben adoptar un modelo de Evaluación del Valor Empresarial (BVA) para conectar la ciberseguridad con el impacto financiero real, ayudando a los líderes a entender mejor los riesgos y costos asociados a las brechas de seguridad.
+
+5️⃣ Cinco. **Extensiones de Chrome populares exponen datos de usuarios.** Investigadores han descubierto que varias extensiones populares de Chrome transmiten datos sensibles sin cifrado, lo que puede facilitar ataques de hackers que interceptan información de usuarios en redes públicas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

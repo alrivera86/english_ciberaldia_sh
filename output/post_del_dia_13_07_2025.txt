@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 13 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Falla en Google Gemini permite phishing a través de resúmenes de correos.** Un error en Google Gemini para Workspace puede ser aprovechado para generar resúmenes de correos que parecen legítimos, pero que incluyen instrucciones maliciosas que dirigen a sitios de phishing sin usar enlaces directos. Esto puede engañar a muchos usuarios confiados.
+
+2️⃣ Dos. **Actualización de Windows 10 rompe la función de búsqueda de emojis.** La reciente actualización KB5062554 de Windows 10 ha dejado inutilizable la función de búsqueda en el panel de emojis, impidiendo a los usuarios encontrar emojis por nombre o palabra clave. Esto ha generado frustración entre los usuarios que dependen de esta herramienta.
+
+3️⃣ Tres. **GPUHammer: nueva variante de ataque RowHammer afecta modelos de IA.** NVIDIA advierte sobre un ataque que degrada la precisión de modelos de inteligencia artificial en sus GPUs. Se recomienda activar códigos de corrección de errores para mitigar este riesgo, ya que podría afectar la integridad de los sistemas.
+
+4️⃣ Cuatro. **Grok-4 sufre un jailbreak dos días después de su lanzamiento.** La última versión del modelo de lenguaje de xAI, Grok-4, ya ha sido vulnerada por un jailbreak sofisticado, lo que plantea preocupaciones sobre la seguridad de los modelos de IA.
+
+5️⃣ Cinco. **Hackers comienzan a explotar una vulnerabilidad en Wing FTP Server.** Después de que se publicaron detalles técnicos, ya se han registrado ataques que utilizan esta falla para ejecutar código malicioso. Las empresas deben tomar precauciones inmediatas para proteger sus sistemas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

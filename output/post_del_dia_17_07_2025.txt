@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 17 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers utilizan repositorios de GitHub para alojar malware Amadey.** Un grupo de hackers ha estado usando cuentas falsas de GitHub para distribuir malware llamado Amadey, el cual roba información y puede instalar otros programas maliciosos. Esto representa una nueva táctica para evadir la detección de seguridad.
+
+2️⃣ Dos. **Hackers explotan vulnerabilidad en Apache HTTP Server para minar criptomonedas.** Investigadores han descubierto que un grupo está usando una falla en Apache HTTP Server para instalar un minero de criptomonedas llamado Linuxsys en sitios web comprometidos, logrando así evadir la detección al utilizar servidores legítimos.
+
+3️⃣ Tres. **Europol desmantela grupo hacktivista NoName057(16) vinculado a ataques DDoS.** Una operación internacional ha interrumpido la infraestructura de un grupo pro-ruso que lanzó ataques DDoS contra Ucrania. Se han desmantelado más de 100 sistemas y se han realizado arrestos en varios países europeos.
+
+4️⃣ Cuatro. **Ciberatacantes chinos apuntan al sector de semiconductores de Taiwán.** Un grupo patrocinado por el estado chino está llevando a cabo campañas de phishing dirigidas a la industria de semiconductores de Taiwán, usando tácticas para robar información y comprometer la seguridad de varias empresas del sector.
+
+5️⃣ Cinco. **CTEM vs ASM vs Gestión de Vulnerabilidades: Lo que los líderes de seguridad deben saber.** En el cambiante panorama de amenazas, las empresas deben adoptar enfoques proactivos y adaptativos en ciberseguridad, combinando la gestión de amenazas continuas, la gestión de vulnerabilidades y la gestión de la superficie de ataque para fortalecer su defensa.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

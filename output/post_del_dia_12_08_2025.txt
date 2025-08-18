@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 12 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Grupos de cibercrimen ShinyHunters y Scattered Spider se unen para extorsionar empresas.** Una nueva campaña de extorsión está apuntando a clientes de Salesforce, y se advierte que estos grupos pueden comenzar a atacar a proveedores de servicios financieros y tecnológicos, utilizando tácticas avanzadas de ingeniería social para robar credenciales.
+
+2️⃣ Dos. **Aumento global en ataques de fuerza bruta contra VPNs de Fortinet.** Investigadores reportan un aumento significativo en el tráfico malicioso dirigido a dispositivos VPN de Fortinet, con IPs de varios países involucradas, lo que sugiere un ataque coordinado y enfocado que podría afectar a empresas a nivel mundial.
+
+3️⃣ Tres. **Nueva amenaza APT 'Curly COMrades' ataca a entidades en Georgia y Moldavia.** Este grupo cibernético ha sido observado intentando extraer bases de datos críticas, apuntando a organismos judiciales y empresas de energía, utilizando técnicas sofisticadas para mantener acceso a largo plazo.
+
+4️⃣ Cuatro. **Ciberataques continúan afectando la cadena de suministro de software.** Investigaciones recientes han revelado que imágenes de Docker en el repositorio Docker Hub contienen una puerta trasera, lo que pone en riesgo la seguridad del ecosistema de código abierto y destaca la necesidad de vigilancia constante.
+
+5️⃣ Cinco. **La batalla entre navegadores empresariales y extensiones de navegador seguras.** Los líderes de seguridad deben decidir si implementar un navegador dedicado o añadir controles a los navegadores existentes para proteger datos sensibles, considerando el cambio de hábitos de los usuarios en un ambiente empresarial.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

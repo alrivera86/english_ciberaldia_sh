@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 04 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Google ordenado a pagar $314M por mal uso de datos celulares.** Un tribunal en California determinó que Google debe compensar a usuarios de Android por usar su datos celulares sin permiso, incluso cuando los dispositivos estaban inactivos. Este fallo cierra una demanda colectiva iniciada en 2019.
+
+2️⃣ Dos. **Vulnerabilidades críticas en Sudo permiten acceso root en Linux.** Investigadores de ciberseguridad han descubierto dos fallos en Sudo, que podrían permitir a atacantes locales obtener privilegios de administrador en sistemas vulnerables, afectando a muchas distribuciones de Linux.
+
+3️⃣ Tres. **Los agentes de IA podrían estar filtrando datos.** Se alerta que los sistemas de IA generativa pueden crear formas ocultas de filtrar datos sensibles. Un webinar gratuito discutirá cómo prevenir estas filtraciones que pueden ocurrir sin que los equipos se den cuenta.
+
+4️⃣ Cuatro. **Google lanza Veo 3, su generador de videos por IA.** La herramienta de Google, Veo 3, ahora está disponible en la app Gemini con una suscripción de $20, permitiendo a usuarios generar videos personalizados a partir de descripciones en minutos.
+
+5️⃣ Cinco. **NightEagle APT explota vulnerabilidad de Microsoft Exchange.** Investigadores revelan que un grupo de cibercriminales llamado NightEagle ha estado atacando servidores de Microsoft Exchange en China, usando un exploit de día cero para robar información de sectores tecnológicos y militares.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 22 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft asegura la firma de MSA con VMs confidenciales de Azure tras la brecha Storm-0558.** Microsoft ha trasladado el servicio de firma de cuentas Microsoft a máquinas virtuales confidenciales de Azure y está migrando el servicio de firma de Entra ID, mejorando la seguridad tras un ataque que comprometió datos en 2023.
+
+2️⃣ Dos. **Phishers explotan Google Sites y DKIM para enviar correos firmados y robar credenciales.** Un ataque de phishing sofisticado utilizó la infraestructura de Google para enviar correos electrónicos falsos que redirigen a sitios fraudulentos, logrando evadir filtros de seguridad con firmas DKIM válidas, lo que facilita el robo de datos.
+
+3️⃣ Tres. **5 preocupaciones principales sobre el uso del navegador por empleados.** Un informe resalta que, a pesar de que los navegadores son responsables de más del 70% de los ataques de malware modernos, a menudo permanecen sin supervisión, lo que crea vulnerabilidades significativas en la seguridad empresarial.
+
+4️⃣ Cuatro. **Vulnerabilidad en GCP Cloud Composer permitió a atacantes elevar privilegios.** Investigadores han descubierto una vulnerabilidad en Google Cloud que permitía a atacantes escalar sus permisos en el servicio de orquestación Cloud Composer, lo que podría haber facilitado el acceso no autorizado a otros servicios críticos.
+
+5️⃣ Cinco. **Malware en Docker explota nodo Web3 de Teneo para minar criptomonedas.** Investigadores han detallado una campaña de malware que ataca entornos Docker utilizando una técnica no documentada para minar criptomonedas a través de un servicio Web3 llamado Teneo, aprovechando recursos de computación de manera ilícita.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

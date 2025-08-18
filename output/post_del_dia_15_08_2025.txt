@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 15 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Cisco advierte sobre una falla crítica en su software.** Cisco ha lanzado actualizaciones de seguridad para solucionar una vulnerabilidad grave que permite a un atacante ejecutar código arbitrario en sistemas afectados. Esta falla podría ser aprovechada si el software está configurado para autenticación RADIUS, lo que lo hace especialmente peligroso.
+
+2️⃣ Dos. **Ataque a Colt Telecom reclamado por ransomware WarLock.** Colt Technology Services enfrenta un ciberataque que ha causado interrupciones en sus operaciones. Un grupo de hackers dice haber robado un millón de documentos de la empresa y los ofrece a la venta, incluyendo datos financieros y correos internos.
+
+3️⃣ Tres. **EE.UU. sanciona a Garantex y Grinex por delitos de ransomware.** El Departamento del Tesoro de EE.UU. renovó sanciones contra Garantex por facilitar transacciones ilícitas relacionadas con ransomware, superando los $100 millones. También se sancionó a Grinex, su sucesor, implicado en operaciones similares.
+
+4️⃣ Cuatro. **Zero Trust + IA: Privacidad en la era de la IA autónoma.** La privacidad ya no es solo sobre control, sino sobre confianza. A medida que la inteligencia artificial se vuelve más autónoma, surge la necesidad de diseñar sistemas que respeten la privacidad y la ética, en lugar de depender únicamente de la seguridad técnica.
+
+5️⃣ Cinco. **Vulnerabilidad crítica en RADIUS de Cisco podría causar problemas graves.** Cisco ha identificado una falla de seguridad en su sistema de gestión que permite a atacantes no autenticados inyectar comandos maliciosos. Es crucial que los usuarios apliquen las actualizaciones para proteger sus sistemas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 06 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers Explotan Vulnerabilidades en Dispositivos IoT de GeoVision.** Se han detectado ataques que aprovechan fallas de seguridad en dispositivos IoT de GeoVision, formando un botnet llamado Mirai para realizar ataques de denegación de servicio. Se aconseja a los usuarios actualizar a modelos más seguros para evitar riesgos.
+
+2️⃣ Dos. **Estafas de Inversión Utilizan Anuncios en Facebook.** Investigadores han descubierto grupos que realizan estafas de inversión a través de anuncios falsos en redes sociales, utilizando respaldos de celebridades. Los atacantes recogen datos personales y filtran víctimas, prometiendo altas ganancias en plataformas falsas.
+
+3️⃣ Tres. **Terceros y Credenciales de Maquinaria Detrás de Brechas de Datos.** Un informe destaca que la exposición de terceros y el abuso de credenciales de máquinas son responsables de las peores brechas de datos en 2025, con un aumento significativo en la participación de terceros en estos incidentes.
+
+4️⃣ Cuatro. **Microsoft Advierte sobre Plantillas de Helm en Kubernetes.** Microsoft advierte que el uso de plantillas predefinidas en Kubernetes puede llevar a configuraciones incorrectas, exponiendo datos sensibles. Se recomienda revisar estas configuraciones para evitar que los atacantes accedan a información crítica.
+
+5️⃣ Cinco. **Protección de Datos en Entra ID: ¿Es Suficiente?** Microsoft Entra ID enfrenta más de 600 millones de ataques diarios. Se debate si las protecciones nativas son suficientes, sugiriendo que una estrategia de respaldo es crucial para la recuperación y continuidad del negocio en caso de ataques o errores humanos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 19 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers explotan la función de dispositivos vinculados de Signal.** Varios actores de amenazas alineados con Rusia están utilizando códigos QR maliciosos para acceder a cuentas de Signal, permitiendo a los atacantes eavesdrop en las conversaciones de las víctimas. Este método ha llamado la atención por su creciente uso.
+
+2️⃣ Dos. **Nueva variante de Snake Keylogger utiliza AutoIt para evadir detección.** El Snake Keylogger ha lanzado una nueva variante que ha intentado infectar a más de 280 millones de usuarios. Se entrega a través de correos de phishing y utiliza técnicas avanzadas de evasión para robar información sensible.
+
+3️⃣ Tres. **La guía definitiva para estructurar y vender servicios de vCISO.** La creciente demanda de servicios de ciberseguridad está impulsando a los proveedores de servicios administrados a ofrecer servicios de CISO virtual, lo que les permite proporcionar liderazgo en ciberseguridad sin los costos de un empleado a tiempo completo.
+
+4️⃣ Cuatro. **Instaladores de juegos trojanizados despliegan un minero de criptomonedas.** Usuarios engañados para descargar instaladores de juegos trojanizados están siendo atacados por un grupo que despliega un minero de criptomonedas en sus sistemas. Kaspersky ha rastreado esta actividad a un ataque a gran escala llamado StaryDobry.
+
+5️⃣ Cinco. **CISA añade vulnerabilidades de Palo Alto y SonicWall a su lista de explotación.** La CISA ha agregado dos fallas de seguridad que afectan a PAN-OS y SonicWall SSLVPN a su catálogo de vulnerabilidades explotadas, tras evidencias de intentos de explotación activa en estas plataformas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

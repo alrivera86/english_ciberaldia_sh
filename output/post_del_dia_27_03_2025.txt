@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 27 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Los 3 principales exploits de MS Office que los hackers usan en 2025.** Los documentos de Word y Excel siguen siendo vehículos de malware en 2025. Los ataques de phishing, exploits sin clic y técnicas de esteganografía son comunes. Las organizaciones deben actualizar su software y revisar cómo manejan los documentos de Office.
+
+2️⃣ Dos. **Nuevo informe explica por qué las soluciones CASB no abordan el Shadow SaaS.** Un reciente análisis destaca las limitaciones de las soluciones CASB para proteger aplicaciones SaaS no autorizadas. Se propone un enfoque basado en el navegador para proporcionar visibilidad y protección en tiempo real contra amenazas.
+
+3️⃣ Tres. **Hackers reutilizan EDRKillShifter de RansomHub en ataques de Medusa y BianLian.** Un análisis revela conexiones entre RansomHub y otros grupos de ransomware. Se utiliza una herramienta personalizada para desactivar software de detección de amenazas en sistemas comprometidos, facilitando la ejecución de ransomware.
+
+4️⃣ Cuatro. **APT36 simula el sitio web de India Post para infectar usuarios.** Un grupo de amenazas avanzadas, vinculado a Pakistán, ha creado un sitio web falso que imita el sistema postal de la India. El objetivo es infectar a usuarios de Windows y Android con malware a través de documentos y aplicaciones maliciosas.
+
+5️⃣ Cinco. **Hackers repurponen el kit de phishing Morphing Meerkat.** Investigadores de ciberseguridad han descubierto una nueva plataforma de phishing que imita 114 marcas utilizando registros DNS. Esta técnica permite ataques más dirigidos y efectivos, aprovechando la confianza de los usuarios en correos electrónicos legítimos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

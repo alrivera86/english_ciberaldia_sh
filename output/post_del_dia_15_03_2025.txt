@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 15 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Paquetes maliciosos en PyPI robaron tokens de nube.** Investigadores de ciberseguridad alertan sobre una campaña maliciosa en el repositorio PyPI, donde paquetes disfrazados de utilidades "time" robaban datos sensibles como tokens de acceso a la nube. Más de 14,100 descargas antes de ser eliminados.
+
+2️⃣ Dos. **Ciberataque a banco chileno.** Un ataque cibernético ha afectado a uno de los principales bancos en Chile, comprometiendo datos de clientes y generando preocupaciones sobre la seguridad de la información financiera en el país. Se están llevando a cabo investigaciones para mitigar el daño.
+
+3️⃣ Tres. **Phishing dirigido a entidades financieras en LatAm.** Se ha detectado una nueva campaña de phishing que apunta a entidades financieras en América Latina, utilizando tácticas avanzadas para robar credenciales de acceso. Las autoridades recomiendan a los usuarios estar alerta ante correos electrónicos sospechosos.
+
+4️⃣ Cuatro. **Vulnerabilidad en software bancario.** Se ha descubierto una vulnerabilidad crítica en un popular software utilizado por bancos en Chile, lo que podría permitir a atacantes acceder a datos sensibles. Los desarrolladores han lanzado un parche urgente para mitigar riesgos.
+
+5️⃣ Cinco. **Aumento del ransomware en América Latina.** Un informe revela que los ataques de ransomware han aumentado significativamente en América Latina, afectando a diversas industrias, incluidas las finanzas. Las empresas son instadas a reforzar sus medidas de ciberseguridad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

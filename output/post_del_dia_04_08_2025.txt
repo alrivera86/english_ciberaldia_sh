@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 04 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nuevas vulnerabilidades en servidores de NVIDIA.** Se han descubierto fallos de seguridad en el servidor Triton de NVIDIA, que permite a atacantes no autenticados tomar control total del sistema. Aunque no se ha confirmado su explotación, es crucial que las organizaciones actualicen sus sistemas para evitar riesgos.
+
+2️⃣ Dos. **Hackers vietnamitas roban 200,000 contraseñas.** Un grupo de cibercriminales ha utilizado un nuevo malware llamado PXA Stealer, afectando a más de 4,000 direcciones IP en 62 países. Este software roba contraseñas y datos de tarjetas de crédito, alimentando un ecosistema de venta de información robada.
+
+3️⃣ Tres. **Guía para prevenir ataques Man-in-the-Middle.** Los ataques Man-in-the-Middle son peligrosos porque los criminales interceptan comunicaciones para robar datos. Para protegerse, se recomienda usar conexiones seguras y autenticar correctamente las comunicaciones, evitando redes Wi-Fi públicas.
+
+4️⃣ Cuatro. **Nuevo backdoor 'Plague' amenaza sistemas Linux.** Investigadores han detectado un backdoor en Linux llamado Plague, que permite a los atacantes eludir la autenticación del sistema. Este malware es difícil de detectar y mantiene un acceso persistente, lo que representa un riesgo significativo para la seguridad.
+
+5️⃣ Cinco. **Aumento de ataques de ransomware en 2025.** Se ha observado un incremento en las actividades de ransomware, afectando a diversas industrias. La evolución de las tácticas de los atacantes muestra que están utilizando métodos más sofisticados para extorsionar a las víctimas, lo que requiere una mayor atención a la seguridad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

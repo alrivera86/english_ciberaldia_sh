@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 01 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **CVE-2025-6554: Vulnerabilidad crítica en Chrome.** Google ha lanzado actualizaciones de seguridad para su navegador Chrome, abordando una vulnerabilidad activa que permite a atacantes remotos ejecutar código arbitrario. Se aconseja a los usuarios actualizar su navegador lo antes posible para evitar riesgos.
+
+2️⃣ Dos. **Nuevos riesgos en entornos de desarrollo.** Investigadores han descubierto fallas en herramientas de desarrollo como Visual Studio Code que permiten que extensiones maliciosas se hagan pasar por verificadas. Esto representa un riesgo alto, ya que pueden ejecutar código dañino en las computadoras de los desarrolladores.
+
+3️⃣ Tres. **Modelo de madurez para la seguridad del navegador.** Un nuevo marco ofrece a las empresas una guía para mejorar la seguridad en navegadores, un área frecuentemente descuidada. Con el trabajo actual centrado en la navegación, se propone un enfoque que ayuda a gestionar riesgos en tiempo real.
+
+4️⃣ Cuatro. **Campañas de malware de TA829 y UNK_GreenSec.** Investigadores han identificado similitudes entre los actores detrás del malware RomCom RAT y UNK_GreenSec, que utilizan tácticas comunes para infiltrarse en sistemas. Ambas agrupaciones emplean técnicas sofisticadas para el envío de correos maliciosos y la distribución de malware.
+
+5️⃣ Cinco. **Vulnerabilidad crítica en el protocolo MCP de Anthropic.** Se ha descubierto una vulnerabilidad grave en el protocolo de modelo de contexto de Anthropic. Permite a atacantes ejecutar código de forma remota, lo que podría comprometer severamente la seguridad de los desarrolladores que utilizan esta herramienta.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

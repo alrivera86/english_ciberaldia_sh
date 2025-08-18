@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 02 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Vulnerabilidades en aplicaciones de Ulefone y Krüger&Matz.** Se han descubierto tres fallas de seguridad en aplicaciones preinstaladas de teléfonos Ulefone y Krüger&Matz que permiten a cualquier app realizar un reinicio de fábrica y robar el PIN del dispositivo. Esto podría poner en riesgo la información personal de los usuarios.
+
+2️⃣ Dos. **Qualcomm soluciona tres vulnerabilidades críticas.** Qualcomm ha lanzado actualizaciones para corregir tres fallas de seguridad que han sido explotadas en ataques selectivos. Estas vulnerabilidades podrían permitir a atacantes ejecutar comandos no autorizados en dispositivos Android, poniendo en riesgo la información de los usuarios.
+
+3️⃣ Tres. **Nuevo malware Android llamado GhostSpy.** Investigadores han reportado un nuevo malware llamado GhostSpy que permite a los atacantes registrar pulsaciones de teclas, capturar pantallas y acceder a datos sensibles en dispositivos Android. Este malware se propaga a través de una app dropper, dificultando su detección y eliminación.
+
+4️⃣ Cuatro. **Evolución del troyano bancario Zanubis en Perú.** Kaspersky ha observado que el troyano Zanubis ha evolucionado para atacar a bancos en Perú, engañando a usuarios para que permitan permisos de accesibilidad. Esto permite a los atacantes robar datos bancarios y controlar el dispositivo sin que el usuario lo sepa.
+
+5️⃣ Cinco. **Estrategias de defensa en industrias críticas.** Las organizaciones en sectores como finanzas y energía están mejorando sus estrategias de seguridad ante amenazas cibernéticas avanzadas. Están utilizando tecnologías de detección para identificar comportamientos sospechosos que podrían indicar un ataque, protegiendo así datos sensibles y cumpliendo con regulaciones.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

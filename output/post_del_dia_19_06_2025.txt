@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 19 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Aprovechan contraseñas de aplicaciones de Gmail en campaña de phishing.** Un grupo de hackers rusos ha estado utilizando contraseñas específicas de aplicaciones de Google para acceder a correos electrónicos de académicos. Crean confianza a través de correos falsos que parecen legítimos, logrando que las víctimas compartan sus contraseñas.
+
+2️⃣ Dos. **Estafa de Zoom con deepfakes afecta a empleado de criptomonedas.** Un empleado del sector Web3 fue engañado mediante una llamada de Zoom en la que se usaron deepfakes de ejecutivos de su empresa. Al final, instalaron malware en su Mac al descargar una supuesta extensión para solucionar problemas de audio.
+
+3️⃣ Tres. **Nuevo malware AntiDot afecta dispositivos Android.** Investigadores han descubierto un malware llamado AntiDot, que ha comprometido más de 3,775 dispositivos Android. Este malware se vende en foros oscuros y puede robar información sensible y controlar dispositivos remotamente.
+
+4️⃣ Cuatro. **Ciberataques encubiertos en herramientas confiables.** Los ataques "Living Off Trusted Sites" (LOTS) utilizan plataformas conocidas como Google y Microsoft para esconder código malicioso. Esto dificulta la detección, ya que el tráfico parece legítimo.
+
+5️⃣ Cinco. **Problemas de seguridad en el "vibe coding" de programación.** Un nuevo método de programación que usa lenguaje natural para generar código puede llevar a vulnerabilidades silenciosas. Los investigadores advierten que sin un enfoque de seguridad adecuado, el código generado puede tener fallos explotables.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

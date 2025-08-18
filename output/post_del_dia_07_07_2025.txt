@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 07 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Public exploits released for CitrixBleed 2 NetScaler flaw, patch now.** Investigadores han publicado exploits para una vulnerabilidad crítica en Citrix NetScaler que puede permitir a los atacantes robar tokens de sesión de usuario. Se recomienda a todas las organizaciones aplicar los parches de inmediato para evitar posibles ataques.
+
+2️⃣ Dos. **Manufacturing Security: Why Default Passwords Must Go.** Un reciente ataque a instalaciones de agua en EE.UU. mostró cómo los hackers accedieron fácilmente usando contraseñas por defecto. CISA advierte que estas credenciales son un riesgo común y urge a los fabricantes a eliminarlas para mejorar la seguridad.
+
+3️⃣ Tres. **TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors.** Un grupo de hackers ha sido detectado atacando organizaciones gubernamentales en India con un nuevo troyano llamado DRAT V2. Este malware permite el acceso remoto a sistemas sensibles, lo que representa un grave riesgo para la seguridad nacional.
+
+4️⃣ Cuatro. **⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More.** Un resumen de la semana revela múltiples amenazas, incluyendo un nuevo exploit en Chrome y ataques a empresas de criptomonedas. La seguridad es crucial en un entorno donde incluso errores pequeños pueden llevar a grandes brechas.
+
+5️⃣ Cinco. **SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools.** Investigadores han descubierto una campaña maliciosa que utiliza técnicas de optimización de motores de búsqueda para engañar a usuarios de pequeñas y medianas empresas. El malware se disfraza de herramientas de inteligencia artificial, representando un gran riesgo para la seguridad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

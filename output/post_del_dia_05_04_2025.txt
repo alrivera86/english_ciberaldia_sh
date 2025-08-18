@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 05 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Coinbase corrige actividad de cuenta 2FA que asusta a los usuarios.** Coinbase está solucionando un mensaje de actividad de cuenta confuso que generó ansiedad entre los clientes, quienes pensaron que sus credenciales estaban comprometidas debido a múltiples entradas de "error de segundo factor".
+
+2️⃣ Dos. **Vulnerabilidad en WinRAR elude avisos de seguridad de Windows.** Se descubrió una vulnerabilidad en WinRAR que permite eludir la advertencia de seguridad Mark of the Web, lo que puede llevar a la ejecución de código arbitrario en máquinas Windows. Este problema ha sido corregido en la última versión del software.
+
+3️⃣ Tres. **Paquetes maliciosos de Python en PyPI robaron datos sensibles.** Investigadores han hallado bibliotecas maliciosas en el índice de paquetes de Python (PyPI) que robaban información sensible y probaban datos de tarjetas de crédito robadas, acumulando más de 39,000 descargas antes de ser eliminadas.
+
+4️⃣ Cuatro. **Hackers norcoreanos despliegan BeaverTail a través de 11 paquetes maliciosos de npm.** Los actores de amenaza norcoreanos han publicado nuevos paquetes maliciosos en npm que distribuyen el malware BeaverTail, con el objetivo de infiltrar sistemas de desarrollo y robar datos sensibles.
+
+5️⃣ Cinco. **Microsoft reconoce a EncryptHub por reportar fallos en Windows.** Microsoft ha reconocido a EncryptHub, un hacker detrás de más de 618 violaciones, por descubrir y reportar vulnerabilidades en Windows, revelando la compleja vida de un individuo que oscila entre la ciberseguridad y el crimen cibernético.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

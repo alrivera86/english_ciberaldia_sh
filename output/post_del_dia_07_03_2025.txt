@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 07 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft advierte sobre campaña de malvertising que infecta más de 1 millón de dispositivos.** Microsoft ha revelado una campaña de malvertising que ha afectado a más de un millón de dispositivos a nivel mundial, diseñada para robar información sensible. La actividad fue detectada en diciembre de 2024 y está asociada a los actores de amenaza conocidos como Storm-0408.
+
+2️⃣ Dos. **Este paquete malicioso de PyPI robó claves privadas de Ethereum a través de transacciones de Polygon RPC.** Investigadores de ciberseguridad han descubierto un paquete malicioso en PyPI, llamado set-utils, que roba claves privadas de Ethereum al suplantar bibliotecas populares. El paquete tiene como objetivo a desarrolladores de Ethereum y fue descargado 1,077 veces.
+
+3️⃣ Tres. **FIN7 y FIN8 usan Ragnar Loader para acceso persistente y operaciones de ransomware.** Investigadores han revelado el uso de una herramienta de malware llamada Ragnar Loader, utilizada por grupos como FIN7 y FIN8 para mantener acceso a sistemas comprometidos. Este malware ha sido adaptado continuamente para evadir detección y asegurar operaciones a largo plazo.
+
+4️⃣ Cuatro. **Webinar: Aprende cómo ASPM transforma la seguridad de aplicaciones de reactiva a proactiva.** Un nuevo enfoque, Application Security Posture Management (ASPM), busca unir datos en tiempo real con información de código, permitiendo a las organizaciones prevenir amenazas en lugar de reaccionar ante ellas. Se ofrecerá un webinar para explorar esta estrategia.
+
+5️⃣ Cinco. **¿Qué significa realmente PCI DSS v4? Lecciones del viaje de cumplimiento de A&F.** Con la llegada de PCI DSS v4, las empresas que manejan datos de tarjetas de pago deben prepararse para evitar multas. La discusión sobre los desafíos de cumplimiento incluye la seguridad de scripts de terceros y la detección continua de cambios no autorizados.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

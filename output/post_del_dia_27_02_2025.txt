@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 27 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **89% del uso de GenAI en empresas es invisible para las organizaciones, revelando riesgos críticos de seguridad.** Un nuevo informe de LayerX destaca que casi el 90% del uso de herramientas de inteligencia artificial en empresas ocurre fuera de la visibilidad de TI, exponiendo a las organizaciones a riesgos significativos como filtraciones de datos.
+
+2️⃣ Dos. **Nueva variante del troyano bancario TgToxic evoluciona con mejoras anti-análisis.** Investigadores de ciberseguridad han descubierto una versión actualizada del malware TgToxic, que roba credenciales y fondos de aplicaciones financieras, con nuevas capacidades para eludir esfuerzos de análisis.
+
+3️⃣ Tres. **Botnet PolarEdge explota vulnerabilidades de Cisco y otros para secuestrar dispositivos.** Una nueva campaña de malware está atacando dispositivos de Cisco, ASUS, QNAP y Synology, creando la botnet PolarEdge, que compromete miles de direcciones IP a nivel mundial.
+
+4️⃣ Cuatro. **Los Piratas del Espacio atacan firmas de TI rusas con el malware LuckyStrike Agent.** Un grupo de amenazas ha sido vinculado a ataques contra organizaciones rusas de TI utilizando un malware inédito llamado LuckyStrike Agent, especializado en el robo de información confidencial.
+
+5️⃣ Cinco. **Silver Fox APT utiliza malware Winos 4.0 en ataques cibernéticos contra organizaciones taiwanesas.** Una nueva campaña ha sido detectada en Taiwán, donde se utiliza malware Winos 4.0 en correos electrónicos de phishing, comprometiendo datos sensibles de empresas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

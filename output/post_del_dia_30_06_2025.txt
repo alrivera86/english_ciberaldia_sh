@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 30 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Blind Eagle usa Proton66 para phishing en bancos colombianos.** Un grupo cibercriminal llamado Blind Eagle está utilizando un servicio de hosting ruso para llevar a cabo ataques de phishing contra bancos en Colombia, como Bancolombia y Davivienda, con el fin de robar credenciales de usuarios.
+
+2️⃣ Dos. **Europol desmantela red de fraude con criptomonedas de 540 millones.** Europol ha arrestado a cinco sospechosos detrás de una estafa de inversión en criptomonedas que defraudó a más de 5,000 personas en todo el mundo, lavando 540 millones de dólares a través de plataformas falsas.
+
+3️⃣ Tres. **Citrix soluciona vulnerabilidad crítica en NetScaler.** Citrix ha publicado actualizaciones de seguridad para una falla crítica en su producto NetScaler ADC, que podría ser explotada por atacantes para tomar control de sistemas. Es crucial que las empresas actualicen sus sistemas.
+
+4️⃣ Cuatro. **Aumento de ataques de identidad en ciberseguridad.** Los ataques que suplantan la identidad de entidades para acceder a datos sensibles están en aumento. Se estima que 83% de los ataques involucran secretos comprometidos.
+
+5️⃣ Cinco. **FBI advierte sobre ataques a aerolíneas por Scattered Spider.** El FBI ha emitido una alerta sobre un grupo cibercriminal que está atacando el sector de aerolíneas utilizando técnicas de ingeniería social para obtener acceso inicial a sus sistemas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 12 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **El problema de la persistencia: por qué las credenciales expuestas siguen sin solucionarse.** Un nuevo informe revela que muchas contraseñas y secretos expuestos en repositorios públicos permanecen válidos durante años, aumentando el riesgo de ataques. Las organizaciones deben acelerar su remediación y adoptar mejores prácticas de gestión de secretos.
+
+2️⃣ Dos. **Herramientas de IA falsas usadas para difundir malware Noodlophile.** Cibercriminales han creado plataformas de IA engañosas para atraer a usuarios y robar información mediante un malware llamado Noodlophile. Estos sitios, promocionados en Facebook, engañan a las personas haciéndoles descargar archivos maliciosos al buscar herramientas de edición de video.
+
+3️⃣ Tres. **Las fallas de ASUS DriverHub permiten ejecución remota de comandos.** Se descubrió una vulnerabilidad en ASUS DriverHub que permite a sitios maliciosos ejecutar comandos en dispositivos afectados. ASUS lanzó una actualización para corregir este problema, pero los usuarios deben asegurarse de tener la última versión instalada.
+
+4️⃣ Cuatro. **Recapitulación semanal: exploits de día cero y malware para desarrolladores.** Esta semana, se observó un aumento en ataques cibernéticos que utilizan herramientas descuidadas y dispositivos IoT vulnerables. Los delincuentes están atacando software obsoleto y paquetes de código abierto, cambiando la forma en que se realizan los ataques.
+
+5️⃣ Cinco. **Problemas de seguridad en herramientas de software de código abierto.** Investigaciones recientes indican que muchas bibliotecas de código abierto están siendo utilizadas para introducir malware. Esto resalta la importancia de ser cauteloso al usar dependencias no verificadas en proyectos de desarrollo.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

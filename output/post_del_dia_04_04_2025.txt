@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 04 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Falla crítica en Ivanti expuesta para desplegar malware TRAILBLAZE y BRUSHFIRE.** Ivanti reveló una vulnerabilidad crítica en su Connect Secure, que permite a atacantes remotos ejecutar código arbitrario. La empresa advierte sobre actividades de explotación activas y recomienda actualizar a la versión corregida.
+
+2️⃣ Dos. **Fallo de OPSEC expone campañas de malware de Coquettte en servidores de hosting a prueba de balas.** Un actor de cibercrimen novato ha sido detectado utilizando un servicio de hosting ruso para distribuir malware, revelando una infraestructura maliciosa expuesta debido a fallos de seguridad operativa.
+
+3️⃣ Tres. **CERT-UA informa sobre ciberataques a sistemas estatales ucranianos con malware WRECKSTEEL.** Se han registrado ataques dirigidos a cuerpos de administración estatal en Ucrania, utilizando correos electrónicos comprometidos para enviar mensajes de phishing y robar datos sensibles.
+
+4️⃣ Cuatro. **Google corrige vulnerabilidad en Quick Share.** Investigadores han revelado una nueva vulnerabilidad en la utilidad Quick Share de Google para Windows, que permitía la transferencia de archivos sin consentimiento del usuario. La falla ha sido solucionada en la última versión del software.
+
+5️⃣ Cinco. **Adopción de IA en empresas enfrenta obstáculos de seguridad y cumplimiento.** A pesar de su potencial para revolucionar negocios, la implementación de IA a menudo se detiene debido a obstáculos de seguridad y cumplimiento, lo que retrasa la innovación frente a cibercriminales que ya aprovechan estas tecnologías.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

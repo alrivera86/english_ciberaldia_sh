@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 17 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Google advierte sobre ataques de Scattered Spider a empresas de seguros en EE.UU.** Un grupo de ciberdelincuentes llamado Scattered Spider ha comenzado a atacar compañías de seguros en EE.UU., utilizando tácticas de ingeniería social para eludir la seguridad. Se recomienda que las empresas refuercen sus medidas de autenticación y entrenen a su personal de soporte técnico.
+
+2️⃣ Dos. **Los olvidados cuentas de servicio de Active Directory ponen a las organizaciones en riesgo.** Muchas empresas tienen cuentas de servicio antiguas que pueden ser blanco fácil para los atacantes. Estas cuentas, que a menudo tienen contraseñas obsoletas, pueden ser utilizadas para acceder a sistemas críticos sin ser detectadas. Es crucial revisarlas y asegurar su gestión.
+
+3️⃣ Tres. **Un fallo en LangSmith puede exponer datos sensibles de usuarios.** Investigadores descubrieron una vulnerabilidad en la plataforma LangSmith que podría permitir a atacantes capturar información sensible, como claves API. Aunque el problema ya fue corregido, aún se recomienda precaución al utilizar agentes de IA de fuentes no confiables.
+
+4️⃣ Cuatro. **Nueva campaña de phishing en Taiwán utiliza malware avanzado.** Investigadores han detectado una campaña de phishing que ataca a usuarios en Taiwán, utilizando malware como Gh0stCringe. Los atacantes envían correos falsos que parecen provenir de entidades gubernamentales, intentando engañar a las víctimas para que abran archivos maliciosos.
+
+5️⃣ Cinco. **Google corrige una vulnerabilidad crítica en Chrome.** Se ha solucionado un grave fallo de seguridad en Google Chrome que permitía a los atacantes instalar un malware conocido como Trinper. Este problema fue explotado a través de correos electrónicos de phishing y es un recordatorio de la importancia de mantener el software actualizado.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

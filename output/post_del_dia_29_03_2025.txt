@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 29 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Robo de $8.2 millones en criptomonedas mediante estafas románticas.** El Departamento de Justicia de EE. UU. ha confiscado más de $8.2 millones en USDT robados a través de estafas de 'romance baiting', donde las víctimas son manipuladas para invertir en plataformas fraudulentas.
+
+2️⃣ Dos. **Ransomware BlackLock expuesto tras vulnerabilidad en su sitio.** Investigadores han infiltrado la infraestructura de la banda de ransomware BlackLock, revelando información crucial sobre su operación tras descubrir una vulnerabilidad en su sitio de filtración de datos. Las víctimas incluyen organizaciones en Argentina, Brasil y otros países.
+
+3️⃣ Tres. **Nuevo troyano Android Crocodilus roba credenciales bancarias.** Investigadores han detectado un nuevo malware llamado Crocodilus que ataca usuarios en España y Turquía, utilizando técnicas avanzadas para robar datos de aplicaciones financieras y criptomonedas mediante superposiciones de pantalla.
+
+4️⃣ Cuatro. **Flaws críticos en inversores solares de varias marcas.** Se han revelado 46 vulnerabilidades críticas en productos de inversores solares de Sungrow, Growatt y SMA, que podrían permitir a atacantes tomar control de los dispositivos y amenazar las redes eléctricas.
+
+5️⃣ Cinco. **Datto BCDR asegura continuidad del negocio.** Con el aumento de desastres tecnológicos, Datto BCDR se presenta como una solución integral para garantizar la continuidad del negocio, combinando recuperación local y en la nube para minimizar el tiempo de inactividad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

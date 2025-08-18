@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 05 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Dark Caracal utiliza Poco RAT para atacar empresas de habla hispana en América Latina.** Este grupo de amenazas ha desplegado un troyano de acceso remoto llamado Poco RAT, atacando a empresas en Chile, Venezuela y otros países de la región con técnicas de phishing que utilizan documentos maliciosos en español.
+
+2️⃣ Dos. **Google lanza detección de estafas con IA para Android para combatir fraudes conversacionales.** La nueva función busca proteger a los usuarios de Android de estafas telefónicas, identificando patrones sospechosos en tiempo real y permitiendo a los usuarios bloquear o reportar a los estafadores.
+
+3️⃣ Tres. **Defendiendo contra ataques de USB con Wazuh.** Se presenta Wazuh, una plataforma de seguridad que ayuda a las organizaciones a detectar y responder a amenazas relacionadas con ataques de USB, que pueden provocar brechas de datos y pérdidas financieras.
+
+4️⃣ Cuatro. **La APT china Lotus Panda apunta a gobiernos con nuevas variantes de Sagerunex.** Este grupo ha sido observado atacando sectores gubernamentales en Filipinas y Vietnam, utilizando un backdoor llamado Sagerunex para recopilar información de las víctimas y exfiltrarla a servidores remotos.
+
+5️⃣ Cinco. **Silk Typhoon amplía ataques cibernéticos a cadenas de suministro de TI.** Un grupo de actores de amenazas vinculado a China ha cambiado su enfoque para atacar la cadena de suministro de TI, utilizando credenciales robadas para infiltrarse en redes corporativas y ejecutar una variedad de ataques de espionaje.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

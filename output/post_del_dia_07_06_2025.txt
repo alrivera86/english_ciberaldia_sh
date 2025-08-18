@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 07 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Paquetes maliciosos de npm eliminan directorios de proyectos.** Se descubrieron dos paquetes en npm que se hacían pasar por utilidades útiles, pero en realidad borraban toda la información de las aplicaciones. Estos paquetes han sido eliminados tras ser reportados, pero causaron daños a varios desarrolladores.
+
+2️⃣ Dos. **El proveedor de internet indonesio Wadma Network supuestamente hackeado.** Un foro oscuro afirma haber filtrado bases de datos de esta empresa, lo que podría exponer información sensible de clientes y datos financieros. La seguridad del proveedor se encuentra bajo la lupa tras esta denuncia.
+
+3️⃣ Tres. **La Universidad Autónoma de Nuevo León (UANL) supuestamente comprometida.** Se reportó una filtración de datos sensibles de esta importante universidad en México. La información expuesta podría incluir datos personales de estudiantes y empleados, lo que genera preocupación por la seguridad de la comunidad universitaria.
+
+4️⃣ Cuatro. **El código fuente de un malware para macOS supuestamente a la venta.** Se informa que un sofisticado malware llamado "mac.c Stealer" está siendo vendido en la dark web. Esto representa una amenaza significativa para los usuarios de Mac, ya que podría facilitar ataques personalizados.
+
+5️⃣ Cinco. **Ataque a la cadena de suministro afecta paquetes de Gluestack en npm.** Se identificó un ataque que comprometió 16 paquetes populares en npm, inyectando código malicioso. Este código permitía a los atacantes tomar control remoto, afectando a cientos de miles de usuarios que descargaban estos paquetes.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 06 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nueva campaña de malware "Atomic macOS Stealer" ataca a usuarios de Apple.** Investigadores alertan sobre una campaña que usa tácticas de ingeniería social para engañar a los usuarios de macOS a descargar un malware que roba información. Esta amenaza destaca la importancia de estar alerta ante mensajes sospechosos.
+
+2️⃣ Dos. **Microsoft ayuda a desmantelar centros de llamadas fraudulentos en India.** La CBI de India arrestó a seis personas por operar centros de llamadas que estafaban a ciudadanos japoneses haciéndose pasar por soporte técnico. Esta acción resalta la colaboración internacional en la lucha contra el cibercrimen.
+
+3️⃣ Tres. **Malware "PathWiper" interrumpe infraestructura crítica en Ucrania.** Un nuevo malware ha atacado un ente de infraestructura en Ucrania, destruyendo datos críticos. Este ataque evidencia la amenaza constante que representa el cibercrimen en contextos de conflicto.
+
+4️⃣ Cuatro. **Aumento del uso de inteligencia artificial en empresas y riesgos asociados.** A medida que las herramientas de IA se vuelven comunes, muchas organizaciones enfrentan el desafío de proteger datos sensibles sin bloquear el acceso. Se enfatiza la necesidad de un enfoque equilibrado que permita el uso seguro de estas tecnologías.
+
+5️⃣ Cinco. **La validación de exposición adversarial (AEV) se vuelve esencial en ciberseguridad.** AEV se está adoptando para simular ataques cibernéticos y ayudar a las organizaciones a identificar vulnerabilidades. Esta técnica permite a los equipos de seguridad anticipar y mitigar riesgos de manera efectiva.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

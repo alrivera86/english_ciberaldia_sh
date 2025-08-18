@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 18 de junio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **CISA advierte sobre explotación activa de vulnerabilidad en el kernel de Linux.** La agencia CISA ha incluido una falla de seguridad del kernel de Linux en su catálogo de vulnerabilidades explotadas, que permite a usuarios no autorizados escalar privilegios en sistemas vulnerables. La vulnerabilidad fue parcheada a principios de 2023.
+
+2️⃣ Dos. **Water Curse emplea 76 cuentas de GitHub para entregar malware.** Investigadores han descubierto un grupo de hackers llamado Water Curse que utiliza repositorios de GitHub para distribuir malware. Este malware permite la exfiltración de datos, acceso remoto y persistencia en sistemas infectados, destacando la creciente amenaza del uso de plataformas legítimas para ataques.
+
+3️⃣ Tres. **Campaña de malware afecta a más de 1,500 jugadores de Minecraft.** Una nueva campaña de malware ha infectado a usuarios de Minecraft a través de mods falsos en GitHub. Este malware roba datos sensibles y se disfraza como herramientas de modificación del juego, resaltando los riesgos de descargar contenido de terceros.
+
+4️⃣ Cuatro. **FedRAMP a la velocidad de una startup: lecciones aprendidas.** Se discute cómo las startups pueden lograr la autorización FedRAMP, necesaria para operar en el mercado federal, sin comprometer su velocidad de desarrollo. Se recomienda construir seguridad desde el inicio y tener un equipo integrado para cumplir con los estrictos requisitos de compliance.
+
+5️⃣ Cinco. **Nueva campaña de malware utiliza técnicas de SVG para atacar a usuarios en Colombia.** Investigadores han identificado una campaña que utiliza archivos SVG maliciosos en correos de phishing para atacar a usuarios en Colombia. Los atacantes distribuyen correos que simulan notificaciones judiciales, infectando a los usuarios con troyanos de acceso remoto.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

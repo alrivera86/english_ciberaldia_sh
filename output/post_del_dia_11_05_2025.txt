@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 11 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **El hackeo de iClicker expone a estudiantes a malware.** La plataforma iClicker, popular entre estudiantes, fue hackeada usando un CAPTCHA falso que engañó a usuarios para que instalaran malware en sus dispositivos. Se recomienda cambiar contraseñas a quienes interactuaron con el sitio entre el 12 y el 16 de abril.
+
+2️⃣ Dos. **ChatGPT añade opción de descarga como PDF.** La herramienta de investigación de ChatGPT ahora permite guardar informes como PDF, lo que facilita mantener el formato original. Esta función está en prueba y promete mejorar la experiencia para quienes realizan investigaciones complejas.
+
+3️⃣ Tres. **Bluetooth 6.1 mejora la privacidad de los usuarios.** La nueva especificación de Bluetooth introduce direcciones privadas que cambian aleatoriamente, dificultando que terceros rastreen la actividad de los dispositivos. Esto es esencial para proteger la privacidad en un mundo cada vez más conectado.
+
+4️⃣ Cuatro. **Google paga $1.375 mil millones a Texas por seguimiento no autorizado.** Google acordó pagar casi $1.4 mil millones a Texas tras ser acusado de rastrear la ubicación de usuarios y recolectar datos biométricos sin permiso. Este acuerdo es un gran avance para la privacidad de los usuarios en el estado.
+
+5️⃣ Cinco. **Nueva función de Microsoft Teams evita capturas de pantalla.** Microsoft Teams lanzará una función que bloqueará la captura de pantalla durante reuniones, protegiendo la información compartida. Esta medida se implementará en julio de 2025, buscando mayor seguridad en el trabajo colaborativo.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

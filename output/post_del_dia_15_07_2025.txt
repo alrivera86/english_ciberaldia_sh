@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 15 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Ataques DDoS Hiper-Volumétricos Alcanzan Récord de 7.3 Tbps.** Cloudflare mitigó 7.3 millones de ataques DDoS en el segundo trimestre de 2025, destacando un ataque que alcanzó 7.3 terabits por segundo. Estos ataques afectan especialmente a sectores críticos como telecomunicaciones y servicios de internet.
+
+2️⃣ Dos. **Nuevo Grupo de Ransomware GLOBAL GROUP Utiliza Herramientas de IA.** Un nuevo grupo de ransomware, GLOBAL GROUP, ha comenzado a operar utilizando herramientas de negociación impulsadas por inteligencia artificial. Este grupo ha afectado a sectores en Australia, Brasil, Europa y Estados Unidos desde su aparición en junio de 2025.
+
+3️⃣ Tres. **Malware HazyBeacon Apunta a Gobiernos del Sudeste Asiático.** Un nuevo malware llamado HazyBeacon está atacando organizaciones gubernamentales en el Sudeste Asiático para robar información sensible. Utiliza servicios de Amazon Web Services para comunicarse y evitar ser detectado.
+
+4️⃣ Cuatro. **AsyncRAT Genera Nuevas Variantes de Malware Peligroso.** AsyncRAT, un troyano de acceso remoto, ha evolucionado desde su lanzamiento en 2019, generando múltiples variantes peligrosas. Su código abierto ha facilitado su proliferación en campañas de phishing, convirtiéndose en una amenaza común.
+
+5️⃣ Cinco. **Proteger la Identidad de los Agentes de IA es Crucial.** Los agentes de inteligencia artificial, que automatizan tareas, están incrementando el riesgo de seguridad al operar con identidades invisibles. Se recomienda aplicar controles de acceso y monitoreo continuo para evitar abusos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

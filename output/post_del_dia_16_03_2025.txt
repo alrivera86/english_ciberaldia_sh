@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 16 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Alertas de seguridad falsas en GitHub.** Una campaña de phishing ha atacado casi 12,000 repositorios de GitHub con falsas alertas de seguridad, engañando a desarrolladores para que autoricen una aplicación OAuth maliciosa que da control total a los atacantes sobre sus cuentas.
+
+2️⃣ Dos. **Aplicaciones OAuth maliciosas de Adobe y DocuSign.** Criminales cibernéticos promueven aplicaciones OAuth que simulan ser de Adobe y DocuSign para robar credenciales de cuentas de Microsoft 365. Estas aplicaciones piden permisos limitados para evitar detección y luego redirigen a formularios de phishing.
+
+3️⃣ Tres. **Túnel seguro de Intel para modelos de IA.** Intel presenta su servicio Tiber Secure Federated AI, que establece un túnel seguro entre modelos de IA en servidores remotos y fuentes de datos, mejorando la seguridad en el entrenamiento de modelos de inteligencia artificial.
+
+4️⃣ Cuatro. **Vulnerabilidad en software bancario.** Se ha descubierto una vulnerabilidad crítica en un popular software utilizado por bancos en Chile, lo que podría permitir a atacantes acceder a datos sensibles. Los desarrolladores han lanzado un parche urgente para mitigar riesgos.
+
+5️⃣ Cinco. **Aumento del ransomware en América Latina.** Un informe revela que los ataques de ransomware han aumentado significativamente en América Latina, afectando a diversas industrias, incluidas las finanzas. Las empresas son instadas a reforzar sus medidas de ciberseguridad.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 06 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Trend Micro Confirma Explotación Activa de Fallas Críticas en Apex One.** Trend Micro alertó sobre vulnerabilidades críticas en su consola de gestión Apex One que ya están siendo explotadas. Se trata de fallas que permiten a atacantes subir código malicioso y ejecutar comandos en sistemas vulnerables. Se espera un parche oficial para mediados de agosto.
+
+2️⃣ Dos. **Microsoft Lanza Proyecto Ire para Clasificar Malware con IA.** Microsoft presentó un agente de inteligencia artificial capaz de analizar y clasificar software de forma autónoma. Este sistema busca mejorar la detección de malware, acelerando la respuesta a amenazas y reduciendo el trabajo manual de los analistas.
+
+3️⃣ Tres. **AI Reduce Cargas de Trabajo para vCISOs en un 68%.** Un informe revela que las pequeñas y medianas empresas están demandando más servicios de vCISO, lo que ha llevado a un crecimiento del 319% en su adopción. La inteligencia artificial está optimizando estos servicios, permitiendo a los proveedores atender más clientes con mayor eficiencia.
+
+4️⃣ Cuatro. **Apps Falsas de VPN y Bloqueadores de Spam Usadas en Fraude Publicitario.** Se han detectado aplicaciones maliciosas que se hacen pasar por VPN y bloqueadores de spam en tiendas de aplicaciones. Estas apps engañan a los usuarios para que se suscriban a servicios costosos y roban información personal.
+
+5️⃣ Cinco. **Investigadores Descubren Fallo en Amazon ECS que Permite Robo de Credenciales.** Se identificó una vulnerabilidad en Amazon Elastic Container Service que permite a un contenedor malicioso robar credenciales de otros contenedores en la misma instancia. Esto podría permitir a atacantes acceder a datos sensibles y tomar control del entorno en la nube.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

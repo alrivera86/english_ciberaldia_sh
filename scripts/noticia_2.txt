@@ -1,0 +1,1 @@
+Dos. **Claude de Anthropic puede terminar conversaciones para prevenir abusos.** Anthropic ha actualizado su modelo de inteligencia artificial, Claude, permitiéndole finalizar conversaciones que considere peligrosas o abusivas. Esta medida busca proteger a los usuarios, aunque se aplicará solo en casos extremos.

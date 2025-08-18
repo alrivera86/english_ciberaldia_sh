@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 19 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers explotan grave falla de PHP para desplegar Quasar RAT y mineros de XMRig.** Los actores de amenazas están aprovechando una vulnerabilidad crítica en PHP para entregar mineros de criptomonedas y troyanos de acceso remoto. Se han observado intentos de explotación en varios países, incluida Brasil.
+
+2️⃣ Dos. **Filtraciones de chats de Black Basta sugieren ayuda de funcionarios rusos.** Los registros internos revelan posibles conexiones entre la operación de ransomware Black Basta y autoridades rusas, incluyendo la supuesta fuga de su líder tras su arresto en Armenia.
+
+3️⃣ Tres. **Webinar para eliminar ataques basados en identidad.** Un próximo webinar abordará cómo prevenir ataques como phishing y MFA bypass, ofreciendo estrategias proactivas para proteger las organizaciones en un entorno digital cada vez más amenazante.
+
+4️⃣ Cuatro. **ClearFake infecta 9,300 sitios usando reCAPTCHA falso.** La campaña ClearFake utiliza verificaciones engañosas para inducir a los usuarios a descargar malware, afectando tanto a sistemas Windows como macOS a través de sitios comprometidos.
+
+5️⃣ Cinco. **5 elementos esenciales para la detección y respuesta a amenazas de identidad en SaaS.** Los ataques basados en identidad están en aumento, y las organizaciones deben implementar soluciones robustas que aborden las amenazas únicas de los ecosistemas de identidad en SaaS.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

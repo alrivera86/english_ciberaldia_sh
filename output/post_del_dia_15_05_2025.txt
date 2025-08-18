@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 15 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Coinbase Agentes Sobornados, Datos de ~1% de Usuarios Filtrados; Intento de Extorsión de $20M Fallido.** Coinbase reveló que actores cibernéticos sobornaron a agentes de soporte para obtener datos de cuentas de menos del 1% de sus usuarios. Intentaron extorsionar a la empresa por $20 millones, pero no tuvieron éxito.
+
+2️⃣ Dos. **Nueva Vulnerabilidad en Chrome Permite Fugas de Datos entre Orígenes.** Google lanzó actualizaciones para Chrome tras descubrir una vulnerabilidad grave que permite a atacantes remotos filtrar datos sensibles. Los usuarios deben actualizar su navegador para protegerse de este riesgo.
+
+3️⃣ Tres. **5 Esenciales de BCDR para una Defensa Efectiva contra Ransomware.** Con el ransomware en aumento, es crucial tener una estrategia de recuperación sólida. Se sugiere seguir la regla 3-2-1 y asegurarse de que las copias de seguridad sean inmóviles y verificadas para una recuperación efectiva en caso de ataque.
+
+4️⃣ Cuatro. **Pen Testing Solo para Cumplimiento? Es Hora de Cambiar tu Enfoque.** Realizar pruebas de penetración solo para cumplir con normativas no es suficiente. Las empresas deben adoptar pruebas continuas para detectar vulnerabilidades antes de que los atacantes las exploten.
+
+5️⃣ Cinco. **Meta Entrenará IA con Datos de Usuarios de la UE Sin Consentimiento; Noyb Amenaza con Demandas.** La organización de privacidad austriaca noyb ha enviado una carta de cese a Meta, advirtiendo sobre acciones legales si continúa utilizando datos de usuarios europeos sin consentimientos claros para entrenar su inteligencia artificial.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 28 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Microsoft expone a los cibercriminales detrás del esquema de abuso de Azure AI.** Microsoft identificó a cuatro individuos involucrados en el esquema de LLMjacking, que accedieron ilegalmente a servicios de inteligencia artificial para generar contenido ofensivo y dañino. La investigación sigue en curso.
+
+2️⃣ Dos. **Más de 12,000 claves API y contraseñas encontradas en conjuntos de datos públicos utilizados para entrenamiento de LLM.** Un análisis reveló que un dataset de entrenamiento de modelos de lenguaje contiene miles de secretos activos, aumentando el riesgo de seguridad para usuarios y organizaciones.
+
+3️⃣ Tres. **PDFs de CAPTCHA falsos propagan el troyano Lumma a través de Webflow y GoDaddy.** Investigadores descubrieron una campaña de phishing que utiliza PDFs de CAPTCHA engañosos, afectando a más de 1,150 organizaciones y 7,000 usuarios en sectores como tecnología y servicios financieros.
+
+4️⃣ Cuatro. **RDP: una espada de doble filo para los equipos de TI - esencial pero explotable.** Aunque el Protocolo de Escritorio Remoto (RDP) permite la gestión remota de sistemas, su exposición a Internet lo convierte en un objetivo atractivo para los hackers, requiriendo medidas de seguridad estrictas.
+
+5️⃣ Cinco. **Cellebrite y el uso de un zero-day para desbloquear el teléfono de un activista en Serbia.** Un informe de Amnesty International reveló que un exploit desarrollado por Cellebrite se utilizó para desbloquear un teléfono Android de un activista, destacando la vulnerabilidad de los controladores USB de Android.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

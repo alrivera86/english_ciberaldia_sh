@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 05 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Ingram Micro sufre ataque de ransomware SafePay.** Un ataque de ransomware ha causado una interrupción en Ingram Micro, uno de los mayores distribuidores de tecnología del mundo. Los sistemas internos se apagaron y los empleados encontraron notas de rescate en sus dispositivos. La brecha se cree que ocurrió a través de su plataforma de VPN.
+
+2️⃣ Dos. **Alertan sobre vulnerabilidades en interfaces JDWP.** Investigadores han descubierto que las interfaces expuestas de Java Debug Wire Protocol (JDWP) están siendo utilizadas por atacantes para ejecutar código y desplegar mineros de criptomonedas. Esto se debe a la falta de medidas de seguridad en estas interfaces, que son comunes en entornos de desarrollo.
+
+3️⃣ Tres. **Taiwán advierte sobre riesgos de datos en apps chinas.** La Oficina de Seguridad Nacional de Taiwán ha alertado sobre aplicaciones chinas como TikTok y Weibo, que recogen excesiva información personal. Se recomienda a los usuarios tener precaución al elegir aplicaciones móviles, ya que podrían comprometer su privacidad.
+
+4️⃣ Cuatro. **Nuevo botnet Hpingbot se propaga por SSH.** Un nuevo malware llamado Hpingbot ha surgido, capaz de lanzar ataques DDoS y comprometer sistemas Windows y Linux. Este botnet utiliza configuraciones débiles de SSH para acceder a dispositivos y ejecutar ataques, mostrando la innovación de los ciberdelincuentes.
+
+5️⃣ Cinco. **Vulnerabilidades en plataformas de integración continua.** Se ha detectado que aplicaciones populares de integración continua, como TeamCity y Jenkins, pueden exponer interfaces JDWP sin protección adecuada. Esto permite a los atacantes ejecutar comandos maliciosos, poniendo en riesgo la seguridad de los sistemas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

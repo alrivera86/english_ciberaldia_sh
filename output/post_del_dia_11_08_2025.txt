@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 11 de agosto de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **WinRAR Zero-Day Bajo Activa Explotación – Actualiza a la Última Versión Inmediatamente.** Se ha descubierto una vulnerabilidad en WinRAR que permite ejecutar código malicioso al extraer archivos de un archivo comprimido. Los atacantes están utilizando esta falla, y se recomienda actualizar a la versión 7.13 para protegerse.
+
+2️⃣ Dos. **Investigadores Detectan Aumento en Explotaciones de RCE de Erlang/OTP SSH, 70% Apunta a Cortafuegos de OT.** Se han observado ataques que explotan una falla crítica en Erlang/OTP SSH, permitiendo la ejecución de código sin autenticación. Esto afecta principalmente a sistemas en sectores como salud y tecnología, donde se necesita urgente atención.
+
+3️⃣ Tres. **6 Lecciones Aprendidas: Enfocando la Seguridad Donde Está el Valor Empresarial.** Un nuevo enfoque en la gestión de la exposición de seguridad ayuda a las empresas a identificar y proteger activos críticos que son esenciales para su funcionamiento, mejorando así la eficiencia en la respuesta a incidentes.
+
+4️⃣ Cuatro. **Resumen Semanal: Ataque BadCam, WinRAR 0-Day, EDR Killer, Fallos de NVIDIA, Ataques de Ransomware y Más.** Esta semana, los atacantes están encontrando nuevas formas de explotar vulnerabilidades en software popular, resaltando la necesidad de mantener actualizadas las defensas de ciberseguridad.
+
+5️⃣ Cinco. **Investigadores Detectan Aumento en Explotaciones de RCE de Erlang/OTP SSH, 70% Apunta a Cortafuegos de OT.** Se han observado ataques que explotan una falla crítica en Erlang/OTP SSH, permitiendo la ejecución de código sin autenticación. Esto afecta principalmente a sistemas en sectores como salud y tecnología, donde se necesita urgente atención.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

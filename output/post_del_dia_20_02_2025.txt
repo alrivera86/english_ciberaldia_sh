@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 20 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **PCI DSS 4.0 Manda DMARC para el 31 de marzo de 2025.** La industria de tarjetas de pago establece un plazo crítico para implementar DMARC, enfatizando la importancia de prevenir fraudes por correo electrónico y ataques de phishing en el sector financiero. El incumplimiento podría resultar en multas de hasta $100,000.
+
+2️⃣ Dos. **Microsoft finaliza soporte para Exchange 2016 y 2019.** Microsoft ha anunciado que el soporte para Exchange Server 2016 y 2019 terminará el 14 de octubre de 2025, dejando a las empresas expuestas a riesgos de seguridad y cumplimiento si no migran a versiones más recientes o a la nube.
+
+3️⃣ Tres. **Cibercriminales usan Eclipse Jarsigner para desplegar malware XLoader.** Una campaña de malware ha sido observada utilizando la técnica de carga lateral de DLL con una aplicación legítima para distribuir XLoader, que roba información sensible del usuario y descarga malware adicional.
+
+4️⃣ Cuatro. **Grupo de atacantes vinculados a China explota falla de Check Point.** Un grupo desconocido ha atacado organizaciones europeas, especialmente en el sector salud, utilizando vulnerabilidades en productos de seguridad de Check Point para implementar malware y ransomware.
+
+5️⃣ Cinco. **Hackers norcoreanos atacan desarrolladores freelance con malware.** Una campaña en curso utiliza engaños relacionados con entrevistas de trabajo para entregar malware a desarrolladores de software, apuntando a robar información de criptomonedas y credenciales de acceso.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

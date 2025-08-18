@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 18 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Nueva vulnerabilidad crítica en AMI BMC permite toma de control remoto de servidores.** Se ha descubierto una vulnerabilidad crítica en el software MegaRAC de AMI que permite a un atacante eludir la autenticación y realizar acciones de post-explotación, afectando potencialmente a múltiples fabricantes de hardware.
+
+2️⃣ Dos. **Google adquiere Wiz por $32 mil millones en su mayor acuerdo.** Con esta compra, Google busca mejorar la seguridad en la nube y fomentar la adopción de soluciones multicloud, asegurando a sus clientes un entorno de TI más seguro y competitivo.
+
+3️⃣ Tres. **Falla de día cero en Windows explotada por grupos patrocinados por el estado.** Desde 2017, 11 grupos de ciberamenazas han aprovechado una vulnerabilidad en Windows para ejecutar comandos maliciosos, afectando a diversas organizaciones a nivel global.
+
+4️⃣ Cuatro. **Cómo mejorar la seguridad de Okta en cuatro pasos.** Un artículo destaca la importancia de monitorear continuamente la configuración de Okta y detectar riesgos de identidad para mantener la seguridad en el manejo de identidades corporativas.
+
+5️⃣ Cinco. **Nuevo ataque de 'Rules File Backdoor' permite inyección de código malicioso.** Investigadores han revelado un vector de ataque que afecta editores de código impulsados por IA, permitiendo a los hackers inyectar instrucciones maliciosas a través de archivos de configuración aparentemente inocentes.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

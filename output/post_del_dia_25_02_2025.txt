@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 25 de febrero de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **LightSpy se expande a más de 100 comandos.** Investigadores de ciberseguridad han identificado una versión actualizada de LightSpy, un software espía modular que puede infectar sistemas Windows y Apple. Esta versión incluye nuevas capacidades para recopilar datos de plataformas sociales como Facebook e Instagram.
+
+2️⃣ Dos. **Ghostwriter de Bielorrusia utiliza macros de Excel para desplegar malware.** Activistas bielorrusos y organizaciones militares ucranianas son blanco de una nueva campaña que utiliza documentos de Excel infectados para entregar una variante del malware PicassoLoader, en un esfuerzo por comprometer su seguridad.
+
+3️⃣ Tres. **Más de 2,500 variantes de Truesight.sys son explotadas para el RAT HiddenGh0st.** Una campaña de malware a gran escala utiliza un controlador de Windows vulnerable para eludir detección y desplegar el malware Gh0st RAT, afectando principalmente a usuarios en China y Asia.
+
+4️⃣ Cuatro. **GitVenom roba $456K en Bitcoin usando proyectos falsos de GitHub.** Investigadores han descubierto una campaña que se hace pasar por proyectos de código abierto en GitHub, robando datos personales y direcciones de criptobolsas, con un enfoque en gamers e inversores de criptomonedas.
+
+5️⃣ Cinco. **Cinco campañas activas de malware en el primer trimestre de 2025.** Se presenta un resumen de las campañas más notables y las técnicas empleadas por los ciberdelincuentes, incluyendo el uso de RAT, ransomware y métodos de engaño en línea.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

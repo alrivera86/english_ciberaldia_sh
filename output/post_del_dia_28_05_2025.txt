@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 28 de mayo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Fallo de seguridad en Microsoft OneDrive.** Investigadores han descubierto una vulnerabilidad en OneDrive que podría permitir a aplicaciones acceder a todo el contenido de la nube de un usuario, no solo a los archivos seleccionados para subir. Esto representa un gran riesgo para la privacidad y la seguridad de los datos personales.
+
+2️⃣ Dos. **Nuevo botnet PumaBot ataca dispositivos IoT.** Se ha detectado un botnet llamado PumaBot que apunta a dispositivos IoT con Linux. Este malware realiza ataques de fuerza bruta para robar credenciales SSH y utilizar los dispositivos para minar criptomonedas, lo que podría afectar a muchas empresas que dependen de estos dispositivos.
+
+3️⃣ Tres. **La República Checa culpa a hackers chinos por ciberataque.** El gobierno checo ha señalado a un grupo de hackers vinculado a China por un ataque cibernético a su Ministerio de Relaciones Exteriores. Este tipo de ataques pone en riesgo la seguridad de datos sensibles e infraestructura crítica en países de todo el mundo.
+
+4️⃣ Cuatro. **Robo de sesiones en ciberataques.** Un informe revela que los atacantes ahora roban no solo contraseñas, sino también sesiones activas en empresas. Esto les permite acceder a cuentas y datos críticos sin que se detecten, lo que representa un gran riesgo para la seguridad empresarial.
+
+5️⃣ Cinco. **Hacker iraní se declara culpable de ataque de ransomware.** Un hacker iraní ha admitido su culpabilidad en un ataque de ransomware que causó pérdidas de más de 19 millones de dólares a la ciudad de Baltimore. Este caso destaca la creciente amenaza de ciberataques a entidades gubernamentales y financieras.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

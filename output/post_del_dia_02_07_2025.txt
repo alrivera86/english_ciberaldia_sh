@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 02 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers utilizan PDFs para suplantar marcas famosas.** Investigadores de ciberseguridad advierten sobre campañas de phishing que imitan marcas como Microsoft y DocuSign, engañando a las víctimas para que llamen a números controlados por los atacantes. Este método, conocido como TOAD, aprovecha la confianza de los usuarios.
+
+2️⃣ Dos. **EE.UU. sanciona proveedor ruso de hosting.** El Departamento del Tesoro de EE.UU. ha impuesto sanciones a Aeza Group, un proveedor de hosting en Rusia, por ayudar a ciberdelincuentes en ataques de ransomware. Estas sanciones buscan desmantelar la infraestructura que apoya el cibercrimen a nivel global.
+
+3️⃣ Tres. **La herramienta de IA de Vercel es usada por cibercriminales.** Amenazadores han manipulado el generador de páginas de Vercel para crear rápidamente sitios de phishing que imitan a marcas legítimas. Esto facilita a los atacantes lanzar campañas engañosas sin necesidad de habilidades técnicas avanzadas.
+
+4️⃣ Cuatro. **Ciberamenazas se vuelven más sofisticadas.** Un informe revela que casi el 80% de las amenazas cibernéticas ahora imitan el comportamiento de usuarios legítimos, lo que dificulta su detección. Se están implementando nuevas estrategias de detección para enfrentar este desafío.
+
+5️⃣ Cinco. **Grupo de hackers norcoreanos apunta a Web3.** Investigadores han detectado a actores de amenazas relacionados con Corea del Norte atacando empresas de criptomonedas con malware. Este nuevo enfoque destaca la evolución constante de las tácticas de ciberataque, especialmente en el ámbito de las criptomonedas.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

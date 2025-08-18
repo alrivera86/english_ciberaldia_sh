@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 06 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Medusa Ransomware Afecta a Más de 40 Víctimas en 2025.** Los actores de amenazas detrás del ransomware Medusa han reclamado cerca de 400 víctimas desde su aparición en enero de 2023. En solo dos meses de 2025, han llevado a cabo más de 40 ataques, exigiendo rescates entre $100,000 y $15 millones.
+
+2️⃣ Dos. **Más de 1,000 Sitios de WordPress Infectados con Backdoors de JavaScript.** Se han infectado más de 1,000 sitios de WordPress con un código JavaScript malicioso que inyecta cuatro backdoors, permitiendo a los atacantes mantener múltiples puntos de reingreso. Se recomienda eliminar claves SSH no autorizadas y monitorear registros del sistema.
+
+3️⃣ Tres. **EncryptHub Despliega Ransomware y Stealer a Través de Apps Trojanizadas.** El grupo de amenazas EncryptHub ha sido observado orquestando sofisticadas campañas de phishing para desplegar robadores de información y ransomware, utilizando versiones trojanizadas de aplicaciones populares y servicios de distribución de pago por instalación.
+
+4️⃣ Cuatro. **Elastic Lanza Arreglo Urgente para Vulnerabilidad Crítica de Kibana.** Elastic ha publicado actualizaciones de seguridad para abordar una vulnerabilidad crítica en el software de visualización de datos Kibana, que podría permitir la ejecución de código arbitrario. Se recomienda a los usuarios aplicar los últimos parches.
+
+5️⃣ Cinco. **Superando Amenazas Cibernéticas con Gráficos de Ataque.** Las amenazas cibernéticas son cada vez más sofisticadas, y los gráficos de ataque ofrecen una forma estratégica de mapear posibles rutas de ataque, permitiendo a las organizaciones identificar y mitigar riesgos de manera más efectiva en tiempo real.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

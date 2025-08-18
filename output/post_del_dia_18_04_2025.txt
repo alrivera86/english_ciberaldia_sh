@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 18 de abril de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **CVE-2025-24054 Bajo Ataque Activo.** La CISA ha añadido a su catálogo una vulnerabilidad en Microsoft Windows que permite la divulgación de hashes NTLM. Desde el 19 de marzo, se ha reportado explotación activa, permitiendo a atacantes filtrar contraseñas y acceder a sistemas.
+
+2️⃣ Dos. **XorDDoS: Nueva Amenaza de DDoS.** Investigadores advierten sobre el malware XorDDoS, que ha aumentado en prevalencia, atacando principalmente sistemas Linux. La mayoría de los dispositivos comprometidos están en Estados Unidos, y se han observado nuevos controladores para gestionar ataques DDoS.
+
+3️⃣ Tres. **Ataque de Malware Multi-Stage.** Un nuevo ataque multi-etapa está entregando variantes de malware como Agent Tesla y XLoader. Este ataque utiliza correos electrónicos engañosos para distribuir archivos maliciosos que desencadenan una cadena de infección compleja.
+
+4️⃣ Cuatro. **Webinar sobre IA y Seguridad en SaaS.** Se abordarán los riesgos de la adopción no controlada de herramientas de IA en entornos SaaS. El evento ofrecerá estrategias para detectar y responder a amenazas emergentes relacionadas con integraciones de IA.
+
+5️⃣ Cinco. **Kit de Smishing Chino Afecta a Usuarios en EE.UU.** Investigadores alertan sobre una campaña de smishing que utiliza un kit desarrollado en China, atacando a usuarios de peajes en Estados Unidos, robando información financiera a través de enlaces fraudulentos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

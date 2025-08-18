@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 08 de julio de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers usan licencia filtrada de Shellter para esparcir malware.** Un grupo de hackers ha comenzado a utilizar una herramienta legítima llamada Shellter para distribuir malware. Esta situación se produjo porque una empresa filtró la licencia de la herramienta, lo que permitió a los delincuentes crear campañas de robo de información.
+
+2️⃣ Dos. **Troyano bancario Anatsa afecta a 90,000 usuarios en Google Play.** Investigadores han descubierto un malware que se disfraza de actualización de PDF en Google Play. Este troyano roba información bancaria de usuarios en América del Norte, mostrando mensajes falsos cuando intentan acceder a sus aplicaciones bancarias.
+
+3️⃣ Tres. **Ataque de cadena de suministro afecta a más de 6,000 desarrolladores.** Se ha detectado un ataque a una extensión de Visual Studio Code llamada Ethcode, que fue comprometida a través de un pull request en GitHub. Este ataque permite a los delincuentes instalar malware en las computadoras de los desarrolladores.
+
+4️⃣ Cuatro. **Identidad y credenciales en peligro en el sector retail.** Se han reportado múltiples brechas en grandes retailers como Adidas y Victoria's Secret, donde los atacantes han usado credenciales robadas para acceder a datos de clientes, destacando la importancia de proteger la higiene de las contraseñas.
+
+5️⃣ Cinco. **Botnet RondoDox explota vulnerabilidades en DVRs y routers.** Investigadores alertan sobre un malware que está atacando dispositivos como DVRs y routers. Este malware, llamado RondoDox, convierte estos dispositivos en una botnet, permitiendo realizar ataques DDoS y otros fraudes en línea.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️

@@ -1,0 +1,20 @@
+🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐
+📅 Fecha: 31 de marzo de 2025
+
+🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇
+
+1️⃣ Uno. **Hackers Explotan mu-Plugins de WordPress para Inyectar Spam y Secuestrar Imágenes del Sitio.** Los atacantes utilizan el directorio "mu-plugins" en sitios de WordPress para ocultar código malicioso, logrando acceso remoto y redirigiendo a los visitantes a sitios falsos. Estas técnicas dificultan la detección durante las verificaciones de seguridad.
+
+2️⃣ Dos. **Vulnerabilidades Críticas en Controlador NGINX de Ingress para Kubernetes.** Se han descubierto múltiples vulnerabilidades en el Controlador NGINX de Ingress, que podrían permitir la ejecución remota de código sin autenticación. Los responsables han corregido las fallas en las versiones más recientes del software.
+
+3️⃣ Tres. **Vulnerabilidades Impactantes de AWS de las que Eres Responsable.** Aunque AWS asegura su infraestructura, la seguridad en el entorno en la nube es responsabilidad del cliente. Vulnerabilidades como SSRF, controles de acceso débiles y falta de gestión de parches pueden exponer a las organizaciones a riesgos significativos.
+
+4️⃣ Cuatro. **Gamaredon Relacionado con Rusia Usa Trucos Relacionados con Tropas para Desplegar Remcos RAT en Ucrania.** Entidades en Ucrania han sido blanco de una campaña de phishing que distribuye el troyano de acceso remoto Remcos RAT, utilizando nombres de archivos en ruso relacionados con el movimiento de tropas para engañar a los receptores.
+
+5️⃣ Cinco. **Resumen Semanal: 0-Day de Chrome, IngressNightmare, Errores en Solar, y Más.** Se han abordado múltiples fallas críticas, incluyendo un 0-day en Chrome utilizado en ataques dirigidos a entidades rusas, y se han descubierto vulnerabilidades en inversores solares que podrían permitir a los atacantes tomar el control de los dispositivos.
+
+✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.
+
+🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática
+
+📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️
