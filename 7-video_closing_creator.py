@@ -2,8 +2,8 @@ import os
 from moviepy.editor import VideoFileClip
 
 # Directorios
-VIDEOS_DIR = "/home/arivera/ciberaldia_sh/videos"
-OUTPUT_DIR = "/home/arivera/ciberaldia_sh/output"
+VIDEOS_DIR = "/home/arivera/english_ciberaldia_sh/videos"
+OUTPUT_DIR = "/home/arivera/english_ciberaldia_sh/output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def create_closing_video():

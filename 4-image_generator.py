@@ -9,12 +9,12 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Carpeta donde se guardarán las imágenes
-IMAGES_DIR = "/home/arivera/ciberaldia_sh/images"
+IMAGES_DIR = "/home/arivera/english_ciberaldia_sh/images"
 os.makedirs(IMAGES_DIR, exist_ok=True)
 
 def get_latest_news_file():
     """Encuentra el archivo JSON más reciente con noticias."""
-    news_dir = "/home/arivera/ciberaldia_sh/news_archive"
+    news_dir = "/home/arivera/english_ciberaldia_sh/news_archive"
     latest_file = None
     latest_time = None
 

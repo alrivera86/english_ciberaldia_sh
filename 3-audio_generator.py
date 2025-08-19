@@ -7,12 +7,12 @@ ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY")
 ELEVENLABS_VOICE_ID = "JBFqnCBsd6RMkjVDRZzb"  # Puedes cambiar la voz si quieres
 
 # Carpeta donde se guardarán los audios
-AUDIO_DIR = "/home/arivera/ciberaldia_sh/audio"
+AUDIO_DIR = "/home/arivera/english_ciberaldia_sh/audio"
 os.makedirs(AUDIO_DIR, exist_ok=True)
 
 def get_script_files():
     """Obtiene la lista de archivos de guion en la carpeta scripts."""
-    scripts_dir = "/home/arivera/ciberaldia_sh/scripts"
+    scripts_dir = "/home/arivera/english_ciberaldia_sh/scripts"
     return sorted([os.path.join(scripts_dir, f) for f in os.listdir(scripts_dir) if f.startswith("noticia_") and f.endswith(".txt")])
 
 def read_script(file_path):

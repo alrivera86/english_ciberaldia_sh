@@ -13,7 +13,7 @@ fecha_formateada = fecha_correcta.strftime("%d_%m_%Y")  # Formato: DD_MM_AAAA
 
 
 # Directorio donde se guardan los videos generados
-OUTPUT_DIR = "/home/arivera/ciberaldia_sh/output"
+OUTPUT_DIR = "/home/arivera/english_ciberaldia_sh/output"
 
 def merge_videos():
     """Une los videos de introducción, noticias y cierre en un solo archivo final con transiciones suaves."""

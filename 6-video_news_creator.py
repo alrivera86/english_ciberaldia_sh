@@ -6,11 +6,11 @@ from moviepy.video.fx.fadeout import fadeout
 from moviepy.audio.AudioClip import CompositeAudioClip
 
 # Directorios de los archivos generados
-VIDEOS_DIR = "/home/arivera/ciberaldia_sh/videos"
-OUTPUT_DIR = "/home/arivera/ciberaldia_sh/output"
-SCRIPTS_DIR = "/home/arivera/ciberaldia_sh/scripts"
-IMAGES_DIR = "/home/arivera/ciberaldia_sh/images"
-AUDIO_DIR = "/home/arivera/ciberaldia_sh/audio"
+VIDEOS_DIR = "/home/arivera/english_ciberaldia_sh/videos"
+OUTPUT_DIR = "/home/arivera/english_ciberaldia_sh/output"
+SCRIPTS_DIR = "/home/arivera/english_ciberaldia_sh/scripts"
+IMAGES_DIR = "/home/arivera/english_ciberaldia_sh/images"
+AUDIO_DIR = "/home/arivera/english_ciberaldia_sh/audio"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def extract_title_and_description(script_path):

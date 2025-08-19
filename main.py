@@ -17,15 +17,15 @@ MAKE_WEBHOOK_URL = "https://automatizacion.ciberaldia.com/n8n/webhook/e72d3d88-2
 
 # Lista de scripts a ejecutar en orden
 scripts = [
-    "news_extractor.py",
-    "gpt_generator.py",
-    "audio_generator.py",
-    "image_generator.py",
-    "video_intro_creator.py",
-    "video_news_creator.py",
-    "video_closing_creator.py",
-    "final_video_creator.py",
-    "generar_post.py"
+    "1-news_extractor.py",
+    "2-gpt_generator.py",
+    "3-audio_generator.py",
+    "4-image_generator.py",
+    "5-video_intro_creator.py",
+    "6-video_news_creator.py",
+    "7-video_closing_creator.py",
+    "8-final_video_creator.py",
+    "9-generar_post.py"
 ]
 
 def run_script(script_name):
