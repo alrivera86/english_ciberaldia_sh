@@ -5,7 +5,7 @@ import json
 from dotenv import load_dotenv
 
 # Definir el directorio base donde están los scripts
-WORK_DIR = "/home/arivera/ciberaldia_sh/"
+WORK_DIR = "/home/arivera/english_ciberaldia_sh/"
 
 # Cargar variables de entorno desde el archivo .credential
 dotenv_path = os.path.join(WORK_DIR, ".credential")
@@ -54,19 +54,19 @@ if __name__ == "__main__":
     print("\n🎬 ¡Proceso completado! El video final ha sido generado.\n")
 
     # 🔥 Disparar el webhook de Make cuando todo finalice
-    try:
-        payload = {
-            "message": "Video y post generados exitosamente",
-            "video_url": "http://82.25.74.175:8000/videos/final_video.mp4",
-            "post_url": "http://82.25.74.175:8000/post"
-        }
+#    try:
+#        payload = {
+#            "message": "Video y post generados exitosamente",
+#            "video_url": "http://82.25.74.175:8000/videos/final_video.mp4",
+#            "post_url": "http://82.25.74.175:8000/post"
+#        }
         #response = requests.post(MAKE_WEBHOOK_URL, data=json.dumps(payload), headers={"Content-Type": "application/json"})
-        response = requests.get(MAKE_WEBHOOK_URL, params=payload)
-
-        if response.status_code == 200:
-            print("✅ Webhook de Make ejecutado correctamente.")
-        else:
-            print(f"⚠️ Error al ejecutar el webhook: {response.status_code}, {response.text}")
-
-    except Exception as e:
-        print(f"❌ Error al llamar al webhook de Make: {str(e)}")
+        #response = requests.get(MAKE_WEBHOOK_URL, params=payload)
+#
+#        if response.status_code == 200:
+#            print("✅ Webhook de Make ejecutado correctamente.")
+#        else:
+#            print(f"⚠️ Error al ejecutar el webhook: {response.status_code}, {response.text}")
+#
+#    except Exception as e:
+#        print(f"❌ Error al llamar al webhook de Make: {str(e)}")
