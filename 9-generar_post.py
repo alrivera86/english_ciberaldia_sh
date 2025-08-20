@@ -21,13 +21,13 @@ OUTPUT_DIR = "/home/arivera/english_ciberaldia_sh/output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Emojis de encabezado
-HEADER = "🛡️ ¿Qué pasó hoy en Ciberseguridad? 🔐"
+HEADER = "🛡️ What happened today in Cybersecurity? 🔐"
 # Formatear la fecha en español
-DATE = f"📅 Fecha: {fecha_correcta.strftime('%d de %B de %Y')}\n"
+DATE = f"📅 Date: {fecha_correcta.strftime('%B %d, %Y')}\n"
 
 # DATE = f"📅 Fecha: {datetime.datetime.today().strftime('%d de %B de %Y')}\n"
 
-INTRO = "🔎 ¡Mantente informado con las noticias más importantes del mundo digital! 👇\n"
+INTRO = "🔎 Stay informed with the most important news from the digital world! 👇\n"
 
 # Lista de emojis para cada noticia
 NEWS_ICONS = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"]
@@ -47,7 +47,7 @@ if not news_posts:
     exit()
 
 # Crear el post
-POST_CONTENT = f"{HEADER}\n{DATE}\n{INTRO}\n" + "\n\n".join(news_posts) + "\n\n✨ Mantente alerta y protege tu información. Síguenos para más actualizaciones diarias sobre ciberseguridad.\n\n🔔 #Ciberseguridad #SeguridadDigital #NoticiasTech #ProtegeTuInfo #Hackers #Tecnología #NoticiasDeHoy #SeguridadInformática\n\n📲 ¿Cuál de estas noticias te impactó más? ¡Déjalo en los comentarios! ⬇️"
+POST_CONTENT = f"{HEADER}\n{DATE}\n{INTRO}\n" + "\n\n".join(news_posts) + "\n\n✨ Stay alert and protect your information. Follow us for more daily cybersecurity updates.\n\n🔔 #Cybersecurity #DigitalSecurity #TechNews #ProtectYourInfo #Hackers #Technology #TodayNews #InfoSec\n\n📲 Which of these news stories impacted you the most? Let us know in the comments! ⬇️"
 
 # Guardar en archivo
 post_file_path = os.path.join(OUTPUT_DIR, "post_del_dia.txt")

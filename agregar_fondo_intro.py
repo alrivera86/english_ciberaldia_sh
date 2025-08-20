@@ -3,10 +3,10 @@ from moviepy.editor import VideoFileClip, ImageClip, CompositeVideoClip
 from moviepy.video.fx.all import resize
 
 # Directorios
-VIDEO_DIR = "/home/arivera/ciberaldia_sh/videos"
-OUTPUT_DIR = "/home/arivera/ciberaldia_sh/output"
-IMAGES_DIR = "/home/arivera/ciberaldia_sh/images"
-VIDEO_INPUT_PATH = os.path.join(VIDEO_DIR, "Base_INTRO_CON_VOZ_CiberAldia.mp4")
+VIDEO_DIR = "/home/arivera/english_ciberaldia_sh/videos"
+OUTPUT_DIR = "/home/arivera/english_ciberaldia_sh/output"
+IMAGES_DIR = "/home/arivera/english_ciberaldia_sh/images"
+VIDEO_INPUT_PATH = os.path.join(VIDEO_DIR, "Base_INTRO_CON_VOZ_cyberdailyworld.mp4")
 VIDEO_OUTPUT_PATH = os.path.join(OUTPUT_DIR, "intro_video_CON_FONDO.mp4")
 
 # Cargar video principal

@@ -18,16 +18,11 @@ def create_intro():
     """Crea el video de introducción con la fecha dinámica."""
     
     # Cargar video de introducción
-    intro_video = VideoFileClip(os.path.join(VIDEOS_DIR, "Base_INTRO_CON_VOZ_CiberAldia.mp4"))
+    intro_video = VideoFileClip(os.path.join(VIDEOS_DIR, "Base_INTRO_CON_VOZ_cyberdailyworld.mp4"))
     
     # Generar fecha dinámica en español
-    import locale
-    locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
-    # Hora como se mostraba inicialmente
-    #today_date = datetime.now().strftime("%d de %B de %Y")
     # Hora restando los dias necesarios
-    today_date = (datetime.today() - timedelta(days=DAYS_OFFSET)).strftime("%d de %B de %Y")
-    
+    today_date = (datetime.today() - timedelta(days=DAYS_OFFSET)).strftime("%Y-%m-%d")
     
     
     

@@ -10,7 +10,7 @@ def create_closing_video():
     """Genera el video de cierre final."""
     
     # Cargar el video de cierre
-    closing_video = VideoFileClip(os.path.join(VIDEOS_DIR, "Base_FIN_CON_VOZ_CiberAldia.mp4"))
+    closing_video = VideoFileClip(os.path.join(VIDEOS_DIR, "Base_INTRO_CON_VOZ_cyberdailyworld.mp4"))
     
     # Definir la ruta de salida
     output_path = os.path.join(OUTPUT_DIR, "closing_video.mp4")
