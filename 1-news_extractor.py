@@ -8,7 +8,7 @@ from config import DAYS_OFFSET  # Importamos el valor desde config.py
 
 
 # Directorio de almacenamiento
-BASE_DIR = "/home/arivera/engish_ciberaldia_sh/news_archive"
+BASE_DIR = "/home/arivera/english_ciberaldia_sh/news_archive"
 os.makedirs(BASE_DIR, exist_ok=True)
 
 # Lista de fuentes RSS

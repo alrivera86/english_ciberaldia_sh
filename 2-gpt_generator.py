@@ -9,8 +9,8 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 GPT_MODEL = "gpt-4o-mini"
 
 # Ruta donde se guardan las noticias extraídas
-NEWS_DIR = "/home/arivera/engish_ciberaldia_sh/news_archive"
-SCRIPTS_DIR = "/home/arivera/engish_ciberaldia_sh/scripts"
+NEWS_DIR = "/home/arivera/english_ciberaldia_sh/news_archive"
+SCRIPTS_DIR = "/home/arivera/english_ciberaldia_sh/scripts"
 os.makedirs(SCRIPTS_DIR, exist_ok=True)
 
 def get_latest_news_file():

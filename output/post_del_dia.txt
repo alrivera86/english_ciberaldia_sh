@@ -3,15 +3,15 @@
 
 🔎 Stay informed with the most important news from the digital world! 👇
 
-1️⃣ Uno. **EE.UU. incauta $2.8 millones en criptomonedas de operador de ransomware.** El Departamento de Justicia de EE.UU. anunció la incautación de más de $2.8 millones en criptomonedas de Ianis Antropenko, vinculado a la operación de ransomware Zeppelin, que atacó a varios negocios a nivel mundial, buscando rescates por datos secuestrados.
+1️⃣ One. DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft. A new security flaw in popular web browser password managers allows hackers to steal sensitive information like login credentials and credit card details through a deceptive click on fake websites. Users are advised to disable auto-fill features until fixes are made.
 
-2️⃣ Dos. **Claude de Anthropic puede terminar conversaciones para prevenir abusos.** Anthropic ha actualizado su modelo de inteligencia artificial, Claude, permitiéndole finalizar conversaciones que considere peligrosas o abusivas. Esta medida busca proteger a los usuarios, aunque se aplicará solo en casos extremos.
+2️⃣ Two. FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage. A Russian hacking group is using an old security flaw in Cisco devices to gather sensitive information from organizations across various sectors. The FBI urges affected entities to patch their systems to prevent unauthorized access.
 
-3️⃣ Tres. **OpenAI Prepara un Navegador de IA para Competir con Google.** OpenAI está desarrollando un navegador impulsado por inteligencia artificial que podría cambiar la forma en que navegamos por internet. Este nuevo navegador promete funciones innovadoras que facilitan la búsqueda y gestión de información, marcando un avance en la tecnología de navegación.
+3️⃣ Three. Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts. Researchers discovered a way to trick AI-driven browsers into interacting with fake websites without users realizing it. This exploit could lead to unauthorized purchases and data theft, highlighting the need for better security measures.
 
-4️⃣ Cuatro. **OpenAI Trabaja en un Plan Más Económico para ChatGPT.** Se rumorea que OpenAI lanzará un plan más asequible para ChatGPT, permitiendo a más usuarios acceder a su tecnología de inteligencia artificial. Este plan podría motivar a jóvenes y estudiantes a experimentar con IA sin gastar mucho dinero.
+4️⃣ Four. Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do. A new webinar discusses the risks of "shadow AI agents"—unmonitored AI programs running in businesses that can be exploited by hackers. Understanding and controlling these agents is crucial for maintaining security.
 
-5️⃣ Cinco. **Mejoras en el Modo de Voz de ChatGPT.** OpenAI está mejorando su función de voz en ChatGPT, permitiendo a los usuarios controlar la velocidad de respuesta. Estas actualizaciones buscan hacer la interacción más fluida y personalizada, lo que puede atraer a un público más amplio interesado en la tecnología de voz.
+5️⃣ Five. From Impact to Action: Turning BIA Insights Into Resilient Recovery. Businesses need to analyze risks and disruptions to develop effective recovery plans. A structured approach called Business Impact Analysis (BIA) helps identify critical functions to prioritize during emergencies, ensuring swift recovery and continuity.
 
 ✨ Stay alert and protect your information. Follow us for more daily cybersecurity updates.
 
