@@ -123,11 +123,11 @@ The titles of each news item must be in English.
 
 The output format must always begin with:
 
-"One. **News Title. Description of the news**, detailing the event in no more than 50 words.
-Two. **News Title. Description of the news**, detailing the event in no more than 50 words.
-Three. **News Title. Description of the news**, detailing the event in no more than 50 words.
-Four. **News Title. Description of the news**, detailing the event in no more than 50 words.
-Five. **News Title. Description of the news**, detailing the event in no more than 50 words.
+"One. **News Title.** Description of the news, detailing the event in no more than 50 words.
+Two. **News Title.** Description of the news, detailing the event in no more than 50 words.
+Three. **News Title.** Description of the news, detailing the event in no more than 50 words.
+Four. **News Title.** Description of the news, detailing the event in no more than 50 words.
+Five. **News Title.** Description of the news, detailing the event in no more than 50 words.
 
 {json.dumps(news_data[:5], ensure_ascii=False, indent=2)}  # Take the 5 most recent
 
