@@ -1,17 +1,17 @@
 🛡️ What happened today in Cybersecurity? 🔐
-📅 Date: agosto 20, 2025
+📅 Date: agosto 21, 2025
 
 🔎 Stay informed with the most important news from the digital world! 👇
 
-1️⃣ One. **FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage.** The FBI has issued a warning about a Russian hacking group called Static Tundra, which is using a serious flaw in Cisco software to spy on organizations in various sectors. They target firms in telecom, education, and manufacturing, aiming to steal sensitive data.
+1️⃣ One. **Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft.** A 20-year-old hacker linked to the Scattered Spider gang has been sentenced to ten years in prison for stealing $800,000 in cryptocurrency. He used SIM swapping attacks, which trick phone companies into transferring victims' numbers to his device.
 
-2️⃣ Two. **Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts.** Researchers have discovered a new trick called PromptFix that can deceive AI-enabled browsers into performing harmful actions. This includes clicking on fake buttons or entering credentials on phishing sites without the user's knowledge, highlighting the risks of using AI for online tasks.
+2️⃣ Two. **Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025.** A new report reveals that 46% of organizations failed to prevent password cracking attacks. This means many are using weak passwords, making it easy for hackers to gain unauthorized access to sensitive data.
 
-3️⃣ Three. **DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft.** A new security flaw in popular password manager extensions allows attackers to steal sensitive information with just one click. Experts recommend users turn off auto-fill features until fixes are implemented to protect their data.
+3️⃣ Three. **Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger.** A new malware called QuirkyLoader is being spread through email spam, delivering harmful software like keyloggers and remote access tools. This malware can steal sensitive information from infected users.
 
-4️⃣ Four. **🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do.** Many businesses unknowingly use AI agents that could pose security risks. A webinar discusses how to identify and manage these agents to prevent hackers from exploiting them, as they can operate without oversight and potentially compromise sensitive data.
+4️⃣ Four. **Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages.** Hackers are using a new backdoor named CORNFLAKE.V3, tricking users into running malicious scripts through fake CAPTCHA pages, allowing them to take control of victims' systems.
 
-5️⃣ Five. **From Impact to Action: Turning BIA Insights Into Resilient Recovery.** Businesses face increasing cyber threats, making it crucial to have a solid recovery plan. Conducting a Business Impact Analysis (BIA) helps organizations identify critical operations and prepare for disruptions, ensuring they can recover quickly from incidents.
+5️⃣ Five. **Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks.** Commvault has fixed security flaws that could let hackers run malicious code on affected systems without needing a password. This highlights the importance of keeping software updated to avoid potential attacks.
 
 ✨ Stay alert and protect your information. Follow us for more daily cybersecurity updates.
 

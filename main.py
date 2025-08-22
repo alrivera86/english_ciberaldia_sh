@@ -17,8 +17,8 @@ MAKE_WEBHOOK_URL = "https://automatizacion.ciberaldia.com/n8n/webhook/e72d3d88-2
 
 # Lista de scripts a ejecutar en orden
 scripts = [
-#    "1-news_extractor.py",
-#    "2-gpt_generator.py",
+    "1-news_extractor.py",
+    "2-gpt_generator.py",
     "3-audio_generator.py",
     "4-image_generator.py",
     "5-video_intro_creator.py",

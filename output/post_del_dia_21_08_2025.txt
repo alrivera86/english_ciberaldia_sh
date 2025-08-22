@@ -1,0 +1,20 @@
+🛡️ What happened today in Cybersecurity? 🔐
+📅 Date: agosto 21, 2025
+
+🔎 Stay informed with the most important news from the digital world! 👇
+
+1️⃣ One. **Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft.** A 20-year-old hacker linked to the Scattered Spider gang has been sentenced to ten years in prison for stealing $800,000 in cryptocurrency. He used SIM swapping attacks, which trick phone companies into transferring victims' numbers to his device.
+
+2️⃣ Two. **Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025.** A new report reveals that 46% of organizations failed to prevent password cracking attacks. This means many are using weak passwords, making it easy for hackers to gain unauthorized access to sensitive data.
+
+3️⃣ Three. **Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger.** A new malware called QuirkyLoader is being spread through email spam, delivering harmful software like keyloggers and remote access tools. This malware can steal sensitive information from infected users.
+
+4️⃣ Four. **Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages.** Hackers are using a new backdoor named CORNFLAKE.V3, tricking users into running malicious scripts through fake CAPTCHA pages, allowing them to take control of victims' systems.
+
+5️⃣ Five. **Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks.** Commvault has fixed security flaws that could let hackers run malicious code on affected systems without needing a password. This highlights the importance of keeping software updated to avoid potential attacks.
+
+✨ Stay alert and protect your information. Follow us for more daily cybersecurity updates.
+
+🔔 #Cybersecurity #DigitalSecurity #TechNews #ProtectYourInfo #Hackers #Technology #TodayNews #InfoSec
+
+📲 Which of these news stories impacted you the most? Let us know in the comments! ⬇️
